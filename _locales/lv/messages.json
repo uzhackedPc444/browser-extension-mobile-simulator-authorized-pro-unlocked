@@ -1,0 +1,1406 @@
+{
+  "extName": {
+    "message": "Mobilā tālruņa simulators - pārbaudiet atsaucīgu vietni"
+  },
+  "extDescription": {
+    "message": "Phone Simulator — bezmaksas Chrome paplašinājums, lai pārbaudītu un priekšskatītu jūsu vietnes vairāk nekā 80 ierīcēs"
+  },
+  "global": {
+    "message": "--------------------------------------------------------"
+  },
+  "android_smartphone": {
+    "message": "<i class='mdi'>&#xe922;</i> Android tālruņi"
+  },
+  "apple_smartphone": {
+    "message": "<i class='mdi'>&#xeabe;</i> Apple tālruņi"
+  },
+  "tablet": {
+    "message": "<i class='mdi'>&#xe920;</i> Planšetdatori"
+  },
+  "others": {
+    "message": "<i class='mdi'>&#xe921;</i> Īpašie"
+  },
+  "copied": {
+    "message": "Kopēts"
+  },
+  "error": {
+    "message": "Kļūda"
+  },
+  "link": {
+    "message": "Saite"
+  },
+  "optional": {
+    "message": "Neobligāti"
+  },
+  "close": {
+    "message": "Aizvērt"
+  },
+  "get_pro": {
+    "message": "Iegūt PRO versiju"
+  },
+  "error_contact": {
+    "message": "{Lūdzu, sazinieties ar mums}, ja problēma saglabājas."
+  },
+  "more_settings": {
+    "message": "Vairāk iestatījumu"
+  },
+  "dimensions": {
+    "message": "Izmēri"
+  },
+  "context_menu": {
+    "message": "--------------------------------------------------------"
+  },
+  "context_menu_activate": {
+    "message": "Aktivizēt mobilo skatu šajā cilnē"
+  },
+  "popup": {
+    "message": "--------------------------------------------------------"
+  },
+  "popup_site_incompatible": {
+    "message": "Simulators nav aktivizējams šajā jūsu pārlūkprogrammas vietējā lapā. Mēģiniet citā cilnē vai pārlūkojiet vietni un pēc tam atkārtoti palaidiet."
+  },
+  "popup_activate_local_files_info": {
+    "message": "Šo simulatoru pēc noklusējuma nevar aktivizēt vietējiem failiem (file:///), bet jūs varat manuāli aktivizēt opciju Chrome iestatījumos."
+  },
+  "popup_activate_local_files_button": {
+    "message": "Aktivizēt opciju"
+  },
+  "menu": {
+    "message": "--------------------------------------------------------"
+  },
+  "menu_close_alone": {
+    "message": "Atspējot simulatoru"
+  },
+  "menu_change_device": {
+    "message": "Mainīt ierīci vai salīdzināt"
+  },
+  "menu_contact_devices": {
+    "message": "<i class='mdi'>&#xe900;</i> Ierīce, kuru meklējat, nav sarakstā? Paziņojiet mums!"
+  },
+  "menu_info_device": {
+    "message": "Šīs ierīces īpašības un makets"
+  },
+  "menu_info_device_features": {
+    "message": "Īpašības (skatloga izšķirtspēja utt.)"
+  },
+  "menu_info_device_mockup": {
+    "message": "Bezmaksas makets caurspīdīgā PNG formātā"
+  },
+  "menu_rotate": {
+    "message": "Mainīt orientāciju"
+  },
+  "menu_zoom": {
+    "message": "Pietuvināt ierīcē"
+  },
+  "menu_screenshot": {
+    "message": "Veikt ekrānuzņēmumu"
+  },
+  "menu_screencast": {
+    "message": "Ierakstīt ekrāna video"
+  },
+  "menu_share": {
+    "message": "Dalīties ar kolēģi, draugu,..."
+  },
+  "menu_send_improvement": {
+    "message": "Ieteikt uzlabojumu"
+  },
+  "menu_send_message": {
+    "message": "Palīdzības centrs"
+  },
+  "menu_faq_title": {
+    "message": "Biežāk uzdotie jautājumi"
+  },
+  "menu_faq_media_queries": {
+    "message": "Mani mediju vaicājumi netiek ņemti vērā"
+  },
+  "menu_faq_ignonito_mode": {
+    "message": "Kā aktivizēt simulatoru privātajā pārlūkošanā?"
+  },
+  "menu_faq_scroll": {
+    "message": "Nevar ritināt simulatorā"
+  },
+  "menu_faq_subscription": {
+    "message": "Kāpēc mans abonements nedarbojas?"
+  },
+  "menu_faq_shortcut": {
+    "message": "Kā iestatīt tastatūras īsceļus?"
+  },
+  "menu_faq_all": {
+    "message": "Skatīt visus biežāk uzdotos jautājumus"
+  },
+  "menu_report": {
+    "message": "Ziņot par kļūdu"
+  },
+  "menu_settings": {
+    "message": "Konfigurācija"
+  },
+  "menu_extensions": {
+    "message": "Atklājiet mūsu citas Chrome paplašinājumus"
+  },
+  "menu_vote_feature": {
+    "message": "Balsot par funkcijām, kuras vēlaties"
+  },
+  "simulator": {
+    "message": "--------------------------------------------------------"
+  },
+  "simulator_header_info": {
+    "message": "Šis ir tikai attēls. Lai mainītu URL, izmantojiet Chrome lauku augstāk."
+  },
+  "simulator_footer_info": {
+    "message": "Šis ir tikai attēls. Izmantojiet savu tastatūru."
+  },
+  "screencast": {
+    "message": "--------------------------------------------------------"
+  },
+  "screencast_tooltip_device": {
+    "message": "Tikai ierīces video ieraksts"
+  },
+  "screencast_tooltip_tab": {
+    "message": "Cilnes video ieraksts ar ierīci"
+  },
+  "screencast_error": {
+    "message": "Radās kļūda ierakstīšanas laikā. {Noklikšķiniet šeit} risinājumam."
+  },
+  "screencast_modale_title": {
+    "message": "Video ieraksts"
+  },
+  "screencast_modale_texte": {
+    "message": "Jūs varat lejupielādēt šo video dažādos formātos vai iegūt koplietošanas saiti."
+  },
+  "screencast_modale_download_webm": {
+    "message": "Lejupielādēt noklusējuma WEBM formātā (ar caurspīdīgumu, ja opcija aktivizēta)"
+  },
+  "screencast_modale_download_mp4": {
+    "message": "Labāka saderība ar PowerPoint, bet bez caurspīdīguma"
+  },
+  "screencast_modale_download_gif": {
+    "message": "Saderīgs visur, bet zemāka kvalitāte (ar caurspīdīgumu, ja opcija aktivizēta)"
+  },
+  "screencast_modale_gif_duration_limit_info": {
+    "message": "Maksimālais GIF ilgums ir 60 sekundes. Pārsniedzot šo laiku, fails būtu pārāk liels."
+  },
+  "screencast_modale_copy": {
+    "message": "Kopēt"
+  },
+  "screencast_modale_upload": {
+    "message": "Iegūt koplietošanas saiti"
+  },
+  "screencast_modale_contact": {
+    "message": "Ziņot par kļūdu, ieteikt uzlabojumu"
+  },
+  "screencast_start_recording": {
+    "message": "Sākt ierakstīšanu"
+  },
+  "screencast_microphone_permission_denied": {
+    "message": "Mikrofona piekļuves atļauja liegta."
+  },
+  "screencast_camera_permission_denied": {
+    "message": "Kameras piekļuves atļauja liegta."
+  },
+  "screencast_error_media_stream_track_processor_or_generator": {
+    "message": "Jūsu Chrome versija ir pārāk veca šai funkcijai. Lūdzu, atjauniniet Chrome uz versiju, kas ir augstāka par 94.0"
+  },
+  "screencast_quality_info_tooltip": {
+    "message": "Video kvalitāte ietekmē bitu pārraides ātrumu, fps un ieraksta izšķirtspēju. Jo augstāka kvalitāte, jo lielāks būs fails."
+  },
+  "screencast_modale_auto_stop_limit_reached": {
+    "message": "Video ieraksti ir ierobežoti līdz 5 minūtēm bezmaksas versijā."
+  },
+  "screenshot": {
+    "message": "--------------------------------------------------------"
+  },
+  "screenshot_menu_1": {
+    "message": "Ekrānuzņēmums ar ierīci"
+  },
+  "screenshot_menu_2": {
+    "message": "Tikai vietnes ekrānuzņēmums"
+  },
+  "screenshot_menu_3": {
+    "message": "Visas lapas ekrānuzņēmums"
+  },
+  "screenshot_menu_4": {
+    "message": "Visas cilnes ekrānuzņēmums"
+  },
+  "screenshot_button": {
+    "message": "Ģenerēt ekrānuzņēmumu"
+  },
+  "screenshot_modale_download_png": {
+    "message": "Lejupielādēt PNG formātā (bez saspiešanas)"
+  },
+  "screenshot_modale_download_webp": {
+    "message": "Lejupielādēt WEBP formātā, saderīgs gandrīz visur un optimizēta saspiešana (ieteicams)"
+  },
+  "screenshot_menu_stop_fullpage": {
+    "message": "Apturēt pirms lapas beigām"
+  },
+  "screenshot_modale_title": {
+    "message": "Ekrānuzņēmums"
+  },
+  "screenshot_modale_copy": {
+    "message": "Kopēt attēlu starpliktuvē"
+  },
+  "screenshot_modale_edit": {
+    "message": "Rediģēt ekrānuzņēmumu"
+  },
+  "screenshot_modale_help": {
+    "message": "Lai saglabātu attēlu lielā formātā, vienkārši noklikšķiniet ar peles labo pogu uz tā un izvēlieties \"Kopēt attēlu\" vai \"Saglabāt\"."
+  },
+  "screenshot_editor_close": {
+    "message": "Aizvērt redaktoru"
+  },
+  "screenshot_editor_undo": {
+    "message": "Atsaukt pēdējo darbību"
+  },
+  "screenshot_editor_rect": {
+    "message": "Zīmēt taisnstūri"
+  },
+  "screenshot_editor_ellipse": {
+    "message": "Zīmēt apli"
+  },
+  "screenshot_editor_line": {
+    "message": "Zīmēt līniju"
+  },
+  "screenshot_editor_arrow": {
+    "message": "Zīmēt bultiņu"
+  },
+  "screenshot_editor_pen": {
+    "message": "Brīvā zīmēšana"
+  },
+  "screenshot_editor_color": {
+    "message": "Līnijas krāsa"
+  },
+  "screenshot_editor_stroke_width": {
+    "message": "Līnijas platums"
+  },
+  "pro": {
+    "message": "--------------------------------------------------------"
+  },
+  "pro_modale_h1": {
+    "message": "Kļūstiet par PRO"
+  },
+  "pro_modale_h1_all_formats": {
+    "message": "Konvertējiet savus video ierakstus uz GIF un MP4 formātiem"
+  },
+  "pro_modale_h1_devices": {
+    "message": "Simulējiet visas ierīces"
+  },
+  "pro_modale_h1_settings": {
+    "message": "Atbloķēt visus iestatījumus"
+  },
+  "pro_modale_h1_screencast": {
+    "message": "Atbloķēt visus video ierakstīšanas iestatījumus"
+  },
+  "pro_modale_h1_ads": {
+    "message": "Noņemiet reklāmas"
+  },
+  "pro_modale_h1_image_editor": {
+    "message": "Rediģējiet savus ekrānuzņēmumus"
+  },
+  "pro_modale_h1_unlimited_screenshots": {
+    "message": "Veiciet neierobežotus ekrānuzņēmumus"
+  },
+  "pro_modale_h2": {
+    "message": "Kļūstiet par PRO un aktīvi veiciniet šī paplašinājuma attīstību, atbalstot tā izstrādātāju."
+  },
+  "pro_modale_billed_annualy": {
+    "message": "Rēķins tiek izrakstīts katru gadu"
+  },
+  "pro_modale_savings": {
+    "message": "Ietaupiet"
+  },
+  "pro_modale_from": {
+    "message": "No"
+  },
+  "pro_modale_recurring_month": {
+    "message": "mēnesis"
+  },
+  "pro_modale_button": {
+    "message": "Es abonēju"
+  },
+  "pro_modale_link_1": {
+    "message": "Vai"
+  },
+  "pro_modale_link_2": {
+    "message": "es piesakos"
+  },
+  "pro_modale_link_3": {
+    "message": "savā abonenta kontā"
+  },
+  "pro_modale_avantage_1": {
+    "message": "Visi video iestatījumi"
+  },
+  "pro_modale_avantage_2": {
+    "message": "Vairāku ierīču salīdzināšana"
+  },
+  "sharing": {
+    "message": "--------------------------------------------------------"
+  },
+  "sharing_h1": {
+    "message": "Vai šis mobilais simulators jums ir noderīgs?"
+  },
+  "sharing_h2": {
+    "message": "Tad dalieties ar to ar saviem kolēģiem vai draugiem"
+  },
+  "sharing_txt": {
+    "message": "Simulators, lai pārbaudītu savu vietni mobilajā un planšetdatorā"
+  },
+  "sharing_review_1": {
+    "message": "Un, ja jums ir minūte, lai"
+  },
+  "sharing_review_2": {
+    "message": "pievienotu atsauksmi"
+  },
+  "sharing_review_3": {
+    "message": "tad tas ir ķirsis uz kūkas! 🙂"
+  },
+  "sharing_review_button": {
+    "message": "Es pievienoju atsauksmi"
+  },
+  "other_extensions": {
+    "message": "--------------------------------------------------------"
+  },
+  "other_extensions_h1": {
+    "message": "Atklājiet mūsu pavisam jaunos bezmaksas paplašinājumus"
+  },
+  "other_extensions_color_picker_title": {
+    "message": "Krāsu izvēlētājs"
+  },
+  "other_extensions_color_picker_description": {
+    "message": "Šis paplašinājums ļauj jums uztvert jebkuru krāsu ekrānā."
+  },
+  "other_extensions_font_finder_title": {
+    "message": "Fontu meklētājs"
+  },
+  "other_extensions_font_finder_description": {
+    "message": "Identificējiet ar vienu klikšķi fontu, kas izmantots jebkurā tīmekļa lapas tekstā."
+  },
+  "other_extensions_button": {
+    "message": "Instalēt"
+  },
+  "review": {
+    "message": "--------------------------------------------------------"
+  },
+  "review_h1": {
+    "message": "Kā jūs vērtētu šo paplašinājumu?"
+  },
+  "review_note_store": {
+    "message": "Paldies par jūsu atsauksmēm, nevilcinieties pievienot vērtējumu paplašinājuma lapā. Es būtu ļoti pateicīgs 😊"
+  },
+  "review_note_feedback": {
+    "message": "Paldies par jūsu atsauksmi, nevilcinieties nosūtīt mums ziņu, lai mēs varētu uzlabot šo paplašinājumu."
+  },
+  "button_feedback": {
+    "message": "Pievienot vērtējumu"
+  },
+  "button_message": {
+    "message": "Nosūtiet mums ziņu"
+  },
+  "contact": {
+    "message": "--------------------------------------------------------"
+  },
+  "contact_message_field_name": {
+    "message": "Ierīces nosaukums"
+  },
+  "contact_message_field_placeholder": {
+    "message": "Samsung Galaxy S24 Ultra, iPhone 17 Pro Max, utt."
+  },
+  "contact_title": {
+    "message": "Ierīce, kuru meklējat, nav sarakstā? Paziņojiet mums!"
+  },
+  "settings": {
+    "message": "--------------------------------------------------------"
+  },
+  "settings_h2_device": {
+    "message": "Ierīce"
+  },
+  "settings_h2_global": {
+    "message": "Vispārīgi"
+  },
+  "settings_hide_header_footer": {
+    "message": "Paslēpt ierīces pārlūka saskarni (adreses joslu utt.)"
+  },
+  "settings_hide_keyboard": {
+    "message": "Simulēt tastatūras parādīšanos rakstīšanas laikā"
+  },
+  "settings_scrollbar_show": {
+    "message": "Rādīt vietējo ritjoslu ierīcē"
+  },
+  "settings_change_cursor": {
+    "message": "Pieskaršanās ritināšana un mobilā kursora attēlojums"
+  },
+  "settings_change_background": {
+    "message": "Mainīt fona krāsu"
+  },
+  "settings_default_device": {
+    "message": "Noklusējuma terminālis katrai aktivizācijai"
+  },
+  "settings_change_analytics": {
+    "message": "Palīdzēt izstrādātājam uzlabot paplašinājumu, daloties ar 100 % anonīmiem un nepersoniskiem lietošanas datiem."
+  },
+  "settings_device_hide": {
+    "message": "Rādīt ierīces rāmi"
+  },
+  "settings_batterie_level": {
+    "message": "Baterijas līmenis ierīces galvenē (%)"
+  },
+  "settings_device_default_url": {
+    "message": "Mainīt URL, kas tiek rādīts ierīcē"
+  },
+  "settings_presenter_mode": {
+    "message": "Prezentācijas režīms (labās puses izvēlne redzama tikai, kad tiek pārbraukts pāri)"
+  },
+  "settings_fullscreen": {
+    "message": "Vietne pilnekrāna režīmā ierīcē"
+  },
+  "settings_default_device_placeholder": {
+    "message": "Izvēlēties ierīci"
+  },
+  "settings_video_quality": {
+    "message": "Video kvalitāte"
+  },
+  "settings_video_quality_low": {
+    "message": "Vidēja"
+  },
+  "settings_video_quality_medium": {
+    "message": "Laba"
+  },
+  "settings_video_quality_high": {
+    "message": "Lieliska"
+  },
+  "settings_theme": {
+    "message": "Tēma"
+  },
+  "settings_theme_light": {
+    "message": "Gaiša"
+  },
+  "settings_theme_dark": {
+    "message": "Tumša"
+  },
+  "settings_theme_auto": {
+    "message": "Automātiska"
+  },
+  "settings_shortcuts": {
+    "message": "Definēt tastatūras īsceļus"
+  },
+  "settings_pro_account": {
+    "message": "Pārvaldīt manu abonementu"
+  },
+  "settings_microphone": {
+    "message": "Mikrofons"
+  },
+  "settings_camera": {
+    "message": "Kamera"
+  },
+  "settings_countdown": {
+    "message": "Atpakaļskaitīšana (sekundes)"
+  },
+  "settings_transparent_background": {
+    "message": "Caurspīdīgs fons"
+  },
+  "settings_transparent_background_info": {
+    "message": "Šī opcija ietver vairāk aprēķinu un tādējādi potenciālu attēlojuma palēnināšanos atkarībā no jūsu datora (saderīga tikai ar WEBM un GIF formātiem)"
+  },
+  "screenshot_workaround": {
+    "message": "--------------------------------------------------------"
+  },
+  "screenshot_workaround_title": {
+    "message": "Ekrānuzņēmuma risinājums"
+  },
+  "screenshot_workaround_context": {
+    "message": "Konteksts"
+  },
+  "screenshot_workaround_context_text": {
+    "message": "Dažu tehnisko ierobežojumu dēļ, iespējams, ka, veicot ekrānuzņēmumu, jūs saņemsiet šo kļūdas ziņojumu."
+  },
+  "screenshot_workaround_solution": {
+    "message": "Risinājums"
+  },
+  "screenshot_workaround_solution_text": {
+    "message": "Šajā gadījumā, lai sāktu uzņemšanu, vienkārši noklikšķiniet ar peles labo pogu jebkurā vietā lapā, izvēlieties \"Mobilais simulators\" un pēc tam \"📷 Veikt ekrānuzņēmumu\""
+  },
+  "feedback": {
+    "message": "--------------------------------------------------------"
+  },
+  "feedback_title": {
+    "message": "Palīdziet mums padarīt Mobile FIRST vēl noderīgāku jums 🚀"
+  },
+  "feedback_profession": {
+    "message": "Kāda ir jūsu profesionālā nodaļa?"
+  },
+  "feedback_profession_developer": {
+    "message": "Izstrāde"
+  },
+  "feedback_profession_designer": {
+    "message": "Dizains"
+  },
+  "feedback_profession_qa": {
+    "message": "Testēšana / QA"
+  },
+  "feedback_profession_product": {
+    "message": "Produktu vadība"
+  },
+  "feedback_profession_marketing": {
+    "message": "Mārketings"
+  },
+  "feedback_profession_sales": {
+    "message": "Pārdošana"
+  },
+  "feedback_profession_other": {
+    "message": "Cits"
+  },
+  "feedback_company_type": {
+    "message": "Kāda ir jūsu uzņēmuma veids?"
+  },
+  "feedback_company_type_freelance": {
+    "message": "Neatkarīgais"
+  },
+  "feedback_company_type_micro_business": {
+    "message": "Mikrouzņēmums (1-9 darbinieki)"
+  },
+  "feedback_company_type_agency": {
+    "message": "Mazs uzņēmums (10-49 darbinieki)"
+  },
+  "feedback_company_type_startup": {
+    "message": "Vidējs uzņēmums (50-249 darbinieki)"
+  },
+  "feedback_company_type_pme": {
+    "message": "Liels uzņēmums (250-4999 darbinieki)"
+  },
+  "feedback_company_type_grandeentreprise": {
+    "message": "Ļoti liels uzņēmums / grupa (5000+ darbinieki)"
+  },
+  "feedback_use_cases": {
+    "message": "Kāpēc jūs izmantojat Mobile FIRST?"
+  },
+  "feedback_useCases_placeholder": {
+    "message": "Pārbaudīt manu vietni, veikt klientu demonstrācijas..."
+  },
+  "feedback_frequency": {
+    "message": "Cik bieži jūs izmantojat šo paplašinājumu?"
+  },
+  "feedback_frequency_quotidien": {
+    "message": "Ikdienas"
+  },
+  "feedback_frequency_plusieursfoisparsemaine": {
+    "message": "Vairākas reizes nedēļā"
+  },
+  "feedback_frequency_occasionnel": {
+    "message": "Gadījuma"
+  },
+  "feedback_frequency_rare": {
+    "message": "Reti"
+  },
+  "feedback_improvements": {
+    "message": "Kādus uzlabojumus jūs vēlētos redzēt?"
+  },
+  "feedback_improvements_placeholder": {
+    "message": "Ideja, berze, trūkums..."
+  },
+  "feedback_submit": {
+    "message": "Nosūtīt"
+  },
+  "feedback_close": {
+    "message": "Neatbildēt"
+  },
+  "feedback_error_required": {
+    "message": "Visi lauki ir tukši 🤔"
+  },
+  "feedback_submitted": {
+    "message": "Liels paldies par jūsu atsauksmi 🤗"
+  },
+  "select": {
+    "message": "Izvēlēties..."
+  },
+  "modales": {
+    "message": "--------------------------------------------------------"
+  },
+  "new_video_feature_h1": {
+    "message": "Atklājiet jauno video ierakstīšanas funkciju!"
+  },
+  "new_video_feature_h2": {
+    "message": "Ierakstiet ar labāku kvalitāti, ar jaunām opcijām un ar caurspīdīgu fonu"
+  },
+  "logout_modale_title": {
+    "message": "Jūs esat automātiski atvienots no šīs ierīces"
+  },
+  "logout_modale_message": {
+    "message": "Šī ierīce vairs nav jūsu atļauto ierīču sarakstā. Ja jūs manuāli noņēmāt šo piekļuvi, nepieciešama jauna pieteikšanās."
+  },
+  "notifications": {
+    "message": "--------------------------------------------------------"
+  },
+  "notification_update_title_vwelcome": {
+    "message": "<strong class='mb-2 is-block'>Laipni lūdzam Mobile FIRST 👋</strong>Simulējiet ar vienu klikšķi tālruņus, planšetdatorus un datorus, lai vienkārši pārbaudītu un vizualizētu savas vietnes.<br><br><strong>Izvēlne atrodas pa labi ➡️</strong>"
+  },
+  "notification_update_title_v4_14_5": {
+    "message": "<strong class='mb-2 is-block'>Atjauninājums v4.14.5</strong>Nozīmīgs <strong>izšķirtspējas un kvalitātes</strong> uzlabojums ekrānuzņēmumiem <i class='mdi'>&#xe903;</i>"
+  },
+  "logout_modale_button": {
+    "message": "Pieteikties"
+  },
+  "logout_modale_message_2": {
+    "message": "ℹ️ Vai vēlaties dalīties ar savu abonementu? Lai atļautu citiem cilvēkiem, vienkārši pievienojiet tos no sava konta sadaļas \"Lietotāji\"."
+  },
+  "logout_modale_message2": {
+    "message": "Drošības nolūkos jūs automātiski tika izrakstīts no sava konta. Bet jūs varat atkārtoti pieteikties, noklikšķinot uz pogas zemāk."
+  },
+  "notification_update_title_v4_15_0": {
+    "message": "<strong class='mb-2 is-block'>Atjauninājums v4.15.0</strong>Pieskārienu ritināšanas aktivizēšana viedtālruņiem un planšetdatoriem <i class='mdi'>&#xe905;</i>"
+  },
+  "menu_add_window": {
+    "message": "Pievienot logu"
+  },
+  "settings_sync_events": {
+    "message": "Sinhronizēt notikumus starp logiem (klikšķis, ritināšana utt.)"
+  },
+  "pro_modale_h1_multi_devices": {
+    "message": "Salīdziniet vairāk nekā divas ierīces vienlaicīgi"
+  },
+  "notification_update_title_v4_15_2": {
+    "message": "<strong class='mb-2 is-block'>Atjauninājums v4.15.0</strong>Aktivizēts <strong>pieskāriena ritināšana</strong> viedtālruņiem un planšetdatoriem."
+  },
+  "settings_pro_account_past_due": {
+    "message": "Jūsu abonementa atjaunošana neizdevās. Lūdzu, atjauniniet savu maksājumu informāciju, lai saglabātu PRO versiju."
+  },
+  "notification_update_title_v4_15_5": {
+    "message": "<strong class='mb-2 is-block'>Atjauninājums v4.15.5</strong><ul><li>Labošana attiecībā uz pilnas lapas ekrānuzņēmumiem <strong>vietējos failos</strong>.</li><li>Labošana attiecībā uz vh, dhv, lvh, svh vienībām <strong>iOS&nbsp;26</strong>.</li></ul>"
+  },
+  "menu_active_devices": {
+    "message": "Ierīces redzamas cilnē"
+  },
+  "menu_favorites": {
+    "message": "<i class='mdi mdi-star favorites-icon is-size-6'></i> Izlase"
+  },
+  "menu_enable_comparison_mode": {
+    "message": "Iespējot salīdzināšanas režīmu"
+  },
+  "menu_disable_comparison_mode": {
+    "message": "Atspējot salīdzināšanas režīmu"
+  },
+  "menu_custom_devices": {
+    "message": "<i class='mdi'>&#xe917;</i>&nbsp;&nbsp;Manas pielāgotās ierīces"
+  },
+  "menu_custom_devices_banner": {
+    "message": "Pievienojiet savas pielāgotās ierīces!"
+  },
+  "custom_device_title": {
+    "message": "Pievienot pielāgotu ierīci"
+  },
+  "custom_device_add": {
+    "message": "Pievienot pielāgotu ierīci"
+  },
+  "custom_device_name": {
+    "message": "Ierīces nosaukums"
+  },
+  "custom_device_ua_preset": {
+    "message": "Lietotāja aģents"
+  },
+  "custom_device_ua_custom": {
+    "message": "Pielāgots lietotāja aģents"
+  },
+  "custom_device_ua": {
+    "message": "Lietotāja aģenta ķēde"
+  },
+  "custom_device_os_name": {
+    "message": "Operētājsistēma"
+  },
+  "custom_device_os_version": {
+    "message": "OS versija"
+  },
+  "custom_device_width": {
+    "message": "Skata loga platums (px)"
+  },
+  "custom_device_height": {
+    "message": "Skata loga augstums (px)"
+  },
+  "custom_device_dpr": {
+    "message": "Ierīces pikseļu attiecība"
+  },
+  "custom_device_network": {
+    "message": "Tīkls"
+  },
+  "custom_device_more": {
+    "message": "Vairāk iestatījumu"
+  },
+  "custom_device_less": {
+    "message": "Mazāk iestatījumu"
+  },
+  "custom_device_submit": {
+    "message": "Pievienot"
+  },
+  "custom_device_error_name": {
+    "message": "Ierīces nosaukums ir obligāts."
+  },
+  "custom_device_error_ua": {
+    "message": "Lietotāja aģents ir obligāts."
+  },
+  "custom_device_error_os": {
+    "message": "Operētājsistēma ir obligāta."
+  },
+  "custom_device_error_viewport": {
+    "message": "Skata loga platumam un augstumam jābūt no 10 līdz 4096."
+  },
+  "notification_update_title_v4_16_0": {
+    "message": "<strong class='mb-2 is-block'>Atjauninājums v4.16.0</strong>Pievienota iespēja izveidot pielāgotas ierīces <i class='mdi'>&#xe917;</i>"
+  },
+  "new_comparison_feature_h1": {
+    "message": "Atklājiet jauno vairāku ierīču salīdzināšanas funkciju jau tagad!"
+  },
+  "new_comparison_feature_h2": {
+    "message": "Salīdziniet vairāku ierīču vienlaicīgu attēlojumu vienā logā. Ritināšana, klikšķi, tastatūra sinhronizēti."
+  },
+  "try_it": {
+    "message": "Izmēģiniet tagad"
+  },
+  "menu_close_window": {
+    "message": "Aizvērt šo logu"
+  },
+  "notification_update_title_v4_17_0": {
+    "message": "<strong class='mb-2 is-block'>Atjauninājums v4.17.0</strong>Pievienota vairāku ierīču vienlaicīgas salīdzināšanas funkcija! <i class='mdi'>&#xe917;</i>"
+  },
+  "screencast_firefox_select_tab": {
+    "message": "Lūdzu, kopīgojiet pašreizējo logu (nevis visu ekrānu), lai ieraksts būtu pareizi ierāmēts."
+  },
+  "latest_updates": {
+    "message": "Jaunākie atjauninājumi"
+  },
+  "see_more": {
+    "message": "Skatīt vairāk"
+  },
+  "see_less": {
+    "message": "Skatīt mazāk"
+  },
+  "update_tag_new": {
+    "message": "JAUNS"
+  },
+  "update_tag_feature": {
+    "message": "FUNKCIJA"
+  },
+  "update_tag_improvement": {
+    "message": "UZLABOJUMS"
+  },
+  "update_tag_fix": {
+    "message": "LABOJUMS"
+  },
+  "update_4_19_0_title": {
+    "message": "6 jaunas Android ierīces"
+  },
+  "update_4_19_0_description": {
+    "message": "3 Google Pixel 10 modeļi, Motorola Razr 70 Ultra, Infinix Hot 70 un Samsung Galaxy A17."
+  },
+  "update_4_17_0_title": {
+    "message": "Ierīču salīdzināšana"
+  },
+  "update_4_17_0_description": {
+    "message": "Salīdziniet vairākas ierīces vienlaicīgi blakus. Klikšķi, ritināšana un tastatūra ir sinhronizēti."
+  },
+  "update_4_16_0_title": {
+    "message": "Pielāgotas ierīces"
+  },
+  "update_4_16_0_description": {
+    "message": "Tagad varat pievienot savas ierīces ar specifiskiem izmēriem."
+  },
+  "update_4_15_5_title": {
+    "message": "Labojumi"
+  },
+  "update_4_15_5_description": {
+    "message": "Pilnas lapas ekrānuzņēmumi vietējos failos un iOS 26 displeja vienību labojumi (vh, dhv, lvh, svh)."
+  },
+  "update_4_15_0_title": {
+    "message": "Pieskārienu ritināšana"
+  },
+  "update_4_15_0_description": {
+    "message": "Pieskārienu ritināšanas iespējošana viedtālruņos un planšetdatoros."
+  },
+  "update_4_14_5_title": {
+    "message": "Asāki ekrānuzņēmumi"
+  },
+  "update_4_14_5_description": {
+    "message": "Ievērojams ekrānuzņēmumu izšķirtspējas un kvalitātes uzlabojums."
+  },
+  "pro_modale_toggle_annual": {
+    "message": "Gada"
+  },
+  "pro_modale_toggle_monthly": {
+    "message": "Mēneša"
+  },
+  "pro_modale_trial_after_days": {
+    "message": "pēc jūsu 7 dienu bezmaksas izmēģinājuma"
+  },
+  "pro_modale_trial_button": {
+    "message": "Sākt manu 7 dienu bezmaksas izmēģinājumu"
+  },
+  "pro_modale_trial_h1": {
+    "message": "Izmēģiniet PRO versiju bez maksas 7 dienas"
+  },
+  "pro_modale_trial_note": {
+    "message": "Šodien nav jāmaksā · Bez saistībām, var atcelt jebkurā laikā"
+  },
+  "pro_modale_trial_then": {
+    "message": "pēc tam"
+  },
+  "pro_modale_trial_today": {
+    "message": "šodien"
+  },
+  "settings_pwa_auto_detect": {
+    "message": "Automātiski noteikt un parādīt PWA kā mobilo lietotni."
+  },
+  "settings_title": {
+    "message": "Iestatījumi"
+  },
+  "settings_nav_device": {
+    "message": "Ierīce"
+  },
+  "settings_nav_appearance": {
+    "message": "Izskats"
+  },
+  "settings_nav_account": {
+    "message": "Konts"
+  },
+  "settings_os_display": {
+    "message": "OS displejs"
+  },
+  "settings_os_display_full_desc": {
+    "message": "Rāda OS statusa joslu un pārlūkprogrammu (adreses joslu)."
+  },
+  "settings_os_display_no_browser_desc": {
+    "message": "Slēpj pārlūkprogrammu, bet saglabā OS statusa joslu."
+  },
+  "settings_os_display_no_os_desc": {
+    "message": "Slēpj OS statusa joslu un pārlūkprogrammu."
+  },
+  "settings_h2_display": {
+    "message": "Globālais displejs"
+  },
+  "settings_h2_customization": {
+    "message": "Pielāgošana"
+  },
+  "settings_h2_multiwindow": {
+    "message": "Vairāku logu režīms"
+  },
+  "settings_h2_pwa": {
+    "message": "PWA"
+  },
+  "settings_account_cta_title": {
+    "message": "Piekļūstiet savam kontam"
+  },
+  "settings_account_cta_subtitle": {
+    "message": "Reģistrējieties, lai atbloķētu PRO versiju, vai piesakieties, ja jums jau ir konts."
+  },
+  "settings_signup_button": {
+    "message": "Reģistrēties"
+  },
+  "settings_login_button": {
+    "message": "Pieteikties"
+  },
+  "settings_subscribe": {
+    "message": "Atbloķēt PRO versiju"
+  },
+  "settings_subscribe_button": {
+    "message": "Abonēt"
+  },
+  "settings_pro_account_cancel_at_period_end": {
+    "message": "Jūsu abonements beigsies"
+  },
+  "settings_pro_account_reactivate": {
+    "message": "Atkārtoti aktivizēt manu abonementu"
+  },
+  "settings_account_greeting": {
+    "message": "Sveiki $1,"
+  },
+  "simulator_framing_blocked": {
+    "message": "$1 neatļauj savu lapu attēlošanu citas lapas ietvaros: vietni nevar simulēt pārlūkā Firefox."
+  },
+  "settings_device_forced_time": {
+    "message": "Piespiest ierīcē rādīto laiku"
+  },
+  "settings_device_forced_time_reset": {
+    "message": "Atgriezties pie pašreizējā laika"
+  },
+  "device_variant_folded": {
+    "message": "Salocīts"
+  },
+  "device_variant_unfolded": {
+    "message": "Izlocīts"
+  },
+  "update_4_21_0_title": {
+    "message": "4 jauni iPhone"
+  },
+  "update_4_21_0_description": {
+    "message": "iPhone 18 Pro, iPhone 18 Pro Max un salokāmais iPhone Duo, salocītā un atlocītā versijā."
+  },
+  "update_4_22_0_title": {
+    "message": "Atklājiet Live device"
+  },
+  "update_4_22_0_description": {
+    "message": "Palaidiet savu vietni uz iOS vai Android ierīces, kas tiek mitināta mākoņpakalpojumā un vadīta tieši no jūsu cilnes."
+  },
+  "device_mockup_blocked_title": {
+    "message": "Ierīces makets nav pieejams"
+  },
+  "device_mockup_blocked": {
+    "message": "Ierīces vizuālo attēlu nevarēja ielādēt. Tas var būt saistīts ar reklāmu bloķētāju vai jūsu uzņēmuma drošības politiku. Simulators joprojām ir pilnībā izmantojams, tikai makets netiek parādīts."
+  },
+  "pro_modale_h1_real_simulation": {
+    "message": "Pārbaudiet savu vietni uz īstas ierīces, izmantojot mākoņpakalpojumu"
+  },
+  "settings_nav_cloud_devices": {
+    "message": "Live device"
+  },
+  "settings_display_real_simulation_info": {
+    "message": "Displeja pielāgošanas iestatījumi nav aktīvi Live device sesijas laikā."
+  },
+  "menu_real_simulation_on": {
+    "message": "Palaist uz īstas ierīces"
+  },
+  "menu_real_simulation_off": {
+    "message": "Atgriezties pie vietējās simulācijas"
+  },
+  "real_simulation_starting": {
+    "message": "Savienojums ar īstu ierīci…"
+  },
+  "real_simulation_remaining": {
+    "message": "$1 minūtes atlikušas šomēnes"
+  },
+  "real_simulation_quota_exceeded": {
+    "message": "Jūs esat izmantojis visas savas minūtes uz īstas ierīces šomēnes. Vietējā simulācija joprojām ir pieejama."
+  },
+  "real_simulation_login_required": {
+    "message": "Piesakieties savā Mobile FIRST kontā, lai palaistu savu vietni uz īstas ierīces."
+  },
+  "real_simulation_local_title": {
+    "message": "Šī vietne darbojas uz vietējā servera, ko īstā ierīce nevar sasniegt."
+  },
+  "real_simulation_local_text": {
+    "message": "Izmantojiet tuneli, piemēram, ar zemāk esošo komandu, un pēc tam ielīmējiet iegūto publisko adresi."
+  },
+  "real_simulation_local_placeholder": {
+    "message": "https://piemers.trycloudflare.com"
+  },
+  "real_simulation_local_invalid": {
+    "message": "Ievadiet publisku adresi, nevis vietējo adresi."
+  },
+  "real_simulation_local_start": {
+    "message": "Palaist caur šo tuneli"
+  },
+  "real_simulation_local_help": {
+    "message": "Kā izveidot tuneli?"
+  },
+  "real_simulation_tunnel_modale_title": {
+    "message": "Pārbaudīt vietējo vietni uz īstas ierīces"
+  },
+  "real_simulation_tunnel_modale_baseline": {
+    "message": "Īstā ierīce darbojas mākoņpakalpojumā: tā neredz jūsu datoru. Tunelis piešķir jūsu vietējam serverim pagaidu publisko adresi testēšanas laikā."
+  },
+  "real_simulation_tunnel_step_install": {
+    "message": "Instalējiet cloudflared"
+  },
+  "real_simulation_tunnel_linux_note": {
+    "message": "Komanda Debian / Ubuntu (x86_64). Citas distribūcijas:"
+  },
+  "real_simulation_tunnel_downloads": {
+    "message": "lejupielādes"
+  },
+  "real_simulation_tunnel_step_run": {
+    "message": "Palaidiet tuneli uz savu vietējo serveri"
+  },
+  "real_simulation_tunnel_step_paste": {
+    "message": "Kopējiet tuneļa adresi terminālī"
+  },
+  "real_simulation_tunnel_step_paste_note": {
+    "message": "Pēc dažām sekundēm parādīsies logs «<em>Your quick Tunnel has been created!</em>». Kopējiet tajā esošo adresi, <strong>https://…trycloudflare.com</strong>, un ielīmējiet to ierīces laukā."
+  },
+  "real_simulation_tunnel_tip_logs": {
+    "message": "Daudzas <code>INF</code> rindas apkārt ir normālas: tās ir tehniskas informācijas, kuras varat ignorēt."
+  },
+  "real_simulation_tunnel_tip_delay": {
+    "message": "Adrese var aizņemt līdz minūtei, lai atbildētu pēc izveides: ja ierīce parāda kļūdu, pagaidiet un mēģiniet vēlreiz."
+  },
+  "real_simulation_tunnel_tip_terminal": {
+    "message": "Atstājiet termināli atvērtu testēšanas laikā: tunelis apstājas, kad to aizverat vai nospiežat <code>Ctrl</code> + <code>C</code>. Jauna adrese tiek ģenerēta katru reizi, kad to palaižat."
+  },
+  "real_simulation_tunnel_step_hosts": {
+    "message": "Ja lapa ir bloķēta, atļaujiet tuneļa adresi"
+  },
+  "real_simulation_tunnel_step_hosts_note": {
+    "message": "Izstrādes serveri atsakās no nezināmiem resursdatoru nosaukumiem. Ar Vite, pievienojiet vite.config; ar webpack-dev-server, izmantojiet allowedHosts: 'all'."
+  },
+  "real_simulation_tunnel_free_title": {
+    "message": "Bezmaksas un bez konta."
+  },
+  "real_simulation_tunnel_free_text": {
+    "message": "Cloudflare Quick Tunnels neprasa reģistrāciju. Adrese mainās katru reizi, kad to palaižat, un tās ir paredzētas tikai testēšanai, nevis ražošanai."
+  },
+  "real_simulation_tunnel_docs": {
+    "message": "Cloudflare dokumentācija"
+  },
+  "real_simulation_tunnel_done": {
+    "message": "Es sapratu"
+  },
+  "real_simulation_tunnel_copy": {
+    "message": "Kopēt"
+  },
+  "real_simulation_session_ended": {
+    "message": "Sesija uz īstas ierīces beidzās pēc neaktivitātes perioda."
+  },
+  "real_simulation_max_duration": {
+    "message": "Sesija uz īstas ierīces sasniedza maksimālo ilgumu. Palaidiet jaunu, lai turpinātu testēšanu."
+  },
+  "real_simulation_session_revoked": {
+    "message": "Sesija uz īstas ierīces tika pārtraukta, jo tā bija atvērta vairākās vietās vienlaikus."
+  },
+  "real_simulation_error": {
+    "message": "Īstā ierīce nav sasniedzama. Pārbaudiet savu savienojumu un mēģiniet vēlreiz."
+  },
+  "real_simulation_disabled": {
+    "message": "Simulācija uz īstas ierīces ir īslaicīgi atspējota. Mēs strādājam, lai to atjaunotu pēc iespējas ātrāk, lūdzu, mēģiniet vēlāk."
+  },
+  "real_simulation_retry": {
+    "message": "Mēģināt vēlreiz"
+  },
+  "real_simulation_title": {
+    "message": "Live device simulācija"
+  },
+  "real_simulation_baseline": {
+    "message": "Veidojiet uz simulatora, pabeidziet uz Live device"
+  },
+  "real_simulation_learn_more": {
+    "message": "Uzzināt vairāk"
+  },
+  "real_simulation_os_version": {
+    "message": "Versija $1"
+  },
+  "real_simulation_geolocation": {
+    "message": "Atrašanās vieta"
+  },
+  "real_simulation_inactivity_timeout": {
+    "message": "Automātiska izslēgšana pēc neaktivitātes"
+  },
+  "real_simulation_inactivity_ended": {
+    "message": "Sesija uz reālas ierīces tika pārtraukta pēc $1 neaktivitātes."
+  },
+  "real_simulation_location_default": {
+    "message": "Parīze"
+  },
+  "real_simulation_start": {
+    "message": "Palaist mākoņa simulatoru"
+  },
+  "real_simulation_local_url": {
+    "message": "Reālai simulācijai nepieciešama tīmekļa lapa http(s). Tā nedarbojas uz vietējiem failiem."
+  },
+  "real_simulation_local_server": {
+    "message": "Šī vietne darbojas uz vietējā servera: palaižot, jums tiks piedāvāts to padarīt pieejamu internetā, izmantojot tuneli (cloudflared, ngrok…)."
+  },
+  "real_simulation_device_unavailable": {
+    "message": "Šī ierīce nav pieejama reālai simulācijai."
+  },
+  "real_simulation_device_unavailable_link": {
+    "message": "Skatīt saderīgās ierīces"
+  },
+  "real_simulation_pro_only": {
+    "message": "Simulācija uz reālas ierīces ir pieejama tikai mūsu maksas plānos."
+  },
+  "real_simulation_usage": {
+    "message": "Lietošana"
+  },
+  "real_simulation_usage_detail": {
+    "message": "Jūs esat iztērējis $1 minūtes no $2 minūtēm plānā $3"
+  },
+  "real_simulation_more_minutes": {
+    "message": "Nepieciešamas vairāk minūtes?"
+  },
+  "real_simulation_usage_error": {
+    "message": "Nevar iegūt jūsu patēriņu."
+  },
+  "real_simulation_modale_kicker": {
+    "message": "LIVE DEVICE"
+  },
+  "real_simulation_modale_live": {
+    "message": "Tiešraidē"
+  },
+  "real_simulation_modale_h1": {
+    "message": "Veidojiet simulatorā, pabeidziet reālos apstākļos"
+  },
+  "real_simulation_modale_h2": {
+    "message": "Simulators joprojām ir ideāls rīks, lai ātri izstrādātu un iterētu visos ekrāna formātos.<br>Apstiprināšanas brīdī Live device var pārņemt ar iOS vai Android ierīci, kas tiek mitināta mākonī un vadīta tieši no jūsu cilnes."
+  },
+  "real_simulation_modale_feature_os_title": {
+    "message": "Īsts renderēšanas dzinējs."
+  },
+  "real_simulation_modale_feature_os": {
+    "message": "Dzimtie Safari WebKit un Chrome Android, lai identificētu jebkuru attēlošanas problēmu."
+  },
+  "real_simulation_modale_feature_gestures_title": {
+    "message": "Visas īsta mobilā OS funkcijas"
+  },
+  "real_simulation_modale_feature_gestures": {
+    "message": "Dzimtie veidlapu lauki, sistēmas tastatūra un pielāgota GPS atrašanās vieta."
+  },
+  "real_simulation_modale_feature_devices_title": {
+    "message": "$1 ierīces gatavas dažu sekunžu laikā."
+  },
+  "real_simulation_modale_feature_devices": {
+    "message": "No jaunākajiem iPhone līdz visizplatītākajiem Android."
+  },
+  "real_simulation_modale_devices_list": {
+    "message": "Skatīt sarakstu"
+  },
+  "real_simulation_devices_modale_title": {
+    "message": "Saderīgās ierīces"
+  },
+  "real_simulation_devices_modale_baseline": {
+    "message": "$1 simulatora ierīces var tikt palaistas reālai simulācijai. Pārējās paliek pieejamas vietējai simulācijai."
+  },
+  "real_simulation_modale_quota": {
+    "message": "<strong>$1 minūtes</strong> / mēnesī iekļautas jūsu plānā <strong>$2</strong>"
+  },
+  "real_simulation_modale_other_plans": {
+    "message": "Skatīt citus plānus"
+  },
+  "real_simulation_modale_benefit_minutes": {
+    "message": "10 minūtes Live Device / mēnesī"
+  },
+  "real_simulation_modale_benefit_minutes_rest": {
+    "message": "iekļautas jau no Starter"
+  },
+  "real_simulation_modale_login_question": {
+    "message": "Jau abonējat?"
+  },
+  "real_simulation_modale_login_link": {
+    "message": "Pieslēgties"
+  },
+  "real_simulation_modale_benefit_pro": {
+    "message": "+ visas PRO funkcijas"
+  },
+  "real_simulation_modale_benefit_pro_rest": {
+    "message": "(ierīces, iestatījumi,..)"
+  },
+  "real_simulation_modale_see_plans": {
+    "message": "Skatīt plānus"
+  },
+  "real_simulation_modale_from": {
+    "message": "no"
+  },
+  "real_simulation_modale_per_month": {
+    "message": "/ mēnesī"
+  },
+  "real_simulation_continue_tests": {
+    "message": "Turpiniet savus testus"
+  },
+  "real_simulation_trial_title": {
+    "message": "Nav iekļauta izmēģinājuma laikā"
+  },
+  "real_simulation_trial_note": {
+    "message": "Simulācija uz reālas ierīces nav pieejama izmēģinājuma periodā. Jūsu minūtes būs pieejamas, sākot no jūsu abonementa sākuma."
+  },
+  "real_simulation_legacy_plan_title": {
+    "message": "Pārejiet uz jaunajiem plāniem"
+  },
+  "real_simulation_legacy_plan_note": {
+    "message": "Jūsu vecais maksas plāns neietver simulāciju uz reālas ierīces. Lai izmantotu šo funkciju, pārejiet uz kādu no mūsu jaunajiem plāniem."
+  },
+  "real_simulation_legacy_plan_upgrade": {
+    "message": "Atjaunināt manu abonementu"
+  },
+  "real_simulation_quota_consumed": {
+    "message": "Jūs esat iztērējis $1 pieejamās minūtes"
+  },
+  "real_simulation_quota_reset": {
+    "message": "Lietojuma ierobežojumu atiestatīšana <strong>$1</strong>"
+  },
+  "real_simulation_upgrade_plan": {
+    "message": "$1 · $2 min/mēnesī"
+  },
+  "real_simulation_upgrade_per_month": {
+    "message": " /mēnesī"
+  },
+  "real_simulation_upgrade_renew": {
+    "message": "Minūtes tiek atjaunotas katru mēnesi"
+  },
+  "real_simulation_upgrade_extra": {
+    "message": "$1 minūte, nevis $2"
+  },
+  "real_simulation_upgrade_cta": {
+    "message": "Pāriet uz augstāku plānu"
+  },
+  "real_simulation_contact_us": {
+    "message": "Sazinieties ar mums"
+  },
+  "real_simulation_contact": {
+    "message": "Kontakts"
+  },
+  "real_simulation_contact_team_admin": {
+    "message": "Sazinieties ar savas komandas administratoru, lai iegūtu vairāk minūšu."
+  },
+  "real_simulation_location_change": {
+    "message": "Mainīt GPS atrašanās vietu"
+  },
+  "real_simulation_location_title": {
+    "message": "GPS atrašanās vieta"
+  },
+  "real_simulation_location_search": {
+    "message": "Adrese, pilsēta vai koordinātas"
+  },
+  "real_simulation_location_results": {
+    "message": "Rezultāti"
+  },
+  "real_simulation_location_coordinates": {
+    "message": "Doties uz koordinātām"
+  },
+  "real_simulation_location_no_result": {
+    "message": "Nav atrasta neviena vieta."
+  },
+  "real_simulation_location_search_error": {
+    "message": "Meklēšana pašlaik nav pieejama. Jūs varat novietot adatu kartē."
+  },
+  "real_simulation_location_selected": {
+    "message": "Izvēlētais punkts"
+  },
+  "real_simulation_location_custom": {
+    "message": "Pielāgota pozīcija"
+  },
+  "real_simulation_location_latitude": {
+    "message": "Plat."
+  },
+  "real_simulation_location_longitude": {
+    "message": "Gar."
+  },
+  "real_simulation_location_recents": {
+    "message": "Nesenie"
+  },
+  "real_simulation_location_zoom_in": {
+    "message": "Pietuvināt"
+  },
+  "real_simulation_location_zoom_out": {
+    "message": "Attālināt"
+  },
+  "real_simulation_location_recenter": {
+    "message": "Pārvietot uz centru"
+  },
+  "real_simulation_location_hint": {
+    "message": "Klikšķiniet vai velciet adatu"
+  },
+  "real_simulation_location_cancel": {
+    "message": "Atcelt"
+  },
+  "real_simulation_location_apply": {
+    "message": "Pielietot pozīciju"
+  },
+  "real_simulation_or": {
+    "message": "vai"
+  },
+  "real_simulation_buy_minutes_title": {
+    "message": "Pirkt $1 min"
+  },
+  "real_simulation_buy_minutes_validity": {
+    "message": "Bez abonementa, derīgas $1 mēnešus"
+  },
+  "real_simulation_buy_minutes_unit": {
+    "message": "$1 par minūti"
+  },
+  "real_simulation_buy_minutes_card": {
+    "message": "Saglabātā karte: $1"
+  },
+  "real_simulation_buy_minutes_subtotal": {
+    "message": "Starpsumma (bez PVN)"
+  },
+  "real_simulation_buy_minutes_tax": {
+    "message": "PVN ($1)"
+  },
+  "real_simulation_buy_minutes_total": {
+    "message": "Kopā (ar PVN)"
+  },
+  "real_simulation_buy_minutes_pay": {
+    "message": "Maksāt $1"
+  },
+  "real_simulation_buy_minutes_secure": {
+    "message": "Jūsu banka var lūgt apstiprināt maksājumu jaunā cilnē."
+  },
+  "real_simulation_buy_minutes_cancel": {
+    "message": "Atcelt"
+  },
+  "real_simulation_buy_minutes_retry": {
+    "message": "Mēģināt vēlreiz"
+  },
+  "real_simulation_buy_minutes_success": {
+    "message": "$1 minūtes ir pievienotas jūsu kontam."
+  },
+  "real_simulation_buy_minutes_no_card": {
+    "message": "Jūsu kontā nav saglabāta neviena bankas karte."
+  },
+  "real_simulation_buy_minutes_add_card": {
+    "message": "Pievienot karti"
+  },
+  "real_simulation_buy_minutes_not_eligible": {
+    "message": "Minūšu pirkšana ir pieejama tikai aktīviem abonementiem."
+  },
+  "real_simulation_buy_minutes_in_progress": {
+    "message": "Maksājums jau tiek apstiprināts. Pabeidziet to vai pagaidiet dažas minūtes."
+  },
+  "real_simulation_buy_minutes_processing": {
+    "message": "Jūsu maksājums tiek apstrādāts: minūtes tiks pievienotas pēc tā apstiprināšanas."
+  },
+  "real_simulation_buy_minutes_canceled": {
+    "message": "Maksājums atcelts. Nekāda summa nav iekasēta."
+  },
+  "real_simulation_buy_minutes_declined": {
+    "message": "Maksājumu jūsu banka ir noraidījusi. Nekāda summa nav iekasēta."
+  },
+  "real_simulation_buy_minutes_auth_failed": {
+    "message": "Maksājuma apstiprināšana neizdevās. Nekāda summa nav iekasēta."
+  },
+  "real_simulation_buy_minutes_error": {
+    "message": "Maksājumu nevarēja veikt. Mēģiniet vēlreiz pēc brīža."
+  },
+  "real_simulation_buy_minutes_close": {
+    "message": "Aizvērt"
+  },
+  "real_simulation_buy_minutes_invoice": {
+    "message": "Skatīt rēķinu"
+  },
+  "real_simulation_buy_minutes_invoice_notice": {
+    "message": "Rēķins tiek izsniegts par katru pirkumu."
+  },
+  "real_simulation_buy_minutes_team_member": {
+    "message": "Jūsu konta minūtes pārvalda administrators. Sazinieties ar viņu, lai tās papildinātu:"
+  },
+  "real_simulation_buy_minutes_team_member_no_email": {
+    "message": "Jūsu konta minūtes pārvalda administrators. Sazinieties ar viņu, lai tās papildinātu."
+  },
+  "real_simulation_buy_minutes_currency_unavailable": {
+    "message": "Minūšu pirkšana nav pieejama jūsu konta valūtā. Sazinieties ar mums."
+  },
+  "menu_faq_detect_simulator": {
+    "message": "Kā noteikt, ka mana vietne tiek rādīta simulatorā?"
+  },
+  "shortcut_real_simulation": {
+    "message": "Palaist / apturēt simulāciju uz īstas ierīces"
+  },
+  "real_simulation_language": {
+    "message": "Valoda"
+  },
+  "real_simulation_location_resolving": {
+    "message": "Atrašanās vietas noteikšana…"
+  },
+  "real_simulation_buy_minutes_change_card": {
+    "message": "Mainīt"
+  },
+  "real_simulation_buy_minutes_update_card": {
+    "message": "Mainīt manu maksājumu karti"
+  },
+  "real_simulation_device_compatible": {
+    "message": "Saderīgs ar Live Device"
+  },
+  "real_simulation_past_due_title": {
+    "message": "Maksājums gaida"
+  },
+  "real_simulation_past_due_note": {
+    "message": "Jūsu abonementa pēdējais maksājums neizdevās. Atjauniniet savu maksājuma veidu, lai atgūtu savas simulācijas minūtes uz reālas ierīces."
+  },
+  "real_simulation_past_due_team_note": {
+    "message": "Jūsu komandas abonementa pēdējais maksājums neizdevās. Jūsu simulācijas minūtes uz reālas ierīces atgriezīsies, tiklīdz tās administrators to būs nokārtojis."
+  },
+  "real_simulation_past_due_button": {
+    "message": "Atjaunināt maksājumu"
+  }
+}

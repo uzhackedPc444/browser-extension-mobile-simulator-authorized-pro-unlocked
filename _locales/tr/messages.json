@@ -1,0 +1,1406 @@
+{
+  "extName": {
+    "message": "Mobil Telefon Simülatörü - Duyarlı site testi"
+  },
+  "extDescription": {
+    "message": "Phone Simulator — 80'den fazla cihazda sitelerinizi test etmek ve önizlemek için ücretsiz Chrome uzantısı"
+  },
+  "global": {
+    "message": "--------------------------------------------------------"
+  },
+  "android_smartphone": {
+    "message": "<i class='mdi'>&#xe922;</i> Android Telefonlar"
+  },
+  "apple_smartphone": {
+    "message": "<i class='mdi'>&#xeabe;</i> Apple Telefonlar"
+  },
+  "tablet": {
+    "message": "<i class='mdi'>&#xe920;</i> Tabletler"
+  },
+  "others": {
+    "message": "<i class='mdi'>&#xe921;</i> Özel"
+  },
+  "copied": {
+    "message": "Kopyalandı"
+  },
+  "error": {
+    "message": "Hata"
+  },
+  "link": {
+    "message": "Bağlantı"
+  },
+  "optional": {
+    "message": "İsteğe bağlı"
+  },
+  "close": {
+    "message": "Kapat"
+  },
+  "get_pro": {
+    "message": "PRO sürümünü edinin"
+  },
+  "error_contact": {
+    "message": "Sorun devam ederse {bize ulaşın}."
+  },
+  "more_settings": {
+    "message": "Daha fazla ayar"
+  },
+  "dimensions": {
+    "message": "Boyutlar"
+  },
+  "context_menu": {
+    "message": "--------------------------------------------------------"
+  },
+  "context_menu_activate": {
+    "message": "Bu sekmede mobil görünümü etkinleştir"
+  },
+  "popup": {
+    "message": "--------------------------------------------------------"
+  },
+  "popup_site_incompatible": {
+    "message": "Simülatör, tarayıcınızın bu yerel sayfasında etkinleştirilemez. Başka bir sekmede deneyin veya bir siteye gidin ve yeniden başlatın."
+  },
+  "popup_activate_local_files_info": {
+    "message": "Bu simülatör, yerel dosyalarda (file:///) varsayılan olarak etkinleştirilemez ancak Chrome ayarlarından manuel olarak etkinleştirebilirsiniz."
+  },
+  "popup_activate_local_files_button": {
+    "message": "Seçeneği etkinleştir"
+  },
+  "menu": {
+    "message": "--------------------------------------------------------"
+  },
+  "menu_close_alone": {
+    "message": "Simülatörü devre dışı bırak"
+  },
+  "menu_change_device": {
+    "message": "Cihazı değiştir veya karşılaştır"
+  },
+  "menu_contact_devices": {
+    "message": "<i class='mdi'>&#xe900;</i> Aradığınız cihaz listede yok mu? Bize bildirin!"
+  },
+  "menu_info_device": {
+    "message": "Bu cihazın özellikleri ve mockup'u"
+  },
+  "menu_info_device_features": {
+    "message": "Özellikler (görünüm çözünürlüğü, vb.)"
+  },
+  "menu_info_device_mockup": {
+    "message": "Ücretsiz şeffaf PNG mockup"
+  },
+  "menu_rotate": {
+    "message": "Yönü değiştir"
+  },
+  "menu_zoom": {
+    "message": "Cihazda yakınlaştır"
+  },
+  "menu_screenshot": {
+    "message": "Ekran görüntüsü al"
+  },
+  "menu_screencast": {
+    "message": "Ekran videosu kaydet"
+  },
+  "menu_share": {
+    "message": "Bir meslektaşla, bir arkadaşla paylaş..."
+  },
+  "menu_send_improvement": {
+    "message": "Geliştirme öner"
+  },
+  "menu_send_message": {
+    "message": "Yardım merkezi"
+  },
+  "menu_faq_title": {
+    "message": "Sıkça Sorulan Sorular"
+  },
+  "menu_faq_media_queries": {
+    "message": "Medya sorgularım dikkate alınmıyor"
+  },
+  "menu_faq_ignonito_mode": {
+    "message": "Simülatörü gizli modda nasıl etkinleştiririm?"
+  },
+  "menu_faq_scroll": {
+    "message": "Simülatörde kaydırma yapılamıyor"
+  },
+  "menu_faq_subscription": {
+    "message": "Aboneliğim neden çalışmıyor?"
+  },
+  "menu_faq_shortcut": {
+    "message": "Klavye kısayollarını nasıl ayarlayabilirim?"
+  },
+  "menu_faq_all": {
+    "message": "Tüm sıkça sorulan soruları gör"
+  },
+  "menu_report": {
+    "message": "Bir hata bildir"
+  },
+  "menu_settings": {
+    "message": "Yapılandırma"
+  },
+  "menu_extensions": {
+    "message": "Diğer Chrome uzantılarımızı keşfedin"
+  },
+  "menu_vote_feature": {
+    "message": "İstediğiniz özellikler için oy verin"
+  },
+  "simulator": {
+    "message": "--------------------------------------------------------"
+  },
+  "simulator_header_info": {
+    "message": "Bu sadece bir resimdir. URL'yi değiştirmek için yukarıdaki Chrome alanını kullanın."
+  },
+  "simulator_footer_info": {
+    "message": "Bu sadece bir resimdir. Kendi klavyenizi kullanın."
+  },
+  "screencast": {
+    "message": "--------------------------------------------------------"
+  },
+  "screencast_tooltip_device": {
+    "message": "Yalnızca cihazın video kaydı"
+  },
+  "screencast_tooltip_tab": {
+    "message": "Sekme ile cihazın video kaydı"
+  },
+  "screencast_error": {
+    "message": "Kayıt sırasında bir hata oluştu. Bir geçici çözüm için {buraya tıklayın}."
+  },
+  "screencast_modale_title": {
+    "message": "Video kaydı"
+  },
+  "screencast_modale_texte": {
+    "message": "Bu videoyu farklı formatlarda indirebilir veya bir paylaşım bağlantısı alabilirsiniz."
+  },
+  "screencast_modale_download_webm": {
+    "message": "Varsayılan WEBM formatında indir (şeffaflık seçeneği etkinse)"
+  },
+  "screencast_modale_download_mp4": {
+    "message": "PowerPoint ile daha iyi uyumluluk, ancak şeffaflık yok"
+  },
+  "screencast_modale_download_gif": {
+    "message": "Her yerde uyumlu, ancak daha düşük kalite (şeffaflık seçeneği etkinse)"
+  },
+  "screencast_modale_gif_duration_limit_info": {
+    "message": "Bir GIF'in maksimum süresi 60 saniyedir. Daha uzun olursa dosya çok büyük olur."
+  },
+  "screencast_modale_copy": {
+    "message": "Kopyala"
+  },
+  "screencast_modale_upload": {
+    "message": "Paylaşım bağlantısı al"
+  },
+  "screencast_modale_contact": {
+    "message": "Bir hata bildir, bir geliştirme öner"
+  },
+  "screencast_start_recording": {
+    "message": "Kaydı başlat"
+  },
+  "screencast_microphone_permission_denied": {
+    "message": "Mikrofon erişim izni reddedildi."
+  },
+  "screencast_camera_permission_denied": {
+    "message": "Kamera erişim izni reddedildi."
+  },
+  "screencast_error_media_stream_track_processor_or_generator": {
+    "message": "Chrome sürümünüz bu özellik için çok eski. Lütfen Chrome'u 94.0 üzeri bir sürüme güncelleyin."
+  },
+  "screencast_quality_info_tooltip": {
+    "message": "Video kalitesi, bitrate, fps ve kayıt çözünürlüğünü etkiler. Kalite ne kadar yüksekse dosya o kadar büyük olur."
+  },
+  "screencast_modale_auto_stop_limit_reached": {
+    "message": "Ücretsiz sürümde video kayıtları 5 dakika ile sınırlıdır."
+  },
+  "screenshot": {
+    "message": "--------------------------------------------------------"
+  },
+  "screenshot_menu_1": {
+    "message": "Cihaz ile ekran görüntüsü al"
+  },
+  "screenshot_menu_2": {
+    "message": "Sadece sitenin çekimi"
+  },
+  "screenshot_menu_3": {
+    "message": "Tüm sayfanın çekimi"
+  },
+  "screenshot_menu_4": {
+    "message": "Tüm sekmenin çekimi"
+  },
+  "screenshot_button": {
+    "message": "Çekim oluştur"
+  },
+  "screenshot_modale_download_png": {
+    "message": "PNG formatında indir (sıkıştırma yok)"
+  },
+  "screenshot_modale_download_webp": {
+    "message": "WEBP formatında indir, neredeyse her yerde uyumlu ve optimize edilmiş sıkıştırma (önerilir)"
+  },
+  "screenshot_menu_stop_fullpage": {
+    "message": "Sayfa sonundan önce durdur"
+  },
+  "screenshot_modale_title": {
+    "message": "Ekran görüntüsü"
+  },
+  "screenshot_modale_copy": {
+    "message": "Görüntüyü panoya kopyala"
+  },
+  "screenshot_modale_edit": {
+    "message": "Çekimi düzenle"
+  },
+  "screenshot_modale_help": {
+    "message": "Görüntüyü büyük formatta kaydetmek için üzerine sağ tıklayıp \"Görüntüyü Kopyala\" veya \"Kaydet\" seçeneğini seçin."
+  },
+  "screenshot_editor_close": {
+    "message": "Editörü kapat"
+  },
+  "screenshot_editor_undo": {
+    "message": "Son işlemi geri al"
+  },
+  "screenshot_editor_rect": {
+    "message": "Dikdörtgen çiz"
+  },
+  "screenshot_editor_ellipse": {
+    "message": "Daire çiz"
+  },
+  "screenshot_editor_line": {
+    "message": "Çizgi çiz"
+  },
+  "screenshot_editor_arrow": {
+    "message": "Ok çiz"
+  },
+  "screenshot_editor_pen": {
+    "message": "Serbest çizim"
+  },
+  "screenshot_editor_color": {
+    "message": "Çizgi rengi"
+  },
+  "screenshot_editor_stroke_width": {
+    "message": "Çizgi kalınlığı"
+  },
+  "pro": {
+    "message": "--------------------------------------------------------"
+  },
+  "pro_modale_h1": {
+    "message": "PRO olun"
+  },
+  "pro_modale_h1_all_formats": {
+    "message": "Video çekimlerinizi GIF ve MP4 formatlarına dönüştürün"
+  },
+  "pro_modale_h1_devices": {
+    "message": "Tüm cihazları simüle edin"
+  },
+  "pro_modale_h1_settings": {
+    "message": "Tüm ayarların kilidini açın"
+  },
+  "pro_modale_h1_screencast": {
+    "message": "Tüm video kayıt ayarlarının kilidini açın"
+  },
+  "pro_modale_h1_ads": {
+    "message": "Reklamları kaldırın"
+  },
+  "pro_modale_h1_image_editor": {
+    "message": "Çekimlerinizi düzenleyin"
+  },
+  "pro_modale_h1_unlimited_screenshots": {
+    "message": "Sınırsız ekran görüntüsü alın"
+  },
+  "pro_modale_h2": {
+    "message": "PRO olun ve bu uzantının geliştirilmesine katkıda bulunarak geliştiricisini destekleyin."
+  },
+  "pro_modale_billed_annualy": {
+    "message": "Yıllık faturalandırılır"
+  },
+  "pro_modale_savings": {
+    "message": "Tasarruf edin"
+  },
+  "pro_modale_from": {
+    "message": "Başlangıç"
+  },
+  "pro_modale_recurring_month": {
+    "message": "ay"
+  },
+  "pro_modale_button": {
+    "message": "Abone oluyorum"
+  },
+  "pro_modale_link_1": {
+    "message": "Veya"
+  },
+  "pro_modale_link_2": {
+    "message": "giriş yapıyorum"
+  },
+  "pro_modale_link_3": {
+    "message": "abonelik hesabıma"
+  },
+  "pro_modale_avantage_1": {
+    "message": "Tüm video ayarları"
+  },
+  "pro_modale_avantage_2": {
+    "message": "Çoklu cihaz karşılaştırması"
+  },
+  "sharing": {
+    "message": "--------------------------------------------------------"
+  },
+  "sharing_h1": {
+    "message": "Bu mobil simülatör sana faydalı mı?"
+  },
+  "sharing_h2": {
+    "message": "O zaman meslektaşların veya arkadaşlarınla paylaş"
+  },
+  "sharing_txt": {
+    "message": "Mobil ve tablet üzerinde sitenizi test etmek için simülatör"
+  },
+  "sharing_review_1": {
+    "message": "Ve bir dakikan varsa"
+  },
+  "sharing_review_2": {
+    "message": "bir inceleme ekle"
+  },
+  "sharing_review_3": {
+    "message": "o zaman bu pastanın üzerindeki kiraz olur! 🙂"
+  },
+  "sharing_review_button": {
+    "message": "Bir inceleme ekliyorum"
+  },
+  "other_extensions": {
+    "message": "--------------------------------------------------------"
+  },
+  "other_extensions_h1": {
+    "message": "En yeni ücretsiz uzantılarımızı keşfedin"
+  },
+  "other_extensions_color_picker_title": {
+    "message": "Renk seçici"
+  },
+  "other_extensions_color_picker_description": {
+    "message": "Bu uzantı, ekrandaki herhangi bir rengi yakalamanıza olanak tanır."
+  },
+  "other_extensions_font_finder_title": {
+    "message": "Yazı tipi bulucu"
+  },
+  "other_extensions_font_finder_description": {
+    "message": "Bir web sayfasındaki herhangi bir metinde kullanılan yazı tipini bir tıklamayla tanımlayın."
+  },
+  "other_extensions_button": {
+    "message": "Yükle"
+  },
+  "review": {
+    "message": "--------------------------------------------------------"
+  },
+  "review_h1": {
+    "message": "Bu uzantıyı nasıl değerlendirirsiniz?"
+  },
+  "review_note_store": {
+    "message": "Geri bildiriminiz için teşekkür ederiz, lütfen uzantı sayfasına bir not eklemekten çekinmeyin. Çok minnettar olurum 😊"
+  },
+  "review_note_feedback": {
+    "message": "Geri bildiriminiz için teşekkürler, bu uzantıyı geliştirmemiz için bize bir mesaj göndermekten çekinmeyin."
+  },
+  "button_feedback": {
+    "message": "Bir not ekle"
+  },
+  "button_message": {
+    "message": "Bize bir mesaj gönderin"
+  },
+  "contact": {
+    "message": "--------------------------------------------------------"
+  },
+  "contact_message_field_name": {
+    "message": "Cihaz adı"
+  },
+  "contact_message_field_placeholder": {
+    "message": "Samsung Galaxy S24 Ultra, iPhone 17 Pro Max, vb."
+  },
+  "contact_title": {
+    "message": "Aradığınız cihaz listede yok mu? Bize bildirin!"
+  },
+  "settings": {
+    "message": "--------------------------------------------------------"
+  },
+  "settings_h2_device": {
+    "message": "Cihaz"
+  },
+  "settings_h2_global": {
+    "message": "Genel"
+  },
+  "settings_hide_header_footer": {
+    "message": "Cihazın tarayıcı arayüzünü gizle (adres çubuğu, vb.)"
+  },
+  "settings_hide_keyboard": {
+    "message": "Yazarken klavyenin görünmesini simüle et"
+  },
+  "settings_scrollbar_show": {
+    "message": "Cihazda yerel kaydırma çubuğunu göster"
+  },
+  "settings_change_cursor": {
+    "message": "Dokunmatik kaydırma ve mobil imleç gösterimi"
+  },
+  "settings_change_background": {
+    "message": "Arka plan rengini değiştir"
+  },
+  "settings_default_device": {
+    "message": "Her etkinleştirmede varsayılan terminal"
+  },
+  "settings_change_analytics": {
+    "message": "Geliştiriciye %100 anonim ve kişisel olmayan kullanım verilerini paylaşarak uzantıyı geliştirmesine yardımcı olun."
+  },
+  "settings_device_hide": {
+    "message": "Cihaz çerçevesini göster"
+  },
+  "settings_batterie_level": {
+    "message": "Cihaz başlığındaki pil seviyesi (%)"
+  },
+  "settings_device_default_url": {
+    "message": "Cihazda görüntülenen URL'yi değiştir"
+  },
+  "settings_presenter_mode": {
+    "message": "Sunum modu (sağdaki menü sadece üzerine gelindiğinde görünür)"
+  },
+  "settings_fullscreen": {
+    "message": "Cihazda tam ekran site"
+  },
+  "settings_default_device_placeholder": {
+    "message": "Bir cihaz seç"
+  },
+  "settings_video_quality": {
+    "message": "Video kalitesi"
+  },
+  "settings_video_quality_low": {
+    "message": "Orta"
+  },
+  "settings_video_quality_medium": {
+    "message": "İyi"
+  },
+  "settings_video_quality_high": {
+    "message": "Mükemmel"
+  },
+  "settings_theme": {
+    "message": "Tema"
+  },
+  "settings_theme_light": {
+    "message": "Açık"
+  },
+  "settings_theme_dark": {
+    "message": "Koyu"
+  },
+  "settings_theme_auto": {
+    "message": "Otomatik"
+  },
+  "settings_shortcuts": {
+    "message": "Klavye kısayollarını tanımla"
+  },
+  "settings_pro_account": {
+    "message": "Aboneliğimi yönet"
+  },
+  "settings_microphone": {
+    "message": "Mikrofon"
+  },
+  "settings_camera": {
+    "message": "Kamera"
+  },
+  "settings_countdown": {
+    "message": "Geri sayım (saniye)"
+  },
+  "settings_transparent_background": {
+    "message": "Şeffaf arka plan"
+  },
+  "settings_transparent_background_info": {
+    "message": "Bu seçenek daha fazla hesaplama gerektirir ve bilgisayarınıza bağlı olarak görüntülemede potansiyel bir yavaşlamaya neden olabilir (sadece WEBM ve GIF formatlarıyla uyumlu)"
+  },
+  "screenshot_workaround": {
+    "message": "--------------------------------------------------------"
+  },
+  "screenshot_workaround_title": {
+    "message": "Ekran görüntüsü için geçici çözüm"
+  },
+  "screenshot_workaround_context": {
+    "message": "Bağlam"
+  },
+  "screenshot_workaround_context_text": {
+    "message": "Bazı teknik sınırlamalar nedeniyle, ekran görüntüsü alırken bu hata mesajını alabilirsiniz."
+  },
+  "screenshot_workaround_solution": {
+    "message": "Geçici çözüm"
+  },
+  "screenshot_workaround_solution_text": {
+    "message": "Bu durumda çekimi başlatmak için sayfanın herhangi bir yerine sağ tıklayın, \"Mobil Simülatör\" seçeneğini seçin, ardından \"📷 Ekran görüntüsü al\" seçeneğini seçin"
+  },
+  "feedback": {
+    "message": "--------------------------------------------------------"
+  },
+  "feedback_title": {
+    "message": "Mobile FIRST'ü sizin için daha kullanışlı hale getirmemize yardımcı olun 🚀"
+  },
+  "feedback_profession": {
+    "message": "Mesleki departmanınız nedir?"
+  },
+  "feedback_profession_developer": {
+    "message": "Geliştirme"
+  },
+  "feedback_profession_designer": {
+    "message": "Tasarım"
+  },
+  "feedback_profession_qa": {
+    "message": "Test / QA"
+  },
+  "feedback_profession_product": {
+    "message": "Ürün yönetimi"
+  },
+  "feedback_profession_marketing": {
+    "message": "Pazarlama"
+  },
+  "feedback_profession_sales": {
+    "message": "Satış"
+  },
+  "feedback_profession_other": {
+    "message": "Diğer"
+  },
+  "feedback_company_type": {
+    "message": "Şirket türünüz nedir?"
+  },
+  "feedback_company_type_freelance": {
+    "message": "Serbest çalışan"
+  },
+  "feedback_company_type_micro_business": {
+    "message": "Mikro işletme (1-9 çalışan)"
+  },
+  "feedback_company_type_agency": {
+    "message": "Küçük işletme (10-49 çalışan)"
+  },
+  "feedback_company_type_startup": {
+    "message": "Orta ölçekli işletme (50-249 çalışan)"
+  },
+  "feedback_company_type_pme": {
+    "message": "Büyük işletme (250-4999 çalışan)"
+  },
+  "feedback_company_type_grandeentreprise": {
+    "message": "Çok büyük işletme / grup (5000+ çalışan)"
+  },
+  "feedback_use_cases": {
+    "message": "Mobile FIRST'ü neden kullanıyorsunuz?"
+  },
+  "feedback_useCases_placeholder": {
+    "message": "Sitemi test etmek, müşteri demoları yapmak..."
+  },
+  "feedback_frequency": {
+    "message": "Bu uzantıyı ne sıklıkla kullanıyorsunuz?"
+  },
+  "feedback_frequency_quotidien": {
+    "message": "Günlük"
+  },
+  "feedback_frequency_plusieursfoisparsemaine": {
+    "message": "Haftada birkaç kez"
+  },
+  "feedback_frequency_occasionnel": {
+    "message": "Ara sıra"
+  },
+  "feedback_frequency_rare": {
+    "message": "Nadir"
+  },
+  "feedback_improvements": {
+    "message": "Hangi geliştirmeleri görmek istersiniz?"
+  },
+  "feedback_improvements_placeholder": {
+    "message": "Bir fikir, bir sürtüşme, bir eksiklik..."
+  },
+  "feedback_submit": {
+    "message": "Gönder"
+  },
+  "feedback_close": {
+    "message": "Yanıt verme"
+  },
+  "feedback_error_required": {
+    "message": "Tüm alanlar boş 🤔"
+  },
+  "feedback_submitted": {
+    "message": "Geri bildiriminiz için çok teşekkürler 🤗"
+  },
+  "select": {
+    "message": "Seç..."
+  },
+  "modales": {
+    "message": "--------------------------------------------------------"
+  },
+  "new_video_feature_h1": {
+    "message": "Yeni video çekim özelliğini hemen keşfedin!"
+  },
+  "new_video_feature_h2": {
+    "message": "Daha iyi kalite, yeni seçenekler ve şeffaf arka plan ile kaydedin"
+  },
+  "logout_modale_title": {
+    "message": "Bu cihazda otomatik olarak çıkış yaptınız"
+  },
+  "logout_modale_message": {
+    "message": "Bu cihaz artık yetkili cihazlarınız arasında değil. Bu erişimi manuel olarak kaldırdıysanız, yeniden giriş yapmanız gerekmektedir."
+  },
+  "notifications": {
+    "message": "--------------------------------------------------------"
+  },
+  "notification_update_title_vwelcome": {
+    "message": "<strong class='mb-2 is-block'>Mobile FIRST'e hoş geldiniz 👋</strong>Telefonları, tabletleri ve bilgisayarları tek tıkla simüle edin ve sitelerinizi kolayca test edin ve görüntüleyin.<br><br><strong>Menü sağda ➡️</strong>"
+  },
+  "notification_update_title_v4_14_5": {
+    "message": "<strong class='mb-2 is-block'>Güncelleme v4.14.5</strong>Ekran görüntülerinin <strong>çözünürlüğü ve kalitesinde</strong> önemli bir artış <i class='mdi'>&#xe903;</i>"
+  },
+  "logout_modale_button": {
+    "message": "Giriş yap"
+  },
+  "logout_modale_message_2": {
+    "message": "ℹ️ Aboneliğinizi paylaşmak mı istiyorsunuz? Başkalarını yetkilendirmek için, onları hesabınızın \"Kullanıcılar\" bölümünden ekleyin."
+  },
+  "logout_modale_message2": {
+    "message": "Güvenlik nedeniyle hesabınızdan otomatik olarak çıkış yapıldı. Ancak aşağıdaki düğmeye tıklayarak tekrar giriş yapabilirsiniz."
+  },
+  "notification_update_title_v4_15_0": {
+    "message": "<strong class='mb-2 is-block'>Güncelleme v4.15.0</strong>Akıllı telefonlar ve tabletler için <strong>dokunmatik kaydırma</strong> etkinleştirildi <i class='mdi'>&#xe905;</i>"
+  },
+  "menu_add_window": {
+    "message": "Pencere ekle"
+  },
+  "settings_sync_events": {
+    "message": "Pencereler arasında olayları senkronize et (tıklama, kaydırma, vb.)"
+  },
+  "pro_modale_h1_multi_devices": {
+    "message": "Aynı anda ikiden fazla cihazı karşılaştırın"
+  },
+  "notification_update_title_v4_15_2": {
+    "message": "<strong class='mb-2 is-block'>Güncelleme v4.15.0</strong>Akıllı telefonlar ve tabletler için <strong>dokunmatik kaydırma</strong> etkinleştirildi."
+  },
+  "settings_pro_account_past_due": {
+    "message": "Aboneliğinizin yenilenmesi başarısız oldu. PRO sürümünü korumak için lütfen ödeme bilgilerinizi güncelleyin."
+  },
+  "notification_update_title_v4_15_5": {
+    "message": "<strong class='mb-2 is-block'>Güncelleme v4.15.5</strong><ul><li><strong>Yerel dosyalar</strong> üzerinde tam sayfa ekran görüntüsü düzeltmesi.</li><li><strong>iOS&nbsp;26</strong> üzerinde vh, dhv, lvh, svh birimleriyle ilgili düzeltme.</li></ul>"
+  },
+  "menu_active_devices": {
+    "message": "Sekmede görünen cihazlar"
+  },
+  "menu_favorites": {
+    "message": "<i class='mdi mdi-star favorites-icon is-size-6'></i> Favoriler"
+  },
+  "menu_enable_comparison_mode": {
+    "message": "Karşılaştırma modunu etkinleştir"
+  },
+  "menu_disable_comparison_mode": {
+    "message": "Karşılaştırma modunu devre dışı bırak"
+  },
+  "menu_custom_devices": {
+    "message": "<i class='mdi'>&#xe917;</i>&nbsp;&nbsp;Özel cihazlarım"
+  },
+  "menu_custom_devices_banner": {
+    "message": "Kendi özel cihazlarınızı ekleyin!"
+  },
+  "custom_device_title": {
+    "message": "Özel cihaz ekle"
+  },
+  "custom_device_add": {
+    "message": "Özel cihaz ekle"
+  },
+  "custom_device_name": {
+    "message": "Cihaz adı"
+  },
+  "custom_device_ua_preset": {
+    "message": "Kullanıcı ajanı"
+  },
+  "custom_device_ua_custom": {
+    "message": "Özel kullanıcı ajanı"
+  },
+  "custom_device_ua": {
+    "message": "Kullanıcı ajanı dizesi"
+  },
+  "custom_device_os_name": {
+    "message": "İşletim sistemi"
+  },
+  "custom_device_os_version": {
+    "message": "OS sürümü"
+  },
+  "custom_device_width": {
+    "message": "Viewport genişliği (px)"
+  },
+  "custom_device_height": {
+    "message": "Viewport yüksekliği (px)"
+  },
+  "custom_device_dpr": {
+    "message": "Cihaz piksel oranı"
+  },
+  "custom_device_network": {
+    "message": "Ağ"
+  },
+  "custom_device_more": {
+    "message": "Daha fazla ayar"
+  },
+  "custom_device_less": {
+    "message": "Daha az ayar"
+  },
+  "custom_device_submit": {
+    "message": "Ekle"
+  },
+  "custom_device_error_name": {
+    "message": "Cihaz adı zorunludur."
+  },
+  "custom_device_error_ua": {
+    "message": "Kullanıcı ajanı zorunludur."
+  },
+  "custom_device_error_os": {
+    "message": "İşletim sistemi zorunludur."
+  },
+  "custom_device_error_viewport": {
+    "message": "Viewport genişliği ve yüksekliği 10 ile 4096 arasında olmalıdır."
+  },
+  "notification_update_title_v4_16_0": {
+    "message": "<strong class='mb-2 is-block'>Update v4.16.0</strong>Özel cihazlar oluşturma imkanı eklendi <i class='mdi'>&#xe917;</i>"
+  },
+  "new_comparison_feature_h1": {
+    "message": "Birden fazla cihazı karşılaştırma yeni özelliğini hemen keşfedin!"
+  },
+  "new_comparison_feature_h2": {
+    "message": "Aynı pencerede birden fazla cihazın eşzamanlı görüntüsünü karşılaştırın. Kaydırma, tıklamalar, klavye senkronize."
+  },
+  "try_it": {
+    "message": "Şimdi deneyin"
+  },
+  "menu_close_window": {
+    "message": "Bu pencereyi kapat"
+  },
+  "notification_update_title_v4_17_0": {
+    "message": "<strong class='mb-2 is-block'>Güncelleme v4.17.0</strong>Aynı anda birden fazla cihazı karşılaştırma özelliği eklendi! <i class='mdi'>&#xe917;</i>"
+  },
+  "screencast_firefox_select_tab": {
+    "message": "Kaydın doğru şekilde çerçevelenmesi için lütfen yalnızca geçerli pencereyi (tüm ekranı değil) paylaşın."
+  },
+  "latest_updates": {
+    "message": "Son Güncellemeler"
+  },
+  "see_more": {
+    "message": "Daha Fazla Gör"
+  },
+  "see_less": {
+    "message": "Daha Az Gör"
+  },
+  "update_tag_new": {
+    "message": "YENİ"
+  },
+  "update_tag_feature": {
+    "message": "ÖZELLİK"
+  },
+  "update_tag_improvement": {
+    "message": "İYİLEŞTİRME"
+  },
+  "update_tag_fix": {
+    "message": "DÜZELTME"
+  },
+  "update_4_19_0_title": {
+    "message": "6 yeni Android cihaz"
+  },
+  "update_4_19_0_description": {
+    "message": "3 Google Pixel 10 modeli, Motorola Razr 70 Ultra, Infinix Hot 70 ve Samsung Galaxy A17."
+  },
+  "update_4_17_0_title": {
+    "message": "Cihaz Karşılaştırması"
+  },
+  "update_4_17_0_description": {
+    "message": "Birden fazla cihazı yan yana aynı anda karşılaştırın. Tıklamalar, kaydırmalar ve klavye senkronize edilir."
+  },
+  "update_4_16_0_title": {
+    "message": "Özel Cihazlar"
+  },
+  "update_4_16_0_description": {
+    "message": "Artık belirli boyutlarla kendi cihazlarınızı ekleyebilirsiniz."
+  },
+  "update_4_15_5_title": {
+    "message": "Düzeltmeler"
+  },
+  "update_4_15_5_description": {
+    "message": "Yerel dosyalarda tam sayfa ekran görüntüleri ve iOS 26 üzerindeki görüntüleme birimleri düzeltmeleri (vh, dhv, lvh, svh)."
+  },
+  "update_4_15_0_title": {
+    "message": "Dokunmatik Kaydırma"
+  },
+  "update_4_15_0_description": {
+    "message": "Akıllı telefonlar ve tabletlerde dokunmatik kaydırmayı etkinleştirme."
+  },
+  "update_4_14_5_title": {
+    "message": "Daha Net Görüntüler"
+  },
+  "update_4_14_5_description": {
+    "message": "Ekran görüntülerinin çözünürlüğü ve kalitesinde önemli iyileştirme."
+  },
+  "pro_modale_toggle_annual": {
+    "message": "Yıllık"
+  },
+  "pro_modale_toggle_monthly": {
+    "message": "Aylık"
+  },
+  "pro_modale_trial_after_days": {
+    "message": "7 günlük ücretsiz denemenizden sonra"
+  },
+  "pro_modale_trial_button": {
+    "message": "7 günlük ücretsiz denememi başlat"
+  },
+  "pro_modale_trial_h1": {
+    "message": "PRO sürümünü 7 gün boyunca ücretsiz deneyin"
+  },
+  "pro_modale_trial_note": {
+    "message": "Bugün ödeme yok · Taahhütsüz, istediğiniz zaman iptal edilebilir"
+  },
+  "pro_modale_trial_then": {
+    "message": "sonra"
+  },
+  "pro_modale_trial_today": {
+    "message": "bugün"
+  },
+  "settings_pwa_auto_detect": {
+    "message": "PWA'ları otomatik olarak algıla ve mobil uygulama olarak göster."
+  },
+  "settings_title": {
+    "message": "Ayarlar"
+  },
+  "settings_nav_device": {
+    "message": "Cihaz"
+  },
+  "settings_nav_appearance": {
+    "message": "Görünüm"
+  },
+  "settings_nav_account": {
+    "message": "Hesap"
+  },
+  "settings_os_display": {
+    "message": "OS Görüntüleme"
+  },
+  "settings_os_display_full_desc": {
+    "message": "OS durum çubuğunu ve tarayıcıyı (adres çubuğu) gösterir."
+  },
+  "settings_os_display_no_browser_desc": {
+    "message": "Tarayıcıyı gizler ancak OS durum çubuğunu korur."
+  },
+  "settings_os_display_no_os_desc": {
+    "message": "OS durum çubuğunu ve tarayıcıyı gizler."
+  },
+  "settings_h2_display": {
+    "message": "Genel Görüntüleme"
+  },
+  "settings_h2_customization": {
+    "message": "Özelleştirme"
+  },
+  "settings_h2_multiwindow": {
+    "message": "Çoklu pencere modu"
+  },
+  "settings_h2_pwa": {
+    "message": "PWA"
+  },
+  "settings_account_cta_title": {
+    "message": "Hesabınıza erişin"
+  },
+  "settings_account_cta_subtitle": {
+    "message": "PRO sürümün kilidini açmak için kaydolun veya zaten bir hesabınız varsa giriş yapın."
+  },
+  "settings_signup_button": {
+    "message": "Kaydol"
+  },
+  "settings_login_button": {
+    "message": "Giriş yap"
+  },
+  "settings_subscribe": {
+    "message": "PRO sürümün kilidini aç"
+  },
+  "settings_subscribe_button": {
+    "message": "Abone ol"
+  },
+  "settings_pro_account_cancel_at_period_end": {
+    "message": "Aboneliğiniz şu tarihte sona erecek"
+  },
+  "settings_pro_account_reactivate": {
+    "message": "Aboneliğimi yeniden etkinleştir"
+  },
+  "settings_account_greeting": {
+    "message": "Merhaba $1,"
+  },
+  "simulator_framing_blocked": {
+    "message": "$1, sayfalarının başka bir sayfa içinde görüntülenmesine izin vermiyor: site Firefox'ta simüle edilemez."
+  },
+  "settings_device_forced_time": {
+    "message": "Cihazda gösterilen saati zorla"
+  },
+  "settings_device_forced_time_reset": {
+    "message": "Geçerli saate geri dön"
+  },
+  "device_variant_folded": {
+    "message": "Katlanmış"
+  },
+  "device_variant_unfolded": {
+    "message": "Açılmış"
+  },
+  "update_4_21_0_title": {
+    "message": "4 yeni iPhone"
+  },
+  "update_4_21_0_description": {
+    "message": "iPhone 18 Pro, iPhone 18 Pro Max ve katlanabilir iPhone Duo, katlanmış ve açılmış versiyonlarıyla."
+  },
+  "update_4_22_0_title": {
+    "message": "Live device'ı keşfedin"
+  },
+  "update_4_22_0_description": {
+    "message": "Sitenizi bulutta barındırılan ve sekmenizden canlı olarak kontrol edilen bir iOS veya Android cihazda çalıştırın."
+  },
+  "device_mockup_blocked_title": {
+    "message": "Cihaz maketi kullanılamıyor"
+  },
+  "device_mockup_blocked": {
+    "message": "Cihaz görseli yüklenemedi. Bu, bir reklam engelleyici veya şirketinizin güvenlik politikası nedeniyle olabilir. Simülatör tamamen kullanılabilir durumda, yalnızca maket görüntülenmiyor."
+  },
+  "pro_modale_h1_real_simulation": {
+    "message": "Sitenizi buluttan gerçek bir cihazda test edin"
+  },
+  "settings_nav_cloud_devices": {
+    "message": "Live device"
+  },
+  "settings_display_real_simulation_info": {
+    "message": "Live device oturumu sırasında görüntü özelleştirme ayarları etkin değildir."
+  },
+  "menu_real_simulation_on": {
+    "message": "Gerçek bir cihazda başlat"
+  },
+  "menu_real_simulation_off": {
+    "message": "Yerel simülasyona geri dön"
+  },
+  "real_simulation_starting": {
+    "message": "Gerçek bir cihaza bağlanılıyor…"
+  },
+  "real_simulation_remaining": {
+    "message": "Bu ay $1 dakika kaldı"
+  },
+  "real_simulation_quota_exceeded": {
+    "message": "Bu ay için tüm gerçek cihaz dakikalarınızı kullandınız. Yerel simülasyon hala kullanılabilir."
+  },
+  "real_simulation_login_required": {
+    "message": "Sitenizi gerçek bir cihazda başlatmak için Mobile FIRST hesabınıza giriş yapın."
+  },
+  "real_simulation_local_title": {
+    "message": "Bu site yerel bir sunucuda çalışıyor, gerçek cihaz erişemez."
+  },
+  "real_simulation_local_text": {
+    "message": "Aşağıdaki komutla bir tünel açarak, ardından elde edilen genel adresi yapıştırarak erişim sağlayın."
+  },
+  "real_simulation_local_placeholder": {
+    "message": "https://ornek.trycloudflare.com"
+  },
+  "real_simulation_local_invalid": {
+    "message": "Yerel bir adres değil, genel bir adres girin."
+  },
+  "real_simulation_local_start": {
+    "message": "Bu tünel üzerinden başlat"
+  },
+  "real_simulation_local_help": {
+    "message": "Tünel nasıl oluşturulur?"
+  },
+  "real_simulation_tunnel_modale_title": {
+    "message": "Yerel bir siteyi gerçek bir cihazda test et"
+  },
+  "real_simulation_tunnel_modale_baseline": {
+    "message": "Gerçek cihaz bulutta çalışıyor: makinenizi göremez. Bir tünel, yerel sunucunuza testleriniz süresince geçici bir genel adres verir."
+  },
+  "real_simulation_tunnel_step_install": {
+    "message": "cloudflared'i yükleyin"
+  },
+  "real_simulation_tunnel_linux_note": {
+    "message": "Debian / Ubuntu (x86_64) için komut. Diğer dağıtımlar:"
+  },
+  "real_simulation_tunnel_downloads": {
+    "message": "indirmeler"
+  },
+  "real_simulation_tunnel_step_run": {
+    "message": "Yerel sunucunuza tünel açın"
+  },
+  "real_simulation_tunnel_step_paste": {
+    "message": "Tünel adresini terminale kopyalayın"
+  },
+  "real_simulation_tunnel_step_paste_note": {
+    "message": "Birkaç saniye sonra, \"<em>Your quick Tunnel has been created!</em>\" çerçevesi belirir. İçindeki adresi, <strong>https://…trycloudflare.com</strong> olarak kopyalayın ve cihaz alanına yapıştırın."
+  },
+  "real_simulation_tunnel_tip_logs": {
+    "message": "Çevresindeki birçok <code>INF</code> satırı normaldir: bunlar teknik bilgilerdir, görmezden gelebilirsiniz."
+  },
+  "real_simulation_tunnel_tip_delay": {
+    "message": "Adres oluşturulduktan sonra yanıt vermesi bir dakikaya kadar sürebilir: cihaz bir hata gösterirse, bekleyin ve tekrar deneyin."
+  },
+  "real_simulation_tunnel_tip_terminal": {
+    "message": "Testleriniz sırasında terminali açık bırakın: tünel kapattığınızda veya <code>Ctrl</code> + <code>C</code> tuşlarına bastığınızda durur. Her başlatmada yeni bir adres oluşturulur."
+  },
+  "real_simulation_tunnel_step_hosts": {
+    "message": "Sayfa engellenirse, tünel adresine izin verin"
+  },
+  "real_simulation_tunnel_step_hosts_note": {
+    "message": "Geliştirme sunucuları bilinmeyen ana bilgisayar adlarını reddeder. Vite ile vite.config'e ekleyin; webpack-dev-server ile allowedHosts: 'all' kullanın."
+  },
+  "real_simulation_tunnel_free_title": {
+    "message": "Ücretsiz ve hesapsız."
+  },
+  "real_simulation_tunnel_free_text": {
+    "message": "Cloudflare'ın Hızlı Tünelleri herhangi bir kayıt gerektirmez. Adres her başlatmada değişir ve testler için ayrılmıştır, üretim için değil."
+  },
+  "real_simulation_tunnel_docs": {
+    "message": "Cloudflare Belgeleri"
+  },
+  "real_simulation_tunnel_done": {
+    "message": "Anladım"
+  },
+  "real_simulation_tunnel_copy": {
+    "message": "Kopyala"
+  },
+  "real_simulation_session_ended": {
+    "message": "Gerçek cihaz oturumu bir süre hareketsiz kaldıktan sonra sona erdi."
+  },
+  "real_simulation_max_duration": {
+    "message": "Gerçek cihaz oturumu maksimum süresine ulaştı. Testlerinize devam etmek için yeni bir oturum başlatın."
+  },
+  "real_simulation_session_revoked": {
+    "message": "Gerçek cihaz oturumu aynı anda birden fazla yerde açık olduğu için kesildi."
+  },
+  "real_simulation_error": {
+    "message": "Gerçek cihaza ulaşılamıyor. Bağlantınızı kontrol edin ve tekrar deneyin."
+  },
+  "real_simulation_disabled": {
+    "message": "Gerçek cihaz simülasyonu geçici olarak devre dışı bırakıldı. En kısa sürede geri getirmek için çalışıyoruz, lütfen daha sonra tekrar deneyin."
+  },
+  "real_simulation_retry": {
+    "message": "Tekrar dene"
+  },
+  "real_simulation_title": {
+    "message": "Live device simülasyonu"
+  },
+  "real_simulation_baseline": {
+    "message": "Simülatörde tasarlayın, Live device üzerinde tamamlayın"
+  },
+  "real_simulation_learn_more": {
+    "message": "Daha fazla bilgi edinin"
+  },
+  "real_simulation_os_version": {
+    "message": "Sürüm $1"
+  },
+  "real_simulation_geolocation": {
+    "message": "Konum"
+  },
+  "real_simulation_inactivity_timeout": {
+    "message": "Hareketsizlikten sonra otomatik kapanma"
+  },
+  "real_simulation_inactivity_ended": {
+    "message": "Gerçek cihaz oturumu $1 hareketsizlikten sonra durduruldu."
+  },
+  "real_simulation_location_default": {
+    "message": "Paris"
+  },
+  "real_simulation_start": {
+    "message": "Bulut simülatörünü başlat"
+  },
+  "real_simulation_local_url": {
+    "message": "Gerçek simülasyon, http(s) üzerinde bir web sayfası gerektirir. Yerel dosyalar üzerinde çalışmaz."
+  },
+  "real_simulation_local_server": {
+    "message": "Bu site yerel bir sunucuda çalışıyor: başlatıldığında, bir tünel (cloudflared, ngrok…) aracılığıyla İnternet'e açmanız istenecektir."
+  },
+  "real_simulation_device_unavailable": {
+    "message": "Bu cihaz gerçek simülasyonda kullanılamıyor."
+  },
+  "real_simulation_device_unavailable_link": {
+    "message": "Uyumlu cihazları görüntüle"
+  },
+  "real_simulation_pro_only": {
+    "message": "Gerçek cihaz simülasyonu yalnızca ücretli planlarımız için mevcuttur."
+  },
+  "real_simulation_usage": {
+    "message": "Kullanım"
+  },
+  "real_simulation_usage_detail": {
+    "message": "$3 planındaki $2 dakikadan $1 dakikayı kullandınız"
+  },
+  "real_simulation_more_minutes": {
+    "message": "Daha fazla dakikaya mı ihtiyacınız var?"
+  },
+  "real_simulation_usage_error": {
+    "message": "Kullanımınızı almak mümkün değil."
+  },
+  "real_simulation_modale_kicker": {
+    "message": "LIVE DEVICE"
+  },
+  "real_simulation_modale_live": {
+    "message": "Canlı"
+  },
+  "real_simulation_modale_h1": {
+    "message": "Simülatörde tasarlayın, gerçek koşullarda tamamlayın"
+  },
+  "real_simulation_modale_h2": {
+    "message": "Simülatör, tüm ekran formatlarında hızlı bir şekilde tasarlamak ve yinelemek için ideal araç olmaya devam ediyor.<br>Onaylama zamanı geldiğinde, Live device bulutta barındırılan ve sekmenizden doğrudan kontrol edilen bir iOS veya Android cihazıyla devreye girebilir."
+  },
+  "real_simulation_modale_feature_os_title": {
+    "message": "Gerçek render motoru."
+  },
+  "real_simulation_modale_feature_os": {
+    "message": "En küçük görüntüleme sorununu belirlemek için Safari WebKit ve Chrome Android yerel."
+  },
+  "real_simulation_modale_feature_gestures_title": {
+    "message": "Gerçek bir mobil işletim sisteminin tüm özellikleri"
+  },
+  "real_simulation_modale_feature_gestures": {
+    "message": "Yerel form alanları, sistem klavyesi ve özelleştirilmiş GPS konumu."
+  },
+  "real_simulation_modale_feature_devices_title": {
+    "message": "$1 cihaz birkaç saniye içinde hazır."
+  },
+  "real_simulation_modale_feature_devices": {
+    "message": "Son iPhone'lardan en yaygın Android'lere kadar."
+  },
+  "real_simulation_modale_devices_list": {
+    "message": "Listeyi görüntüle"
+  },
+  "real_simulation_devices_modale_title": {
+    "message": "Uyumlu cihazlar"
+  },
+  "real_simulation_devices_modale_baseline": {
+    "message": "Simülatördeki $1 cihaz gerçek simülasyonda başlatılabilir. Diğerleri yerel simülasyonda kullanılabilir durumda kalır."
+  },
+  "real_simulation_modale_quota": {
+    "message": "<strong>$1 dakika</strong> / ay planınıza <strong>$2</strong> dahil"
+  },
+  "real_simulation_modale_other_plans": {
+    "message": "Diğer planları görüntüle"
+  },
+  "real_simulation_modale_benefit_minutes": {
+    "message": "Aylık 10 dakika Live Device"
+  },
+  "real_simulation_modale_benefit_minutes_rest": {
+    "message": "Başlangıçtan itibaren dahil"
+  },
+  "real_simulation_modale_login_question": {
+    "message": "Zaten abone misiniz?"
+  },
+  "real_simulation_modale_login_link": {
+    "message": "Giriş yap"
+  },
+  "real_simulation_modale_benefit_pro": {
+    "message": "+ tüm PRO özellikleri"
+  },
+  "real_simulation_modale_benefit_pro_rest": {
+    "message": "(cihazlar, ayarlar,..)"
+  },
+  "real_simulation_modale_see_plans": {
+    "message": "Planları görüntüle"
+  },
+  "real_simulation_modale_from": {
+    "message": "başlangıç"
+  },
+  "real_simulation_modale_per_month": {
+    "message": "/ ay"
+  },
+  "real_simulation_continue_tests": {
+    "message": "Testlerinize devam edin"
+  },
+  "real_simulation_trial_title": {
+    "message": "Deneme sırasında dahil değil"
+  },
+  "real_simulation_trial_note": {
+    "message": "Gerçek cihaz simülasyonu deneme süresi boyunca mevcut değildir. Dakikalarınız aboneliğinizin başlangıcında erişilebilir olacaktır."
+  },
+  "real_simulation_legacy_plan_title": {
+    "message": "Yeni planlara geçin"
+  },
+  "real_simulation_legacy_plan_note": {
+    "message": "Eski ücretli planınız gerçek cihaz simülasyonunu içermiyor. Bu özelliği kullanmak için yeni planlarımızdan birine geçin."
+  },
+  "real_simulation_legacy_plan_upgrade": {
+    "message": "Aboneliğimi yükselt"
+  },
+  "real_simulation_quota_consumed": {
+    "message": "Kullanılabilir $1 dakikayı tükettiniz"
+  },
+  "real_simulation_quota_reset": {
+    "message": "Kullanım limitlerinin sıfırlanması <strong>$1</strong> tarihinde"
+  },
+  "real_simulation_upgrade_plan": {
+    "message": "$1 · $2 dk/ay"
+  },
+  "real_simulation_upgrade_per_month": {
+    "message": " /ay"
+  },
+  "real_simulation_upgrade_renew": {
+    "message": "Dakikalar her ay yenilenir"
+  },
+  "real_simulation_upgrade_extra": {
+    "message": "Dakika başına $1 yerine $2"
+  },
+  "real_simulation_upgrade_cta": {
+    "message": "Üst plana geç"
+  },
+  "real_simulation_contact_us": {
+    "message": "Bize ulaşın"
+  },
+  "real_simulation_contact": {
+    "message": "İletişim"
+  },
+  "real_simulation_contact_team_admin": {
+    "message": "Daha fazla dakika almak için takım yöneticinizle iletişime geçin."
+  },
+  "real_simulation_location_change": {
+    "message": "GPS konumunu değiştir"
+  },
+  "real_simulation_location_title": {
+    "message": "GPS Konumu"
+  },
+  "real_simulation_location_search": {
+    "message": "Adres, şehir veya koordinatlar"
+  },
+  "real_simulation_location_results": {
+    "message": "Sonuçlar"
+  },
+  "real_simulation_location_coordinates": {
+    "message": "Koordinatlara git"
+  },
+  "real_simulation_location_no_result": {
+    "message": "Hiçbir yer bulunamadı."
+  },
+  "real_simulation_location_search_error": {
+    "message": "Arama şu anda kullanılamıyor. Harita üzerinde pini yerleştirebilirsiniz."
+  },
+  "real_simulation_location_selected": {
+    "message": "Seçilen nokta"
+  },
+  "real_simulation_location_custom": {
+    "message": "Özel konum"
+  },
+  "real_simulation_location_latitude": {
+    "message": "Enl."
+  },
+  "real_simulation_location_longitude": {
+    "message": "Boy."
+  },
+  "real_simulation_location_recents": {
+    "message": "Son"
+  },
+  "real_simulation_location_zoom_in": {
+    "message": "Yakınlaştır"
+  },
+  "real_simulation_location_zoom_out": {
+    "message": "Uzaklaştır"
+  },
+  "real_simulation_location_recenter": {
+    "message": "Noktaya yeniden odaklan"
+  },
+  "real_simulation_location_hint": {
+    "message": "Pini tıklayın veya sürükleyin"
+  },
+  "real_simulation_location_cancel": {
+    "message": "İptal"
+  },
+  "real_simulation_location_apply": {
+    "message": "Konumu uygula"
+  },
+  "real_simulation_or": {
+    "message": "veya"
+  },
+  "real_simulation_buy_minutes_title": {
+    "message": "$1 dk satın al"
+  },
+  "real_simulation_buy_minutes_validity": {
+    "message": "Abonelik olmadan, $1 ay geçerli"
+  },
+  "real_simulation_buy_minutes_unit": {
+    "message": "Dakika başına $1"
+  },
+  "real_simulation_buy_minutes_card": {
+    "message": "Kayıtlı kart: $1"
+  },
+  "real_simulation_buy_minutes_subtotal": {
+    "message": "Ara toplam (KDV hariç)"
+  },
+  "real_simulation_buy_minutes_tax": {
+    "message": "KDV ($1)"
+  },
+  "real_simulation_buy_minutes_total": {
+    "message": "Toplam (KDV dahil)"
+  },
+  "real_simulation_buy_minutes_pay": {
+    "message": "$1 öde"
+  },
+  "real_simulation_buy_minutes_secure": {
+    "message": "Bankanız, ödemeyi yeni bir sekmede doğrulamanızı isteyebilir."
+  },
+  "real_simulation_buy_minutes_cancel": {
+    "message": "İptal"
+  },
+  "real_simulation_buy_minutes_retry": {
+    "message": "Tekrar dene"
+  },
+  "real_simulation_buy_minutes_success": {
+    "message": "$1 dakika hesabınıza eklendi."
+  },
+  "real_simulation_buy_minutes_no_card": {
+    "message": "Hesabınızda kayıtlı bir kart yok."
+  },
+  "real_simulation_buy_minutes_add_card": {
+    "message": "Kart ekle"
+  },
+  "real_simulation_buy_minutes_not_eligible": {
+    "message": "Dakika satın alma, aktif aboneliklerle sınırlıdır."
+  },
+  "real_simulation_buy_minutes_in_progress": {
+    "message": "Bir ödeme zaten doğrulanıyor. Tamamlayın veya birkaç dakika bekleyin."
+  },
+  "real_simulation_buy_minutes_processing": {
+    "message": "Ödemeniz işleniyor: onaylandığında dakikalar eklenecektir."
+  },
+  "real_simulation_buy_minutes_canceled": {
+    "message": "Ödeme iptal edildi. Hiçbir tutar çekilmedi."
+  },
+  "real_simulation_buy_minutes_declined": {
+    "message": "Ödeme bankanız tarafından reddedildi. Hiçbir tutar çekilmedi."
+  },
+  "real_simulation_buy_minutes_auth_failed": {
+    "message": "Ödeme doğrulaması başarısız oldu. Hiçbir tutar çekilmedi."
+  },
+  "real_simulation_buy_minutes_error": {
+    "message": "Ödeme gerçekleştirilemedi. Biraz sonra tekrar deneyin."
+  },
+  "real_simulation_buy_minutes_close": {
+    "message": "Kapat"
+  },
+  "real_simulation_buy_minutes_invoice": {
+    "message": "Faturayı görüntüle"
+  },
+  "real_simulation_buy_minutes_invoice_notice": {
+    "message": "Her satın alma için bir fatura düzenlenir."
+  },
+  "real_simulation_buy_minutes_team_member": {
+    "message": "Hesabınızdaki dakikalar yöneticiniz tarafından yönetilmektedir. Yeniden yüklemek için onunla iletişime geçin:"
+  },
+  "real_simulation_buy_minutes_team_member_no_email": {
+    "message": "Hesabınızdaki dakikalar yöneticiniz tarafından yönetilmektedir. Yeniden yüklemek için onunla iletişime geçin."
+  },
+  "real_simulation_buy_minutes_currency_unavailable": {
+    "message": "Dakika satın alma, hesabınızın para biriminde mevcut değil. Bize ulaşın."
+  },
+  "menu_faq_detect_simulator": {
+    "message": "Sitemin simülatörde görüntülendiğini nasıl anlarım?"
+  },
+  "shortcut_real_simulation": {
+    "message": "Gerçek bir cihazda simülasyonu başlat/durdur"
+  },
+  "real_simulation_language": {
+    "message": "Dil"
+  },
+  "real_simulation_location_resolving": {
+    "message": "Konum belirleniyor…"
+  },
+  "real_simulation_buy_minutes_change_card": {
+    "message": "Değiştir"
+  },
+  "real_simulation_buy_minutes_update_card": {
+    "message": "Ödeme kartımı değiştir"
+  },
+  "real_simulation_device_compatible": {
+    "message": "Uyumlu Live Device"
+  },
+  "real_simulation_past_due_title": {
+    "message": "Bekleyen Ödeme"
+  },
+  "real_simulation_past_due_note": {
+    "message": "Aboneliğinizin son ödemesi başarısız oldu. Gerçek cihaz simülasyon dakikalarınızı geri kazanmak için ödeme yöntemini güncelleyin."
+  },
+  "real_simulation_past_due_team_note": {
+    "message": "Ekibinizin aboneliğinin son ödemesi başarısız oldu. Yöneticiniz durumu düzelttiğinde gerçek cihaz simülasyon dakikalarınız geri gelecektir."
+  },
+  "real_simulation_past_due_button": {
+    "message": "Ödemeyi Güncelle"
+  }
+}

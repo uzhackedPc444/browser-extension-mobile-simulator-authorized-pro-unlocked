@@ -1,0 +1,1406 @@
+{
+  "extName": {
+    "message": "Simulador de teléfono móvil - prueba de sitio responsive"
+  },
+  "extDescription": {
+    "message": "Phone Simulator — Extensión gratuita de Chrome para probar y previsualizar tus sitios en más de 80 dispositivos"
+  },
+  "global": {
+    "message": "--------------------------------------------------------"
+  },
+  "android_smartphone": {
+    "message": "<i class='mdi'>&#xe922;</i> Teléfonos Android"
+  },
+  "apple_smartphone": {
+    "message": "<i class='mdi'>&#xeabe;</i> Teléfonos Apple"
+  },
+  "tablet": {
+    "message": "<i class='mdi'>&#xe920;</i> Tabletas"
+  },
+  "others": {
+    "message": "<i class='mdi'>&#xe921;</i> Especiales"
+  },
+  "copied": {
+    "message": "Copiado"
+  },
+  "error": {
+    "message": "Error"
+  },
+  "link": {
+    "message": "Enlace"
+  },
+  "optional": {
+    "message": "Opcional"
+  },
+  "close": {
+    "message": "Cerrar"
+  },
+  "get_pro": {
+    "message": "Obtener la versión PRO"
+  },
+  "error_contact": {
+    "message": "{Por favor contáctenos} si el problema persiste."
+  },
+  "more_settings": {
+    "message": "Más configuraciones"
+  },
+  "dimensions": {
+    "message": "Dimensiones"
+  },
+  "context_menu": {
+    "message": "--------------------------------------------------------"
+  },
+  "context_menu_activate": {
+    "message": "Activar la vista móvil en esta pestaña"
+  },
+  "popup": {
+    "message": "--------------------------------------------------------"
+  },
+  "popup_site_incompatible": {
+    "message": "El simulador no se puede activar en esta página nativa de su navegador. Intente en otra pestaña o navegue a un sitio y vuelva a intentarlo."
+  },
+  "popup_activate_local_files_info": {
+    "message": "Este simulador no se puede activar por defecto en archivos locales (file:///) pero puede activar la opción manualmente en la configuración de Chrome."
+  },
+  "popup_activate_local_files_button": {
+    "message": "Activar la opción"
+  },
+  "menu": {
+    "message": "--------------------------------------------------------"
+  },
+  "menu_close_alone": {
+    "message": "Desactivar el simulador"
+  },
+  "menu_change_device": {
+    "message": "Cambiar de dispositivo o comparar"
+  },
+  "menu_contact_devices": {
+    "message": "<i class='mdi'>&#xe900;</i> ¿El dispositivo que busca no está en la lista? ¡Díganoslo!"
+  },
+  "menu_info_device": {
+    "message": "Características y maqueta de este dispositivo"
+  },
+  "menu_info_device_features": {
+    "message": "Características (resolución de viewport, etc.)"
+  },
+  "menu_info_device_mockup": {
+    "message": "Mockup gratuito en PNG transparente"
+  },
+  "menu_rotate": {
+    "message": "Cambiar la orientación"
+  },
+  "menu_zoom": {
+    "message": "Hacer zoom en el dispositivo"
+  },
+  "menu_screenshot": {
+    "message": "Tomar una captura de pantalla"
+  },
+  "menu_screencast": {
+    "message": "Grabar un video de la pantalla"
+  },
+  "menu_share": {
+    "message": "Compartir con un colega, un amigo,..."
+  },
+  "menu_send_improvement": {
+    "message": "Proponer una mejora"
+  },
+  "menu_send_message": {
+    "message": "Centro de ayuda"
+  },
+  "menu_faq_title": {
+    "message": "Preguntas frecuentes"
+  },
+  "menu_faq_media_queries": {
+    "message": "Mis media queries no se tienen en cuenta"
+  },
+  "menu_faq_ignonito_mode": {
+    "message": "¿Cómo activar el simulador en modo incógnito?"
+  },
+  "menu_faq_scroll": {
+    "message": "No se puede desplazar en el simulador"
+  },
+  "menu_faq_subscription": {
+    "message": "¿Por qué mi suscripción no funciona?"
+  },
+  "menu_faq_shortcut": {
+    "message": "¿Cómo configurar atajos de teclado?"
+  },
+  "menu_faq_all": {
+    "message": "Ver todas las preguntas frecuentes"
+  },
+  "menu_report": {
+    "message": "Reportar un error"
+  },
+  "menu_settings": {
+    "message": "Configuración"
+  },
+  "menu_extensions": {
+    "message": "Descubre nuestras otras extensiones de Chrome"
+  },
+  "menu_vote_feature": {
+    "message": "Vota por las funciones que deseas"
+  },
+  "simulator": {
+    "message": "--------------------------------------------------------"
+  },
+  "simulator_header_info": {
+    "message": "Esto es solo una imagen. Para cambiar la URL use el campo de Chrome arriba."
+  },
+  "simulator_footer_info": {
+    "message": "Esto es solo una imagen. Use su propio teclado."
+  },
+  "screencast": {
+    "message": "--------------------------------------------------------"
+  },
+  "screencast_tooltip_device": {
+    "message": "Captura de video solo del dispositivo"
+  },
+  "screencast_tooltip_tab": {
+    "message": "Captura de video de la pestaña con el dispositivo"
+  },
+  "screencast_error": {
+    "message": "Se produjo un error durante la grabación. {Haga clic aquí} para una solución alternativa."
+  },
+  "screencast_modale_title": {
+    "message": "Captura de video"
+  },
+  "screencast_modale_texte": {
+    "message": "Puede descargar este video en diferentes formatos u obtener un enlace para compartir."
+  },
+  "screencast_modale_download_webm": {
+    "message": "Descargar en formato predeterminado WEBM (con transparencia si la opción está activada)"
+  },
+  "screencast_modale_download_mp4": {
+    "message": "Mejor compatibilidad con PowerPoint, pero sin transparencia"
+  },
+  "screencast_modale_download_gif": {
+    "message": "Compatible en todas partes, pero calidad inferior (con transparencia si la opción está activada)"
+  },
+  "screencast_modale_gif_duration_limit_info": {
+    "message": "La duración máxima de un GIF es de 60 segundos. Más allá, el archivo sería demasiado grande."
+  },
+  "screencast_modale_copy": {
+    "message": "Copiar"
+  },
+  "screencast_modale_upload": {
+    "message": "Obtener un enlace para compartir"
+  },
+  "screencast_modale_contact": {
+    "message": "Reportar un error, proponer una mejora"
+  },
+  "screencast_start_recording": {
+    "message": "Iniciar la grabación"
+  },
+  "screencast_microphone_permission_denied": {
+    "message": "Permiso de acceso al micrófono denegado."
+  },
+  "screencast_camera_permission_denied": {
+    "message": "Permiso de acceso a la cámara denegado."
+  },
+  "screencast_error_media_stream_track_processor_or_generator": {
+    "message": "Su versión de Chrome es demasiado antigua para esta función. Actualice Chrome a una versión superior a 94.0"
+  },
+  "screencast_quality_info_tooltip": {
+    "message": "La calidad del video afecta el bitrate, fps y la resolución de la grabación. Cuanto mayor sea la calidad, más grande será el archivo."
+  },
+  "screencast_modale_auto_stop_limit_reached": {
+    "message": "Las grabaciones de video están limitadas a 5 minutos en la versión gratuita."
+  },
+  "screenshot": {
+    "message": "--------------------------------------------------------"
+  },
+  "screenshot_menu_1": {
+    "message": "Captura con el dispositivo"
+  },
+  "screenshot_menu_2": {
+    "message": "Captura solo del sitio"
+  },
+  "screenshot_menu_3": {
+    "message": "Captura de toda la página"
+  },
+  "screenshot_menu_4": {
+    "message": "Captura de toda la pestaña"
+  },
+  "screenshot_button": {
+    "message": "Generar una captura"
+  },
+  "screenshot_modale_download_png": {
+    "message": "Descargar en formato PNG (sin compresión)"
+  },
+  "screenshot_modale_download_webp": {
+    "message": "Descargar en formato WEBP, compatible casi en todas partes y compresión optimizada (recomendado)"
+  },
+  "screenshot_menu_stop_fullpage": {
+    "message": "Detener antes del final de la página"
+  },
+  "screenshot_modale_title": {
+    "message": "Captura de pantalla"
+  },
+  "screenshot_modale_copy": {
+    "message": "Copiar la imagen al portapapeles"
+  },
+  "screenshot_modale_edit": {
+    "message": "Editar la captura"
+  },
+  "screenshot_modale_help": {
+    "message": "Para guardar la imagen en gran formato, simplemente haga clic derecho sobre ella y luego \"Copiar imagen\" o \"Guardar\"."
+  },
+  "screenshot_editor_close": {
+    "message": "Cerrar el editor"
+  },
+  "screenshot_editor_undo": {
+    "message": "Deshacer la última acción"
+  },
+  "screenshot_editor_rect": {
+    "message": "Dibujar un rectángulo"
+  },
+  "screenshot_editor_ellipse": {
+    "message": "Dibujar un círculo"
+  },
+  "screenshot_editor_line": {
+    "message": "Dibujar una línea"
+  },
+  "screenshot_editor_arrow": {
+    "message": "Dibujar una flecha"
+  },
+  "screenshot_editor_pen": {
+    "message": "Dibujo libre"
+  },
+  "screenshot_editor_color": {
+    "message": "Color del trazo"
+  },
+  "screenshot_editor_stroke_width": {
+    "message": "Grosor del trazo"
+  },
+  "pro": {
+    "message": "--------------------------------------------------------"
+  },
+  "pro_modale_h1": {
+    "message": "Conviértete en PRO"
+  },
+  "pro_modale_h1_all_formats": {
+    "message": "Convierte tus capturas de video a formatos GIF y MP4"
+  },
+  "pro_modale_h1_devices": {
+    "message": "Simula todos los dispositivos"
+  },
+  "pro_modale_h1_settings": {
+    "message": "Desbloquear todas las configuraciones"
+  },
+  "pro_modale_h1_screencast": {
+    "message": "Desbloquear todas las configuraciones de grabación de video"
+  },
+  "pro_modale_h1_ads": {
+    "message": "Eliminar los anuncios"
+  },
+  "pro_modale_h1_image_editor": {
+    "message": "Edita tus capturas"
+  },
+  "pro_modale_h1_unlimited_screenshots": {
+    "message": "Toma capturas de pantalla sin límite"
+  },
+  "pro_modale_h2": {
+    "message": "Conviértete en PRO y contribuye activamente al desarrollo de esta extensión apoyando a su desarrollador."
+  },
+  "pro_modale_billed_annualy": {
+    "message": "Facturado anualmente"
+  },
+  "pro_modale_savings": {
+    "message": "Ahorra"
+  },
+  "pro_modale_from": {
+    "message": "Desde"
+  },
+  "pro_modale_recurring_month": {
+    "message": "mes"
+  },
+  "pro_modale_button": {
+    "message": "Me suscribo"
+  },
+  "pro_modale_link_1": {
+    "message": "O"
+  },
+  "pro_modale_link_2": {
+    "message": "me conecto"
+  },
+  "pro_modale_link_3": {
+    "message": "a mi cuenta de suscriptor"
+  },
+  "pro_modale_avantage_1": {
+    "message": "Todas las configuraciones de video"
+  },
+  "pro_modale_avantage_2": {
+    "message": "Comparación de múltiples dispositivos"
+  },
+  "sharing": {
+    "message": "--------------------------------------------------------"
+  },
+  "sharing_h1": {
+    "message": "¿Este simulador móvil te es útil?"
+  },
+  "sharing_h2": {
+    "message": "Entonces compártelo con tus colegas o amigos"
+  },
+  "sharing_txt": {
+    "message": "Simulador para probar su sitio en móvil y tableta"
+  },
+  "sharing_review_1": {
+    "message": "Y si tienes un minuto para"
+  },
+  "sharing_review_2": {
+    "message": "añadir una reseña"
+  },
+  "sharing_review_3": {
+    "message": "¡entonces es la cereza del pastel! 🙂"
+  },
+  "sharing_review_button": {
+    "message": "Añadir una reseña"
+  },
+  "other_extensions": {
+    "message": "--------------------------------------------------------"
+  },
+  "other_extensions_h1": {
+    "message": "Descubre nuestras nuevas extensiones gratuitas"
+  },
+  "other_extensions_color_picker_title": {
+    "message": "Selector de color"
+  },
+  "other_extensions_color_picker_description": {
+    "message": "Esta extensión te permite capturar cualquier color en la pantalla."
+  },
+  "other_extensions_font_finder_title": {
+    "message": "Buscador de fuentes"
+  },
+  "other_extensions_font_finder_description": {
+    "message": "Identifica con un clic la fuente utilizada en cualquier texto de una página web."
+  },
+  "other_extensions_button": {
+    "message": "Instalar"
+  },
+  "review": {
+    "message": "--------------------------------------------------------"
+  },
+  "review_h1": {
+    "message": "¿Cómo calificarías esta extensión?"
+  },
+  "review_note_store": {
+    "message": "Gracias por tus comentarios, no dudes en dejar una reseña en la página de la extensión. Te lo agradecería mucho 😊"
+  },
+  "review_note_feedback": {
+    "message": "Gracias por tus comentarios, no dudes en enviarnos un mensaje para que podamos mejorar esta extensión."
+  },
+  "button_feedback": {
+    "message": "Añadir una calificación"
+  },
+  "button_message": {
+    "message": "Envíanos un mensaje"
+  },
+  "contact": {
+    "message": "--------------------------------------------------------"
+  },
+  "contact_message_field_name": {
+    "message": "Nombre del dispositivo"
+  },
+  "contact_message_field_placeholder": {
+    "message": "Samsung Galaxy S24 Ultra, iPhone 17 Pro Max, etc."
+  },
+  "contact_title": {
+    "message": "¿El dispositivo que busca no está en la lista? ¡Díganoslo!"
+  },
+  "settings": {
+    "message": "--------------------------------------------------------"
+  },
+  "settings_h2_device": {
+    "message": "Dispositivo"
+  },
+  "settings_h2_global": {
+    "message": "General"
+  },
+  "settings_hide_header_footer": {
+    "message": "Ocultar la interfaz del navegador del dispositivo (barra de direcciones, etc.)"
+  },
+  "settings_hide_keyboard": {
+    "message": "Simular la aparición del teclado durante la escritura"
+  },
+  "settings_scrollbar_show": {
+    "message": "Mostrar la barra de desplazamiento nativa en el dispositivo"
+  },
+  "settings_change_cursor": {
+    "message": "Desplazamiento táctil y visualización del cursor móvil"
+  },
+  "settings_change_background": {
+    "message": "Cambiar el color de fondo"
+  },
+  "settings_default_device": {
+    "message": "Terminal por defecto en cada activación"
+  },
+  "settings_change_analytics": {
+    "message": "Ayuda al desarrollador a mejorar la extensión compartiendo datos de uso 100 % anónimos y no personales."
+  },
+  "settings_device_hide": {
+    "message": "Mostrar el marco del dispositivo"
+  },
+  "settings_batterie_level": {
+    "message": "Nivel de batería en el encabezado del dispositivo (%)"
+  },
+  "settings_device_default_url": {
+    "message": "Modificar la URL mostrada en el dispositivo"
+  },
+  "settings_presenter_mode": {
+    "message": "Modo presentación (menú de la derecha visible solo al pasar el ratón)"
+  },
+  "settings_fullscreen": {
+    "message": "Sitio en pantalla completa en el dispositivo"
+  },
+  "settings_default_device_placeholder": {
+    "message": "Seleccionar un dispositivo"
+  },
+  "settings_video_quality": {
+    "message": "Calidad de video"
+  },
+  "settings_video_quality_low": {
+    "message": "Media"
+  },
+  "settings_video_quality_medium": {
+    "message": "Buena"
+  },
+  "settings_video_quality_high": {
+    "message": "Excelente"
+  },
+  "settings_theme": {
+    "message": "Tema"
+  },
+  "settings_theme_light": {
+    "message": "Claro"
+  },
+  "settings_theme_dark": {
+    "message": "Oscuro"
+  },
+  "settings_theme_auto": {
+    "message": "Auto"
+  },
+  "settings_shortcuts": {
+    "message": "Definir atajos de teclado"
+  },
+  "settings_pro_account": {
+    "message": "Gestionar mi suscripción"
+  },
+  "settings_microphone": {
+    "message": "Micrófono"
+  },
+  "settings_camera": {
+    "message": "Cámara"
+  },
+  "settings_countdown": {
+    "message": "Cuenta regresiva (segundos)"
+  },
+  "settings_transparent_background": {
+    "message": "Fondo transparente"
+  },
+  "settings_transparent_background_info": {
+    "message": "Esta opción implica más cálculos y, por lo tanto, un posible ralentizamiento de la visualización dependiendo de su computadora (solo compatible con los formatos WEBM y GIF)"
+  },
+  "screenshot_workaround": {
+    "message": "--------------------------------------------------------"
+  },
+  "screenshot_workaround_title": {
+    "message": "Solución alternativa para la captura de pantalla"
+  },
+  "screenshot_workaround_context": {
+    "message": "Contexto"
+  },
+  "screenshot_workaround_context_text": {
+    "message": "Debido a ciertas limitaciones técnicas, es posible que, al tomar una captura de pantalla, reciba este mensaje de error."
+  },
+  "screenshot_workaround_solution": {
+    "message": "Solución alternativa"
+  },
+  "screenshot_workaround_solution_text": {
+    "message": "En este caso, para iniciar la captura, simplemente haga clic derecho en cualquier lugar de la página, elija la entrada « Simulador móvil », luego « 📷 Tomar una captura de pantalla »"
+  },
+  "feedback": {
+    "message": "--------------------------------------------------------"
+  },
+  "feedback_title": {
+    "message": "Ayúdanos a hacer Mobile FIRST aún más útil para ti 🚀"
+  },
+  "feedback_profession": {
+    "message": "¿Cuál es tu departamento profesional?"
+  },
+  "feedback_profession_developer": {
+    "message": "Desarrollo"
+  },
+  "feedback_profession_designer": {
+    "message": "Diseño"
+  },
+  "feedback_profession_qa": {
+    "message": "Pruebas / QA"
+  },
+  "feedback_profession_product": {
+    "message": "Gestión de producto"
+  },
+  "feedback_profession_marketing": {
+    "message": "Marketing"
+  },
+  "feedback_profession_sales": {
+    "message": "Ventas"
+  },
+  "feedback_profession_other": {
+    "message": "Otro"
+  },
+  "feedback_company_type": {
+    "message": "¿Cuál es tu tipo de empresa?"
+  },
+  "feedback_company_type_freelance": {
+    "message": "Independiente"
+  },
+  "feedback_company_type_micro_business": {
+    "message": "Microempresa (1-9 empleados)"
+  },
+  "feedback_company_type_agency": {
+    "message": "Pequeña empresa (10-49 empleados)"
+  },
+  "feedback_company_type_startup": {
+    "message": "Mediana empresa (50-249 empleados)"
+  },
+  "feedback_company_type_pme": {
+    "message": "Gran empresa (250-4999 empleados)"
+  },
+  "feedback_company_type_grandeentreprise": {
+    "message": "Empresa muy grande / grupo (5000+ empleados)"
+  },
+  "feedback_use_cases": {
+    "message": "¿Por qué usas Mobile FIRST?"
+  },
+  "feedback_useCases_placeholder": {
+    "message": "Probar mi sitio, hacer demostraciones a clientes..."
+  },
+  "feedback_frequency": {
+    "message": "¿Con qué frecuencia usas esta extensión?"
+  },
+  "feedback_frequency_quotidien": {
+    "message": "Diario"
+  },
+  "feedback_frequency_plusieursfoisparsemaine": {
+    "message": "Varias veces por semana"
+  },
+  "feedback_frequency_occasionnel": {
+    "message": "Ocasional"
+  },
+  "feedback_frequency_rare": {
+    "message": "Raro"
+  },
+  "feedback_improvements": {
+    "message": "¿Qué mejoras te gustaría ver?"
+  },
+  "feedback_improvements_placeholder": {
+    "message": "Una idea, una fricción, una falta..."
+  },
+  "feedback_submit": {
+    "message": "Enviar"
+  },
+  "feedback_close": {
+    "message": "No responder"
+  },
+  "feedback_error_required": {
+    "message": "Todos los campos están vacíos 🤔"
+  },
+  "feedback_submitted": {
+    "message": "Muchas gracias por tus comentarios 🤗"
+  },
+  "select": {
+    "message": "Seleccionar..."
+  },
+  "modales": {
+    "message": "--------------------------------------------------------"
+  },
+  "new_video_feature_h1": {
+    "message": "¡Descubre ahora la nueva función de captura de video!"
+  },
+  "new_video_feature_h2": {
+    "message": "Graba con mejor calidad, con nuevas opciones y con fondo transparente"
+  },
+  "logout_modale_title": {
+    "message": "Se ha cerrado la sesión automáticamente en este dispositivo"
+  },
+  "logout_modale_message": {
+    "message": "Este dispositivo ya no forma parte de sus terminales autorizados. Si ha eliminado este acceso manualmente, es necesario iniciar sesión nuevamente."
+  },
+  "notifications": {
+    "message": "--------------------------------------------------------"
+  },
+  "notification_update_title_vwelcome": {
+    "message": "<strong class='mb-2 is-block'>Bienvenido a Mobile FIRST 👋</strong>Simula con un clic teléfonos, tabletas y computadoras para probar y visualizar fácilmente tus sitios.<br><br><strong>El menú se encuentra a la derecha ➡️</strong>"
+  },
+  "notification_update_title_v4_14_5": {
+    "message": "<strong class='mb-2 is-block'>Actualización v4.14.5</strong>Aumento significativo de la <strong>resolución y calidad</strong> de las capturas de pantalla <i class='mdi'>&#xe903;</i>"
+  },
+  "logout_modale_button": {
+    "message": "Iniciar sesión"
+  },
+  "logout_modale_message_2": {
+    "message": "ℹ️ ¿Desea compartir su suscripción? Para autorizar a otras personas, simplemente agréguelas desde la sección \"Usuarios\" de su cuenta."
+  },
+  "logout_modale_message2": {
+    "message": "Por motivos de seguridad, ha sido desconectado automáticamente de su cuenta. Pero puede volver a conectarse haciendo clic en el botón de abajo."
+  },
+  "notification_update_title_v4_15_0": {
+    "message": "<strong class='mb-2 is-block'>Actualización v4.15.0</strong>Activación del <strong>desplazamiento táctil</strong> para smartphones y tabletas <i class='mdi'>&#xe905;</i>"
+  },
+  "menu_add_window": {
+    "message": "Agregar ventana"
+  },
+  "settings_sync_events": {
+    "message": "Sincronizar eventos entre ventanas (clic, desplazamiento, etc.)"
+  },
+  "pro_modale_h1_multi_devices": {
+    "message": "Compare más de dos dispositivos simultáneamente"
+  },
+  "notification_update_title_v4_15_2": {
+    "message": "<strong class='mb-2 is-block'>Actualización v4.15.0</strong>Activación del <strong>desplazamiento táctil</strong> para smartphones y tabletas."
+  },
+  "settings_pro_account_past_due": {
+    "message": "La renovación de su suscripción ha fallado. Por favor, actualice su información de pago para conservar la versión PRO."
+  },
+  "notification_update_title_v4_15_5": {
+    "message": "<strong class='mb-2 is-block'>Actualización v4.15.5</strong><ul><li>Corrección sobre las capturas de pantalla de página completa en <strong>los archivos locales</strong>.</li><li>Corrección sobre las unidades vh, dhv, lvh, svh en <strong>iOS&nbsp;26</strong>.</li></ul>"
+  },
+  "menu_active_devices": {
+    "message": "Dispositivos visibles en la pestaña"
+  },
+  "menu_favorites": {
+    "message": "<i class='mdi mdi-star favorites-icon is-size-6'></i> Favoritos"
+  },
+  "menu_enable_comparison_mode": {
+    "message": "Activar el modo de comparación"
+  },
+  "menu_disable_comparison_mode": {
+    "message": "Desactivar el modo de comparación"
+  },
+  "menu_custom_devices": {
+    "message": "<i class='mdi'>&#xe917;</i>&nbsp;&nbsp;Mis dispositivos personalizados"
+  },
+  "menu_custom_devices_banner": {
+    "message": "¡Agrega tus propios dispositivos personalizados!"
+  },
+  "custom_device_title": {
+    "message": "Agregar un dispositivo personalizado"
+  },
+  "custom_device_add": {
+    "message": "Agregar un dispositivo personalizado"
+  },
+  "custom_device_name": {
+    "message": "Nombre del dispositivo"
+  },
+  "custom_device_ua_preset": {
+    "message": "User agent"
+  },
+  "custom_device_ua_custom": {
+    "message": "User agent personalizado"
+  },
+  "custom_device_ua": {
+    "message": "Cadena user agent"
+  },
+  "custom_device_os_name": {
+    "message": "Sistema operativo"
+  },
+  "custom_device_os_version": {
+    "message": "Versión OS"
+  },
+  "custom_device_width": {
+    "message": "Ancho viewport (px)"
+  },
+  "custom_device_height": {
+    "message": "Altura viewport (px)"
+  },
+  "custom_device_dpr": {
+    "message": "Device pixel ratio"
+  },
+  "custom_device_network": {
+    "message": "Red"
+  },
+  "custom_device_more": {
+    "message": "Más configuraciones"
+  },
+  "custom_device_less": {
+    "message": "Menos configuraciones"
+  },
+  "custom_device_submit": {
+    "message": "Agregar"
+  },
+  "custom_device_error_name": {
+    "message": "El nombre del dispositivo es obligatorio."
+  },
+  "custom_device_error_ua": {
+    "message": "El user agent es obligatorio."
+  },
+  "custom_device_error_os": {
+    "message": "El sistema operativo es obligatorio."
+  },
+  "custom_device_error_viewport": {
+    "message": "El ancho y la altura del viewport deben estar entre 10 y 4096."
+  },
+  "notification_update_title_v4_16_0": {
+    "message": "<strong class='mb-2 is-block'>Actualización v4.16.0</strong>Agregado la posibilidad de crear dispositivos personalizados <i class='mdi'>&#xe917;</i>"
+  },
+  "new_comparison_feature_h1": {
+    "message": "¡Descubra ahora la nueva función de comparación de varios dispositivos!"
+  },
+  "new_comparison_feature_h2": {
+    "message": "Compare la visualización simultánea de varios dispositivos en la misma ventana. Desplazamiento, clics, teclado sincronizados."
+  },
+  "try_it": {
+    "message": "Probar ahora"
+  },
+  "menu_close_window": {
+    "message": "Cerrar esta ventana"
+  },
+  "notification_update_title_v4_17_0": {
+    "message": "<strong class='mb-2 is-block'>Actualización v4.17.0</strong>¡Añadida la función de comparación de varios dispositivos simultáneamente! <i class='mdi'>&#xe917;</i>"
+  },
+  "screencast_firefox_select_tab": {
+    "message": "Por favor, comparte la ventana actual (y no toda la pantalla) para que la grabación esté correctamente encuadrada."
+  },
+  "latest_updates": {
+    "message": "Últimas actualizaciones"
+  },
+  "see_more": {
+    "message": "Ver más"
+  },
+  "see_less": {
+    "message": "Ver menos"
+  },
+  "update_tag_new": {
+    "message": "NUEVO"
+  },
+  "update_tag_feature": {
+    "message": "CARACTERÍSTICA"
+  },
+  "update_tag_improvement": {
+    "message": "MEJORA"
+  },
+  "update_tag_fix": {
+    "message": "CORRECCIÓN"
+  },
+  "update_4_19_0_title": {
+    "message": "6 nuevos dispositivos Android"
+  },
+  "update_4_19_0_description": {
+    "message": "3 modelos de Google Pixel 10, Motorola Razr 70 Ultra, el Infinix Hot 70 y Samsung Galaxy A17."
+  },
+  "update_4_17_0_title": {
+    "message": "Comparación de dispositivos"
+  },
+  "update_4_17_0_description": {
+    "message": "Compare varios dispositivos lado a lado simultáneamente. Los clics, desplazamientos y teclado están sincronizados."
+  },
+  "update_4_16_0_title": {
+    "message": "Dispositivos personalizados"
+  },
+  "update_4_16_0_description": {
+    "message": "Ahora puede agregar sus propios dispositivos con dimensiones específicas."
+  },
+  "update_4_15_5_title": {
+    "message": "Correcciones"
+  },
+  "update_4_15_5_description": {
+    "message": "Capturas de página completa en archivos locales y correcciones de unidades de visualización en iOS 26 (vh, dhv, lvh, svh)."
+  },
+  "update_4_15_0_title": {
+    "message": "Desplazamiento táctil"
+  },
+  "update_4_15_0_description": {
+    "message": "Activación del desplazamiento táctil en smartphones y tabletas."
+  },
+  "update_4_14_5_title": {
+    "message": "Capturas más nítidas"
+  },
+  "update_4_14_5_description": {
+    "message": "Mejora significativa de la resolución y calidad de las capturas de pantalla."
+  },
+  "pro_modale_toggle_annual": {
+    "message": "Anual"
+  },
+  "pro_modale_toggle_monthly": {
+    "message": "Mensual"
+  },
+  "pro_modale_trial_after_days": {
+    "message": "después de tus 7 días de prueba gratuita"
+  },
+  "pro_modale_trial_button": {
+    "message": "Comenzar mi prueba gratuita de 7 días"
+  },
+  "pro_modale_trial_h1": {
+    "message": "Prueba la versión PRO gratis durante 7 días"
+  },
+  "pro_modale_trial_note": {
+    "message": "Nada que pagar hoy · Sin compromiso, cancelable en cualquier momento"
+  },
+  "pro_modale_trial_then": {
+    "message": "luego"
+  },
+  "pro_modale_trial_today": {
+    "message": "hoy"
+  },
+  "settings_pwa_auto_detect": {
+    "message": "Detectar y mostrar automáticamente las PWA como aplicación móvil."
+  },
+  "settings_title": {
+    "message": "Configuraciones"
+  },
+  "settings_nav_device": {
+    "message": "Dispositivo"
+  },
+  "settings_nav_appearance": {
+    "message": "Apariencia"
+  },
+  "settings_nav_account": {
+    "message": "Cuenta"
+  },
+  "settings_os_display": {
+    "message": "Visualización del SO"
+  },
+  "settings_os_display_full_desc": {
+    "message": "Muestra la barra de estado del SO y el navegador (barra de direcciones)."
+  },
+  "settings_os_display_no_browser_desc": {
+    "message": "Oculta el navegador pero mantiene la barra de estado del SO."
+  },
+  "settings_os_display_no_os_desc": {
+    "message": "Oculta la barra de estado del SO y el navegador."
+  },
+  "settings_h2_display": {
+    "message": "Visualización global"
+  },
+  "settings_h2_customization": {
+    "message": "Personalización"
+  },
+  "settings_h2_multiwindow": {
+    "message": "Modo multiventana"
+  },
+  "settings_h2_pwa": {
+    "message": "PWA"
+  },
+  "settings_account_cta_title": {
+    "message": "Accede a tu cuenta"
+  },
+  "settings_account_cta_subtitle": {
+    "message": "Regístrate para desbloquear la versión PRO, o inicia sesión si ya tienes una cuenta."
+  },
+  "settings_signup_button": {
+    "message": "Registrarse"
+  },
+  "settings_login_button": {
+    "message": "Iniciar sesión"
+  },
+  "settings_subscribe": {
+    "message": "Desbloquear la versión PRO"
+  },
+  "settings_subscribe_button": {
+    "message": "Suscribirse"
+  },
+  "settings_pro_account_cancel_at_period_end": {
+    "message": "Su suscripción finalizará el"
+  },
+  "settings_pro_account_reactivate": {
+    "message": "Reactivar mi suscripción"
+  },
+  "settings_account_greeting": {
+    "message": "Hola $1,"
+  },
+  "simulator_framing_blocked": {
+    "message": "$1 no permite la visualización de sus páginas dentro de otra página: el sitio no se puede simular en Firefox."
+  },
+  "settings_device_forced_time": {
+    "message": "Forzar la hora mostrada en el dispositivo"
+  },
+  "settings_device_forced_time_reset": {
+    "message": "Volver a la hora actual"
+  },
+  "device_variant_folded": {
+    "message": "Plegado"
+  },
+  "device_variant_unfolded": {
+    "message": "Desplegado"
+  },
+  "update_4_21_0_title": {
+    "message": "4 nuevos iPhones"
+  },
+  "update_4_21_0_description": {
+    "message": "iPhone 18 Pro, iPhone 18 Pro Max y el plegable iPhone Duo, en versiones plegada y desplegada."
+  },
+  "update_4_22_0_title": {
+    "message": "Descubre Live device"
+  },
+  "update_4_22_0_description": {
+    "message": "Ejecuta tu sitio en un dispositivo iOS o Android alojado en la nube y controlado en vivo desde tu pestaña."
+  },
+  "device_mockup_blocked_title": {
+    "message": "Mockup del dispositivo no disponible"
+  },
+  "device_mockup_blocked": {
+    "message": "No se pudo cargar la visualización del dispositivo. Esto puede deberse a un bloqueador de anuncios o a la política de seguridad de su empresa. El simulador sigue siendo completamente utilizable, solo que no se muestra el mockup."
+  },
+  "pro_modale_h1_real_simulation": {
+    "message": "Prueba tu sitio en un dispositivo real, desde la nube"
+  },
+  "settings_nav_cloud_devices": {
+    "message": "Live device"
+  },
+  "settings_display_real_simulation_info": {
+    "message": "Los ajustes de personalización de la visualización no están activos durante una sesión de Live device."
+  },
+  "menu_real_simulation_on": {
+    "message": "Iniciar en un dispositivo real"
+  },
+  "menu_real_simulation_off": {
+    "message": "Volver a la simulación local"
+  },
+  "real_simulation_starting": {
+    "message": "Conectando a un dispositivo real…"
+  },
+  "real_simulation_remaining": {
+    "message": "$1 min restantes este mes"
+  },
+  "real_simulation_quota_exceeded": {
+    "message": "Has utilizado todos tus minutos en dispositivo real para este mes. La simulación local sigue disponible."
+  },
+  "real_simulation_login_required": {
+    "message": "Inicia sesión en tu cuenta Mobile FIRST para lanzar tu sitio en un dispositivo real."
+  },
+  "real_simulation_local_title": {
+    "message": "Este sitio se ejecuta en un servidor local, al que el dispositivo real no puede acceder."
+  },
+  "real_simulation_local_text": {
+    "message": "Exponlo con un túnel, por ejemplo con el comando a continuación, luego pega la dirección pública obtenida."
+  },
+  "real_simulation_local_placeholder": {
+    "message": "https://ejemplo.trycloudflare.com"
+  },
+  "real_simulation_local_invalid": {
+    "message": "Introduce una dirección pública, no una dirección local."
+  },
+  "real_simulation_local_start": {
+    "message": "Iniciar a través de este túnel"
+  },
+  "real_simulation_local_help": {
+    "message": "¿Cómo crear un túnel?"
+  },
+  "real_simulation_tunnel_modale_title": {
+    "message": "Probar un sitio local en un dispositivo real"
+  },
+  "real_simulation_tunnel_modale_baseline": {
+    "message": "El dispositivo real se ejecuta en la nube: no puede ver tu máquina. Un túnel le da a tu servidor local una dirección pública temporal, durante tus pruebas."
+  },
+  "real_simulation_tunnel_step_install": {
+    "message": "Instala cloudflared"
+  },
+  "real_simulation_tunnel_linux_note": {
+    "message": "Comando para Debian / Ubuntu (x86_64). Otras distribuciones:"
+  },
+  "real_simulation_tunnel_downloads": {
+    "message": "descargas"
+  },
+  "real_simulation_tunnel_step_run": {
+    "message": "Inicia el túnel hacia tu servidor local"
+  },
+  "real_simulation_tunnel_step_paste": {
+    "message": "Copia la dirección del túnel en el terminal"
+  },
+  "real_simulation_tunnel_step_paste_note": {
+    "message": "Después de unos segundos, aparece un cuadro «<em>Your quick Tunnel has been created!</em>». Copia la dirección que contiene, en <strong>https://…trycloudflare.com</strong>, y pégala en el campo del dispositivo."
+  },
+  "real_simulation_tunnel_tip_logs": {
+    "message": "Las numerosas líneas <code>INF</code> alrededor son normales: son información técnica, puedes ignorarlas."
+  },
+  "real_simulation_tunnel_tip_delay": {
+    "message": "La dirección puede tardar hasta un minuto en responder después de su creación: si el dispositivo muestra un error, espera y vuelve a intentarlo."
+  },
+  "real_simulation_tunnel_tip_terminal": {
+    "message": "Deja el terminal abierto durante tus pruebas: el túnel se detiene cuando lo cierras o presionas <code>Ctrl</code> + <code>C</code>. Se genera una nueva dirección en cada inicio."
+  },
+  "real_simulation_tunnel_step_hosts": {
+    "message": "Si la página está bloqueada, permite la dirección del túnel"
+  },
+  "real_simulation_tunnel_step_hosts_note": {
+    "message": "Los servidores de desarrollo rechazan nombres de host desconocidos. Con Vite, añade en vite.config; con webpack-dev-server, usa allowedHosts: 'all'."
+  },
+  "real_simulation_tunnel_free_title": {
+    "message": "Gratis y sin cuenta."
+  },
+  "real_simulation_tunnel_free_text": {
+    "message": "Los Quick Tunnels de Cloudflare no requieren registro. La dirección cambia en cada inicio y están reservados para pruebas, no para producción."
+  },
+  "real_simulation_tunnel_docs": {
+    "message": "Documentación de Cloudflare"
+  },
+  "real_simulation_tunnel_done": {
+    "message": "Entendido"
+  },
+  "real_simulation_tunnel_copy": {
+    "message": "Copiar"
+  },
+  "real_simulation_session_ended": {
+    "message": "La sesión en dispositivo real ha terminado después de un período de inactividad."
+  },
+  "real_simulation_max_duration": {
+    "message": "La sesión en dispositivo real ha alcanzado su duración máxima. Inicia una nueva para continuar tus pruebas."
+  },
+  "real_simulation_session_revoked": {
+    "message": "La sesión en dispositivo real ha sido interrumpida porque estaba abierta en varios lugares al mismo tiempo."
+  },
+  "real_simulation_error": {
+    "message": "El dispositivo real es inalcanzable. Verifica tu conexión e inténtalo de nuevo."
+  },
+  "real_simulation_disabled": {
+    "message": "La simulación en dispositivo real está temporalmente desactivada. Estamos trabajando para restablecerla lo antes posible, por favor intenta más tarde."
+  },
+  "real_simulation_retry": {
+    "message": "Reintentar"
+  },
+  "real_simulation_title": {
+    "message": "Simulación de Live device"
+  },
+  "real_simulation_baseline": {
+    "message": "Diseña en el simulador, finaliza en un Live device"
+  },
+  "real_simulation_learn_more": {
+    "message": "Saber más"
+  },
+  "real_simulation_os_version": {
+    "message": "Versión $1"
+  },
+  "real_simulation_geolocation": {
+    "message": "Localización"
+  },
+  "real_simulation_inactivity_timeout": {
+    "message": "Apagado automático después de inactividad"
+  },
+  "real_simulation_inactivity_ended": {
+    "message": "La sesión en dispositivo real se detuvo después de $1 de inactividad."
+  },
+  "real_simulation_location_default": {
+    "message": "París"
+  },
+  "real_simulation_start": {
+    "message": "Iniciar el simulador en la nube"
+  },
+  "real_simulation_local_url": {
+    "message": "La simulación real requiere una página web en http(s). No funciona en archivos locales."
+  },
+  "real_simulation_local_server": {
+    "message": "Este sitio se ejecuta en un servidor local: al iniciar, se le pedirá que lo exponga en Internet a través de un túnel (cloudflared, ngrok…)."
+  },
+  "real_simulation_device_unavailable": {
+    "message": "Este dispositivo no está disponible en simulación real."
+  },
+  "real_simulation_device_unavailable_link": {
+    "message": "Ver dispositivos compatibles"
+  },
+  "real_simulation_pro_only": {
+    "message": "La simulación en dispositivo real está reservada para nuestros planes de pago."
+  },
+  "real_simulation_usage": {
+    "message": "Uso"
+  },
+  "real_simulation_usage_detail": {
+    "message": "Ha consumido $1 minutos de los $2 minutos del plan $3"
+  },
+  "real_simulation_more_minutes": {
+    "message": "¿Necesita más minutos?"
+  },
+  "real_simulation_usage_error": {
+    "message": "No se puede recuperar su consumo."
+  },
+  "real_simulation_modale_kicker": {
+    "message": "LIVE DEVICE"
+  },
+  "real_simulation_modale_live": {
+    "message": "En vivo"
+  },
+  "real_simulation_modale_h1": {
+    "message": "Diseña en el simulador, finaliza en condiciones reales"
+  },
+  "real_simulation_modale_h2": {
+    "message": "El simulador sigue siendo la herramienta ideal para diseñar e iterar rápidamente en todos los formatos de pantalla.<br>Al momento de validar, Live device puede tomar el relevo con un dispositivo iOS o Android alojado en la nube y controlado en directo desde tu pestaña."
+  },
+  "real_simulation_modale_feature_os_title": {
+    "message": "El verdadero motor de renderizado."
+  },
+  "real_simulation_modale_feature_os": {
+    "message": "Safari WebKit y Chrome Android nativos, para identificar cualquier problema de visualización."
+  },
+  "real_simulation_modale_feature_gestures_title": {
+    "message": "Todas las características de un verdadero OS móvil"
+  },
+  "real_simulation_modale_feature_gestures": {
+    "message": "Campos de formulario nativos, teclado del sistema y posición GPS personalizada."
+  },
+  "real_simulation_modale_feature_devices_title": {
+    "message": "$1 dispositivos listos en segundos."
+  },
+  "real_simulation_modale_feature_devices": {
+    "message": "Desde los últimos iPhone hasta los Android más comunes."
+  },
+  "real_simulation_modale_devices_list": {
+    "message": "Ver la lista"
+  },
+  "real_simulation_devices_modale_title": {
+    "message": "Dispositivos compatibles"
+  },
+  "real_simulation_devices_modale_baseline": {
+    "message": "$1 dispositivos del simulador pueden ser lanzados en simulación real. Los demás siguen disponibles en simulación local."
+  },
+  "real_simulation_modale_quota": {
+    "message": "<strong>$1 minutos</strong> / mes incluidos en su plan <strong>$2</strong>"
+  },
+  "real_simulation_modale_other_plans": {
+    "message": "Ver otros planes"
+  },
+  "real_simulation_modale_benefit_minutes": {
+    "message": "10 minutos de Live Device / mes"
+  },
+  "real_simulation_modale_benefit_minutes_rest": {
+    "message": "incluidos desde Starter"
+  },
+  "real_simulation_modale_login_question": {
+    "message": "¿Ya suscrito?"
+  },
+  "real_simulation_modale_login_link": {
+    "message": "Iniciar sesión"
+  },
+  "real_simulation_modale_benefit_pro": {
+    "message": "+ todas las funcionalidades PRO"
+  },
+  "real_simulation_modale_benefit_pro_rest": {
+    "message": "(dispositivos, configuraciones,..)"
+  },
+  "real_simulation_modale_see_plans": {
+    "message": "Ver los planes"
+  },
+  "real_simulation_modale_from": {
+    "message": "a partir de"
+  },
+  "real_simulation_modale_per_month": {
+    "message": "/ mes"
+  },
+  "real_simulation_continue_tests": {
+    "message": "Continúe sus pruebas"
+  },
+  "real_simulation_trial_title": {
+    "message": "No incluida durante la prueba"
+  },
+  "real_simulation_trial_note": {
+    "message": "La simulación en dispositivo real no está disponible durante el período de prueba. Sus minutos estarán disponibles desde el inicio de su suscripción."
+  },
+  "real_simulation_legacy_plan_title": {
+    "message": "Cambie a los nuevos planes"
+  },
+  "real_simulation_legacy_plan_note": {
+    "message": "Su antiguo plan de pago no incluye la simulación en dispositivo real. Para aprovechar esta funcionalidad, cambie a uno de nuestros nuevos planes."
+  },
+  "real_simulation_legacy_plan_upgrade": {
+    "message": "Actualizar mi suscripción"
+  },
+  "real_simulation_quota_consumed": {
+    "message": "Ha consumido los $1 minutos disponibles"
+  },
+  "real_simulation_quota_reset": {
+    "message": "Reinicio de los límites de uso el <strong>$1</strong>"
+  },
+  "real_simulation_upgrade_plan": {
+    "message": "$1 · $2 min/mes"
+  },
+  "real_simulation_upgrade_per_month": {
+    "message": " /mes"
+  },
+  "real_simulation_upgrade_renew": {
+    "message": "Minutos renovados cada mes"
+  },
+  "real_simulation_upgrade_extra": {
+    "message": "$1 por minuto en lugar de $2"
+  },
+  "real_simulation_upgrade_cta": {
+    "message": "Actualizar al plan superior"
+  },
+  "real_simulation_contact_us": {
+    "message": "Contáctanos"
+  },
+  "real_simulation_contact": {
+    "message": "Contacto"
+  },
+  "real_simulation_contact_team_admin": {
+    "message": "Contacta al administrador de tu equipo para obtener más minutos."
+  },
+  "real_simulation_location_change": {
+    "message": "Modificar la posición GPS"
+  },
+  "real_simulation_location_title": {
+    "message": "Ubicación GPS"
+  },
+  "real_simulation_location_search": {
+    "message": "Dirección, ciudad o coordenadas"
+  },
+  "real_simulation_location_results": {
+    "message": "Resultados"
+  },
+  "real_simulation_location_coordinates": {
+    "message": "Ir a las coordenadas"
+  },
+  "real_simulation_location_no_result": {
+    "message": "No se encontró ningún lugar."
+  },
+  "real_simulation_location_search_error": {
+    "message": "La búsqueda no está disponible por el momento. Puedes colocar el pin en el mapa."
+  },
+  "real_simulation_location_selected": {
+    "message": "Punto seleccionado"
+  },
+  "real_simulation_location_custom": {
+    "message": "Posición personalizada"
+  },
+  "real_simulation_location_latitude": {
+    "message": "Lat."
+  },
+  "real_simulation_location_longitude": {
+    "message": "Long."
+  },
+  "real_simulation_location_recents": {
+    "message": "Recientes"
+  },
+  "real_simulation_location_zoom_in": {
+    "message": "Acercar"
+  },
+  "real_simulation_location_zoom_out": {
+    "message": "Alejar"
+  },
+  "real_simulation_location_recenter": {
+    "message": "Recentrar en el punto"
+  },
+  "real_simulation_location_hint": {
+    "message": "Haz clic o arrastra el pin"
+  },
+  "real_simulation_location_cancel": {
+    "message": "Cancelar"
+  },
+  "real_simulation_location_apply": {
+    "message": "Aplicar posición"
+  },
+  "real_simulation_or": {
+    "message": "o"
+  },
+  "real_simulation_buy_minutes_title": {
+    "message": "Comprar $1 min"
+  },
+  "real_simulation_buy_minutes_validity": {
+    "message": "Sin suscripción, válidos $1 meses"
+  },
+  "real_simulation_buy_minutes_unit": {
+    "message": "$1 por minuto"
+  },
+  "real_simulation_buy_minutes_card": {
+    "message": "Tarjeta guardada: $1"
+  },
+  "real_simulation_buy_minutes_subtotal": {
+    "message": "Subtotal (sin IVA)"
+  },
+  "real_simulation_buy_minutes_tax": {
+    "message": "IVA ($1)"
+  },
+  "real_simulation_buy_minutes_total": {
+    "message": "Total (IVA incluido)"
+  },
+  "real_simulation_buy_minutes_pay": {
+    "message": "Pagar $1"
+  },
+  "real_simulation_buy_minutes_secure": {
+    "message": "Tu banco puede pedirte que valides el pago en una nueva pestaña."
+  },
+  "real_simulation_buy_minutes_cancel": {
+    "message": "Cancelar"
+  },
+  "real_simulation_buy_minutes_retry": {
+    "message": "Reintentar"
+  },
+  "real_simulation_buy_minutes_success": {
+    "message": "$1 minutos han sido añadidos a tu cuenta."
+  },
+  "real_simulation_buy_minutes_no_card": {
+    "message": "No hay ninguna tarjeta registrada en tu cuenta."
+  },
+  "real_simulation_buy_minutes_add_card": {
+    "message": "Agregar una tarjeta"
+  },
+  "real_simulation_buy_minutes_not_eligible": {
+    "message": "La compra de minutos está reservada para suscripciones activas."
+  },
+  "real_simulation_buy_minutes_in_progress": {
+    "message": "Ya hay un pago en proceso de validación. Complétalo o espera unos minutos."
+  },
+  "real_simulation_buy_minutes_processing": {
+    "message": "Tu pago está siendo procesado: los minutos se añadirán una vez confirmado."
+  },
+  "real_simulation_buy_minutes_canceled": {
+    "message": "Pago cancelado. No se ha debitado ningún monto."
+  },
+  "real_simulation_buy_minutes_declined": {
+    "message": "El pago fue rechazado por tu banco. No se ha debitado ningún monto."
+  },
+  "real_simulation_buy_minutes_auth_failed": {
+    "message": "La validación del pago no se completó. No se ha debitado ningún monto."
+  },
+  "real_simulation_buy_minutes_error": {
+    "message": "El pago no pudo ser realizado. Inténtalo de nuevo en un momento."
+  },
+  "real_simulation_buy_minutes_close": {
+    "message": "Cerrar"
+  },
+  "real_simulation_buy_minutes_invoice": {
+    "message": "Ver la factura"
+  },
+  "real_simulation_buy_minutes_invoice_notice": {
+    "message": "Se emite una factura por cada compra."
+  },
+  "real_simulation_buy_minutes_team_member": {
+    "message": "Los minutos de tu cuenta son gestionados por su administrador. Contáctalo para recargarlos:"
+  },
+  "real_simulation_buy_minutes_team_member_no_email": {
+    "message": "Los minutos de tu cuenta son gestionados por su administrador. Contáctalo para recargarlos."
+  },
+  "real_simulation_buy_minutes_currency_unavailable": {
+    "message": "La compra de minutos no está disponible en la moneda de tu cuenta. Contáctanos."
+  },
+  "menu_faq_detect_simulator": {
+    "message": "¿Cómo detectar que mi sitio se muestra en el simulador?"
+  },
+  "shortcut_real_simulation": {
+    "message": "Iniciar / detener la simulación en un dispositivo real"
+  },
+  "real_simulation_language": {
+    "message": "Idioma"
+  },
+  "real_simulation_location_resolving": {
+    "message": "Identificación del lugar…"
+  },
+  "real_simulation_buy_minutes_change_card": {
+    "message": "Modificar"
+  },
+  "real_simulation_buy_minutes_update_card": {
+    "message": "Modificar mi tarjeta de pago"
+  },
+  "real_simulation_device_compatible": {
+    "message": "Compatible Live Device"
+  },
+  "real_simulation_past_due_title": {
+    "message": "Pago pendiente"
+  },
+  "real_simulation_past_due_note": {
+    "message": "El último pago de su suscripción ha fallado. Actualice su método de pago para recuperar sus minutos de simulación en dispositivo real."
+  },
+  "real_simulation_past_due_team_note": {
+    "message": "El último pago de la suscripción de su equipo ha fallado. Sus minutos de simulación en dispositivo real volverán tan pronto como su administrador lo regularice."
+  },
+  "real_simulation_past_due_button": {
+    "message": "Actualizar el pago"
+  }
+}

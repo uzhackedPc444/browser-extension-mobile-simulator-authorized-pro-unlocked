@@ -1,0 +1,1406 @@
+{
+  "extName": {
+    "message": "Mobiele telefoonsimulator - responsieve site testen"
+  },
+  "extDescription": {
+    "message": "Phone Simulator — Gratis Chrome-extensie om uw sites op meer dan 80 apparaten te testen en te bekijken"
+  },
+  "global": {
+    "message": "--------------------------------------------------------"
+  },
+  "android_smartphone": {
+    "message": "<i class='mdi'>&#xe922;</i> Android-telefoons"
+  },
+  "apple_smartphone": {
+    "message": "<i class='mdi'>&#xeabe;</i> Apple-telefoons"
+  },
+  "tablet": {
+    "message": "<i class='mdi'>&#xe920;</i> Tablets"
+  },
+  "others": {
+    "message": "<i class='mdi'>&#xe921;</i> Speciaal"
+  },
+  "copied": {
+    "message": "Gekopieerd"
+  },
+  "error": {
+    "message": "Fout"
+  },
+  "link": {
+    "message": "Link"
+  },
+  "optional": {
+    "message": "Optioneel"
+  },
+  "close": {
+    "message": "Sluiten"
+  },
+  "get_pro": {
+    "message": "Verkrijg de PRO-versie"
+  },
+  "error_contact": {
+    "message": "{Neem contact met ons op} als het probleem aanhoudt."
+  },
+  "more_settings": {
+    "message": "Meer instellingen"
+  },
+  "dimensions": {
+    "message": "Afmetingen"
+  },
+  "context_menu": {
+    "message": "--------------------------------------------------------"
+  },
+  "context_menu_activate": {
+    "message": "Mobiele weergave activeren op dit tabblad"
+  },
+  "popup": {
+    "message": "--------------------------------------------------------"
+  },
+  "popup_site_incompatible": {
+    "message": "De simulator kan niet worden geactiveerd op deze native pagina van uw browser. Probeer een ander tabblad of navigeer naar een site en probeer opnieuw."
+  },
+  "popup_activate_local_files_info": {
+    "message": "Deze simulator kan standaard niet worden geactiveerd op lokale bestanden (file:///), maar u kunt de optie handmatig inschakelen in de Chrome-instellingen."
+  },
+  "popup_activate_local_files_button": {
+    "message": "Optie activeren"
+  },
+  "menu": {
+    "message": "--------------------------------------------------------"
+  },
+  "menu_close_alone": {
+    "message": "De simulator deactiveren"
+  },
+  "menu_change_device": {
+    "message": "Apparaat wijzigen of vergelijken"
+  },
+  "menu_contact_devices": {
+    "message": "<i class='mdi'>&#xe900;</i> Staat het apparaat dat u zoekt niet in de lijst? Laat het ons weten!"
+  },
+  "menu_info_device": {
+    "message": "Kenmerken en mockup van dit apparaat"
+  },
+  "menu_info_device_features": {
+    "message": "Kenmerken (viewportresolutie, etc.)"
+  },
+  "menu_info_device_mockup": {
+    "message": "Gratis mockup in transparante PNG"
+  },
+  "menu_rotate": {
+    "message": "Oriëntatie wijzigen"
+  },
+  "menu_zoom": {
+    "message": "Inzoomen op het apparaat"
+  },
+  "menu_screenshot": {
+    "message": "Een screenshot maken"
+  },
+  "menu_screencast": {
+    "message": "Een schermvideo opnemen"
+  },
+  "menu_share": {
+    "message": "Delen met een collega, vriend,..."
+  },
+  "menu_send_improvement": {
+    "message": "Een verbetering voorstellen"
+  },
+  "menu_send_message": {
+    "message": "Helpcentrum"
+  },
+  "menu_faq_title": {
+    "message": "Veelgestelde vragen"
+  },
+  "menu_faq_media_queries": {
+    "message": "Mijn media queries worden niet herkend"
+  },
+  "menu_faq_ignonito_mode": {
+    "message": "Hoe activeer ik de simulator in de incognitomodus?"
+  },
+  "menu_faq_scroll": {
+    "message": "Niet kunnen scrollen in de simulator"
+  },
+  "menu_faq_subscription": {
+    "message": "Waarom werkt mijn abonnement niet?"
+  },
+  "menu_faq_shortcut": {
+    "message": "Hoe stel ik sneltoetsen in?"
+  },
+  "menu_faq_all": {
+    "message": "Bekijk alle veelgestelde vragen"
+  },
+  "menu_report": {
+    "message": "Een bug melden"
+  },
+  "menu_settings": {
+    "message": "Configuratie"
+  },
+  "menu_extensions": {
+    "message": "Ontdek onze andere Chrome-extensies"
+  },
+  "menu_vote_feature": {
+    "message": "Stem op de functies die u wilt"
+  },
+  "simulator": {
+    "message": "--------------------------------------------------------"
+  },
+  "simulator_header_info": {
+    "message": "Dit is slechts een afbeelding. Om de URL te wijzigen, gebruik het Chrome-veld hierboven."
+  },
+  "simulator_footer_info": {
+    "message": "Dit is slechts een afbeelding. Gebruik uw eigen toetsenbord."
+  },
+  "screencast": {
+    "message": "--------------------------------------------------------"
+  },
+  "screencast_tooltip_device": {
+    "message": "Alleen video-opname van het apparaat"
+  },
+  "screencast_tooltip_tab": {
+    "message": "Video-opname van het tabblad met het apparaat"
+  },
+  "screencast_error": {
+    "message": "Er is een fout opgetreden tijdens de opname. {Klik hier} voor een workaround."
+  },
+  "screencast_modale_title": {
+    "message": "Video-opname"
+  },
+  "screencast_modale_texte": {
+    "message": "U kunt deze video in verschillende formaten downloaden of een deelbare link verkrijgen."
+  },
+  "screencast_modale_download_webm": {
+    "message": "Downloaden in standaardformaat WEBM (met transparantie indien optie geactiveerd)"
+  },
+  "screencast_modale_download_mp4": {
+    "message": "Betere compatibiliteit met PowerPoint, maar geen transparantie"
+  },
+  "screencast_modale_download_gif": {
+    "message": "Overal compatibel, maar lagere kwaliteit (met transparantie indien optie geactiveerd)"
+  },
+  "screencast_modale_gif_duration_limit_info": {
+    "message": "De maximale duur van een GIF is 60 seconden. Daarboven zou het bestand te groot worden."
+  },
+  "screencast_modale_copy": {
+    "message": "Kopiëren"
+  },
+  "screencast_modale_upload": {
+    "message": "Een deelbare link verkrijgen"
+  },
+  "screencast_modale_contact": {
+    "message": "Een bug melden, een verbetering voorstellen"
+  },
+  "screencast_start_recording": {
+    "message": "Opname starten"
+  },
+  "screencast_microphone_permission_denied": {
+    "message": "Toegang tot microfoon geweigerd."
+  },
+  "screencast_camera_permission_denied": {
+    "message": "Toegang tot camera geweigerd."
+  },
+  "screencast_error_media_stream_track_processor_or_generator": {
+    "message": "Uw versie van Chrome is te oud voor deze functie. Update Chrome naar een versie hoger dan 94.0"
+  },
+  "screencast_quality_info_tooltip": {
+    "message": "De videokwaliteit beïnvloedt de bitrate, fps & resolutie van de opname. Hoe hoger de kwaliteit, hoe groter het bestand."
+  },
+  "screencast_modale_auto_stop_limit_reached": {
+    "message": "Video-opnames zijn beperkt tot 5 minuten in de gratis versie."
+  },
+  "screenshot": {
+    "message": "--------------------------------------------------------"
+  },
+  "screenshot_menu_1": {
+    "message": "Schermafbeelding met het apparaat"
+  },
+  "screenshot_menu_2": {
+    "message": "Capture alleen van de site"
+  },
+  "screenshot_menu_3": {
+    "message": "Capture van de hele pagina"
+  },
+  "screenshot_menu_4": {
+    "message": "Capture van het hele tabblad"
+  },
+  "screenshot_button": {
+    "message": "Een capture genereren"
+  },
+  "screenshot_modale_download_png": {
+    "message": "Downloaden in PNG-formaat (geen compressie)"
+  },
+  "screenshot_modale_download_webp": {
+    "message": "Downloaden in WEBP-formaat, bijna overal compatibel en geoptimaliseerde compressie (aanbevolen)"
+  },
+  "screenshot_menu_stop_fullpage": {
+    "message": "Stoppen voor het einde van de pagina"
+  },
+  "screenshot_modale_title": {
+    "message": "Schermafbeelding"
+  },
+  "screenshot_modale_copy": {
+    "message": "Afbeelding naar klembord kopiëren"
+  },
+  "screenshot_modale_edit": {
+    "message": "Capture bewerken"
+  },
+  "screenshot_modale_help": {
+    "message": "Om de afbeelding in groot formaat op te slaan, klik met de rechtermuisknop erop en kies \"Afbeelding kopiëren\" of \"Opslaan\"."
+  },
+  "screenshot_editor_close": {
+    "message": "Editor sluiten"
+  },
+  "screenshot_editor_undo": {
+    "message": "Laatste actie ongedaan maken"
+  },
+  "screenshot_editor_rect": {
+    "message": "Een rechthoek tekenen"
+  },
+  "screenshot_editor_ellipse": {
+    "message": "Een cirkel tekenen"
+  },
+  "screenshot_editor_line": {
+    "message": "Een lijn tekenen"
+  },
+  "screenshot_editor_arrow": {
+    "message": "Een pijl tekenen"
+  },
+  "screenshot_editor_pen": {
+    "message": "Vrij tekenen"
+  },
+  "screenshot_editor_color": {
+    "message": "Lijnkleur"
+  },
+  "screenshot_editor_stroke_width": {
+    "message": "Lijndikte"
+  },
+  "pro": {
+    "message": "--------------------------------------------------------"
+  },
+  "pro_modale_h1": {
+    "message": "Word een PRO"
+  },
+  "pro_modale_h1_all_formats": {
+    "message": "Converteer uw video-opnames naar GIF- en MP4-formaten"
+  },
+  "pro_modale_h1_devices": {
+    "message": "Simuleer alle apparaten"
+  },
+  "pro_modale_h1_settings": {
+    "message": "Ontgrendel alle instellingen"
+  },
+  "pro_modale_h1_screencast": {
+    "message": "Ontgrendel alle video-opname-instellingen"
+  },
+  "pro_modale_h1_ads": {
+    "message": "Verwijder advertenties"
+  },
+  "pro_modale_h1_image_editor": {
+    "message": "Bewerk uw captures"
+  },
+  "pro_modale_h1_unlimited_screenshots": {
+    "message": "Maak onbeperkt screenshots"
+  },
+  "pro_modale_h2": {
+    "message": "Word een PRO en draag actief bij aan de ontwikkeling van deze extensie door de ontwikkelaar te ondersteunen."
+  },
+  "pro_modale_billed_annualy": {
+    "message": "Jaarlijks gefactureerd"
+  },
+  "pro_modale_savings": {
+    "message": "Bespaar"
+  },
+  "pro_modale_from": {
+    "message": "Vanaf"
+  },
+  "pro_modale_recurring_month": {
+    "message": "maand"
+  },
+  "pro_modale_button": {
+    "message": "Ik abonneer me"
+  },
+  "pro_modale_link_1": {
+    "message": "Of"
+  },
+  "pro_modale_link_2": {
+    "message": "ik log in"
+  },
+  "pro_modale_link_3": {
+    "message": "op mijn abonnementsaccount"
+  },
+  "pro_modale_avantage_1": {
+    "message": "Alle video-instellingen"
+  },
+  "pro_modale_avantage_2": {
+    "message": "Vergelijking van meerdere apparaten"
+  },
+  "sharing": {
+    "message": "--------------------------------------------------------"
+  },
+  "sharing_h1": {
+    "message": "Is deze mobiele simulator nuttig voor jou?"
+  },
+  "sharing_h2": {
+    "message": "Deel het dan met je collega's of vrienden"
+  },
+  "sharing_txt": {
+    "message": "Simulator om je site op mobiel & tablet te testen"
+  },
+  "sharing_review_1": {
+    "message": "En als je een minuut hebt om"
+  },
+  "sharing_review_2": {
+    "message": "een beoordeling toe te voegen"
+  },
+  "sharing_review_3": {
+    "message": "dan is dat de kers op de taart! 🙂"
+  },
+  "sharing_review_button": {
+    "message": "Ik voeg een beoordeling toe"
+  },
+  "other_extensions": {
+    "message": "--------------------------------------------------------"
+  },
+  "other_extensions_h1": {
+    "message": "Ontdek onze gloednieuwe gratis extensies"
+  },
+  "other_extensions_color_picker_title": {
+    "message": "Kleurkiezer"
+  },
+  "other_extensions_color_picker_description": {
+    "message": "Met deze extensie kunt u elke kleur op het scherm vastleggen."
+  },
+  "other_extensions_font_finder_title": {
+    "message": "Lettertypezoeker"
+  },
+  "other_extensions_font_finder_description": {
+    "message": "Identificeer met één klik het lettertype dat op een webpagina wordt gebruikt."
+  },
+  "other_extensions_button": {
+    "message": "Installeren"
+  },
+  "review": {
+    "message": "--------------------------------------------------------"
+  },
+  "review_h1": {
+    "message": "Hoe zou je deze extensie beoordelen?"
+  },
+  "review_note_store": {
+    "message": "Bedankt voor uw feedback, aarzel niet om een beoordeling toe te voegen op de pagina van de extensie. Ik zou het zeer op prijs stellen 😊"
+  },
+  "review_note_feedback": {
+    "message": "Bedankt voor je feedback, aarzel niet om ons een bericht te sturen zodat we deze extensie kunnen verbeteren."
+  },
+  "button_feedback": {
+    "message": "Een beoordeling toevoegen"
+  },
+  "button_message": {
+    "message": "Stuur ons een bericht"
+  },
+  "contact": {
+    "message": "--------------------------------------------------------"
+  },
+  "contact_message_field_name": {
+    "message": "Apparaatnaam"
+  },
+  "contact_message_field_placeholder": {
+    "message": "Samsung Galaxy S24 Ultra, iPhone 17 Pro Max, etc."
+  },
+  "contact_title": {
+    "message": "Staat het apparaat dat u zoekt niet in de lijst? Laat het ons weten!"
+  },
+  "settings": {
+    "message": "--------------------------------------------------------"
+  },
+  "settings_h2_device": {
+    "message": "Apparaat"
+  },
+  "settings_h2_global": {
+    "message": "Algemeen"
+  },
+  "settings_hide_header_footer": {
+    "message": "De browserinterface van het apparaat verbergen (adresbalk, enz.)"
+  },
+  "settings_hide_keyboard": {
+    "message": "Simuleer het verschijnen van het toetsenbord tijdens het typen"
+  },
+  "settings_scrollbar_show": {
+    "message": "De native schuifbalk in het apparaat weergeven"
+  },
+  "settings_change_cursor": {
+    "message": "Touch scroll & mobiele cursorweergave"
+  },
+  "settings_change_background": {
+    "message": "Achtergrondkleur wijzigen"
+  },
+  "settings_default_device": {
+    "message": "Standaardapparaat bij elke activatie"
+  },
+  "settings_change_analytics": {
+    "message": "Help de ontwikkelaar de extensie te verbeteren door 100% anonieme en niet-persoonlijke gebruiksgegevens te delen."
+  },
+  "settings_device_hide": {
+    "message": "Apparaatframe weergeven"
+  },
+  "settings_batterie_level": {
+    "message": "Batterijniveau in de header van het apparaat (%)"
+  },
+  "settings_device_default_url": {
+    "message": "De URL wijzigen die in het apparaat wordt weergegeven"
+  },
+  "settings_presenter_mode": {
+    "message": "Presentatiemodus (rechter menu alleen zichtbaar bij hover)"
+  },
+  "settings_fullscreen": {
+    "message": "Site op volledig scherm in het apparaat"
+  },
+  "settings_default_device_placeholder": {
+    "message": "Selecteer een apparaat"
+  },
+  "settings_video_quality": {
+    "message": "Videokwaliteit"
+  },
+  "settings_video_quality_low": {
+    "message": "Gemiddeld"
+  },
+  "settings_video_quality_medium": {
+    "message": "Goed"
+  },
+  "settings_video_quality_high": {
+    "message": "Uitstekend"
+  },
+  "settings_theme": {
+    "message": "Thema"
+  },
+  "settings_theme_light": {
+    "message": "Licht"
+  },
+  "settings_theme_dark": {
+    "message": "Donker"
+  },
+  "settings_theme_auto": {
+    "message": "Auto"
+  },
+  "settings_shortcuts": {
+    "message": "Sneltoetsen instellen"
+  },
+  "settings_pro_account": {
+    "message": "Mijn abonnement beheren"
+  },
+  "settings_microphone": {
+    "message": "Microfoon"
+  },
+  "settings_camera": {
+    "message": "Camera"
+  },
+  "settings_countdown": {
+    "message": "Aftellen (seconden)"
+  },
+  "settings_transparent_background": {
+    "message": "Transparante achtergrond"
+  },
+  "settings_transparent_background_info": {
+    "message": "Deze optie vereist meer berekeningen en kan de weergave vertragen, afhankelijk van uw computer (alleen compatibel met WEBM- en GIF-formaten)"
+  },
+  "screenshot_workaround": {
+    "message": "--------------------------------------------------------"
+  },
+  "screenshot_workaround_title": {
+    "message": "Workaround voor screenshot"
+  },
+  "screenshot_workaround_context": {
+    "message": "Context"
+  },
+  "screenshot_workaround_context_text": {
+    "message": "Vanwege bepaalde technische beperkingen kunt u bij het maken van een screenshot deze foutmelding ontvangen."
+  },
+  "screenshot_workaround_solution": {
+    "message": "Workaround"
+  },
+  "screenshot_workaround_solution_text": {
+    "message": "In dat geval, om de capture te starten, klik met de rechtermuisknop ergens op de pagina, kies de optie \"Mobiele simulator\", en dan \"📷 Een screenshot maken\""
+  },
+  "feedback": {
+    "message": "--------------------------------------------------------"
+  },
+  "feedback_title": {
+    "message": "Help ons Mobile FIRST nog nuttiger voor u te maken 🚀"
+  },
+  "feedback_profession": {
+    "message": "Wat is uw professionele afdeling?"
+  },
+  "feedback_profession_developer": {
+    "message": "Ontwikkeling"
+  },
+  "feedback_profession_designer": {
+    "message": "Ontwerp"
+  },
+  "feedback_profession_qa": {
+    "message": "Test / QA"
+  },
+  "feedback_profession_product": {
+    "message": "Productbeheer"
+  },
+  "feedback_profession_marketing": {
+    "message": "Marketing"
+  },
+  "feedback_profession_sales": {
+    "message": "Verkoop"
+  },
+  "feedback_profession_other": {
+    "message": "Anders"
+  },
+  "feedback_company_type": {
+    "message": "Wat voor soort bedrijf heeft u?"
+  },
+  "feedback_company_type_freelance": {
+    "message": "Freelance"
+  },
+  "feedback_company_type_micro_business": {
+    "message": "Micro-onderneming (1-9 werknemers)"
+  },
+  "feedback_company_type_agency": {
+    "message": "Klein bedrijf (10-49 werknemers)"
+  },
+  "feedback_company_type_startup": {
+    "message": "Middelgroot bedrijf (50-249 werknemers)"
+  },
+  "feedback_company_type_pme": {
+    "message": "Groot bedrijf (250-4999 werknemers)"
+  },
+  "feedback_company_type_grandeentreprise": {
+    "message": "Zeer groot bedrijf / groep (5000+ werknemers)"
+  },
+  "feedback_use_cases": {
+    "message": "Waarom gebruikt u Mobile FIRST?"
+  },
+  "feedback_useCases_placeholder": {
+    "message": "Mijn site testen, klantdemo's geven..."
+  },
+  "feedback_frequency": {
+    "message": "Hoe vaak gebruikt u deze extensie?"
+  },
+  "feedback_frequency_quotidien": {
+    "message": "Dagelijks"
+  },
+  "feedback_frequency_plusieursfoisparsemaine": {
+    "message": "Meerdere keren per week"
+  },
+  "feedback_frequency_occasionnel": {
+    "message": "Af en toe"
+  },
+  "feedback_frequency_rare": {
+    "message": "Zelden"
+  },
+  "feedback_improvements": {
+    "message": "Welke verbeteringen zou u willen zien?"
+  },
+  "feedback_improvements_placeholder": {
+    "message": "Een idee, een wrijving, een tekort..."
+  },
+  "feedback_submit": {
+    "message": "Verzenden"
+  },
+  "feedback_close": {
+    "message": "Niet antwoorden"
+  },
+  "feedback_error_required": {
+    "message": "Alle velden zijn leeg 🤔"
+  },
+  "feedback_submitted": {
+    "message": "Heel erg bedankt voor uw feedback 🤗"
+  },
+  "select": {
+    "message": "Selecteren..."
+  },
+  "modales": {
+    "message": "--------------------------------------------------------"
+  },
+  "new_video_feature_h1": {
+    "message": "Ontdek nu de nieuwe video-opnamefunctie!"
+  },
+  "new_video_feature_h2": {
+    "message": "Neem op met betere kwaliteit, met nieuwe opties en met transparante achtergrond"
+  },
+  "logout_modale_title": {
+    "message": "U bent automatisch afgemeld op dit apparaat"
+  },
+  "logout_modale_message": {
+    "message": "Dit apparaat maakt niet langer deel uit van uw geautoriseerde apparaten. Als u deze toegang handmatig heeft verwijderd, is een nieuwe aanmelding vereist."
+  },
+  "notifications": {
+    "message": "--------------------------------------------------------"
+  },
+  "notification_update_title_vwelcome": {
+    "message": "<strong class='mb-2 is-block'>Welkom bij Mobile FIRST 👋</strong>Simuleer met één klik telefoons, tablets en computers om eenvoudig uw sites te testen en te visualiseren.<br><br><strong>Het menu bevindt zich aan de rechterkant ➡️</strong>"
+  },
+  "notification_update_title_v4_14_5": {
+    "message": "<strong class='mb-2 is-block'>Update v4.14.5</strong>Significante verhoging van de <strong>resolutie en kwaliteit</strong> van screenshots <i class='mdi'>&#xe903;</i>"
+  },
+  "logout_modale_button": {
+    "message": "Inloggen"
+  },
+  "logout_modale_message_2": {
+    "message": "ℹ️ Wilt u uw abonnement delen? Om andere personen toe te staan, voegt u ze eenvoudig toe via de sectie \"Gebruikers\" van uw account."
+  },
+  "logout_modale_message2": {
+    "message": "Uit veiligheidsoverwegingen bent u automatisch uitgelogd van uw account. Maar u kunt opnieuw inloggen door op de knop hieronder te klikken."
+  },
+  "notification_update_title_v4_15_0": {
+    "message": "<strong class='mb-2 is-block'>Update v4.15.0</strong>Activatie van <strong>touch scroll</strong> voor smartphones en tablets <i class='mdi'>&#xe905;</i>"
+  },
+  "menu_add_window": {
+    "message": "Venster toevoegen"
+  },
+  "settings_sync_events": {
+    "message": "Synchroniseer de gebeurtenissen tussen de vensters (klik, scroll, etc.)"
+  },
+  "pro_modale_h1_multi_devices": {
+    "message": "Vergelijk meer dan twee apparaten tegelijkertijd"
+  },
+  "notification_update_title_v4_15_2": {
+    "message": "<strong class='mb-2 is-block'>Update v4.15.0</strong>Activatie van <strong>touch scroll</strong> voor smartphones en tablets."
+  },
+  "settings_pro_account_past_due": {
+    "message": "Het verlengen van uw abonnement is mislukt. Werk uw betalingsgegevens bij om de PRO-versie te behouden."
+  },
+  "notification_update_title_v4_15_5": {
+    "message": "<strong class='mb-2 is-block'>Update v4.15.5</strong><ul><li>Fix voor volledige pagina schermafbeeldingen op <strong>lokale bestanden</strong>.</li><li>Fix voor vh, dhv, lvh, svh eenheden op <strong>iOS&nbsp;26</strong>.</li></ul>"
+  },
+  "menu_active_devices": {
+    "message": "Apparaten zichtbaar in het tabblad"
+  },
+  "menu_favorites": {
+    "message": "<i class='mdi mdi-star favorites-icon is-size-6'></i> Favorieten"
+  },
+  "menu_enable_comparison_mode": {
+    "message": "Vergelijkingsmodus inschakelen"
+  },
+  "menu_disable_comparison_mode": {
+    "message": "Vergelijkingsmodus uitschakelen"
+  },
+  "menu_custom_devices": {
+    "message": "<i class='mdi'>&#xe917;</i>&nbsp;&nbsp;Mijn aangepaste apparaten"
+  },
+  "menu_custom_devices_banner": {
+    "message": "Voeg je eigen aangepaste apparaten toe!"
+  },
+  "custom_device_title": {
+    "message": "Aangepast apparaat toevoegen"
+  },
+  "custom_device_add": {
+    "message": "Aangepast apparaat toevoegen"
+  },
+  "custom_device_name": {
+    "message": "Apparaatnaam"
+  },
+  "custom_device_ua_preset": {
+    "message": "User agent"
+  },
+  "custom_device_ua_custom": {
+    "message": "Aangepaste user agent"
+  },
+  "custom_device_ua": {
+    "message": "User agent string"
+  },
+  "custom_device_os_name": {
+    "message": "Besturingssysteem"
+  },
+  "custom_device_os_version": {
+    "message": "OS-versie"
+  },
+  "custom_device_width": {
+    "message": "Viewport breedte (px)"
+  },
+  "custom_device_height": {
+    "message": "Viewport hoogte (px)"
+  },
+  "custom_device_dpr": {
+    "message": "Device pixel ratio"
+  },
+  "custom_device_network": {
+    "message": "Netwerk"
+  },
+  "custom_device_more": {
+    "message": "Meer instellingen"
+  },
+  "custom_device_less": {
+    "message": "Minder instellingen"
+  },
+  "custom_device_submit": {
+    "message": "Toevoegen"
+  },
+  "custom_device_error_name": {
+    "message": "De apparaatnaam is verplicht."
+  },
+  "custom_device_error_ua": {
+    "message": "De user agent is verplicht."
+  },
+  "custom_device_error_os": {
+    "message": "Het besturingssysteem is verplicht."
+  },
+  "custom_device_error_viewport": {
+    "message": "Viewport breedte en hoogte moeten tussen 10 en 4096 liggen."
+  },
+  "notification_update_title_v4_16_0": {
+    "message": "<strong class='mb-2 is-block'>Update v4.16.0</strong>Toevoeging van de mogelijkheid om aangepaste apparaten te maken <i class='mdi'>&#xe917;</i>"
+  },
+  "new_comparison_feature_h1": {
+    "message": "Ontdek nu de nieuwe functie voor het vergelijken van meerdere apparaten!"
+  },
+  "new_comparison_feature_h2": {
+    "message": "Vergelijk de gelijktijdige weergave van meerdere apparaten in hetzelfde venster. Scrollen, klikken, toetsenbord gesynchroniseerd."
+  },
+  "try_it": {
+    "message": "Probeer het nu"
+  },
+  "menu_close_window": {
+    "message": "Dit venster sluiten"
+  },
+  "notification_update_title_v4_17_0": {
+    "message": "<strong class='mb-2 is-block'>Update v4.17.0</strong>Toevoeging van de functie voor het vergelijken van meerdere apparaten tegelijkertijd! <i class='mdi'>&#xe917;</i>"
+  },
+  "screencast_firefox_select_tab": {
+    "message": "Deel alstublieft het huidige venster (en niet het volledige scherm) zodat de opname correct wordt gekaderd."
+  },
+  "latest_updates": {
+    "message": "Laatste updates"
+  },
+  "see_more": {
+    "message": "Meer zien"
+  },
+  "see_less": {
+    "message": "Minder zien"
+  },
+  "update_tag_new": {
+    "message": "NIEUW"
+  },
+  "update_tag_feature": {
+    "message": "FUNCTIE"
+  },
+  "update_tag_improvement": {
+    "message": "VERBETERING"
+  },
+  "update_tag_fix": {
+    "message": "FIX"
+  },
+  "update_4_19_0_title": {
+    "message": "6 nieuwe Android-apparaten"
+  },
+  "update_4_19_0_description": {
+    "message": "3 modellen van Google Pixel 10, Motorola Razr 70 Ultra, de Infinix Hot 70 en Samsung Galaxy A17."
+  },
+  "update_4_17_0_title": {
+    "message": "Apparaatvergelijking"
+  },
+  "update_4_17_0_description": {
+    "message": "Vergelijk meerdere apparaten naast elkaar tegelijkertijd. Klikken, scrollen en toetsenbord zijn gesynchroniseerd."
+  },
+  "update_4_16_0_title": {
+    "message": "Aangepaste apparaten"
+  },
+  "update_4_16_0_description": {
+    "message": "U kunt nu uw eigen apparaten toevoegen met specifieke afmetingen."
+  },
+  "update_4_15_5_title": {
+    "message": "Fixes"
+  },
+  "update_4_15_5_description": {
+    "message": "Volledige paginacaptures op lokale bestanden en fixes voor weergave-eenheden op iOS 26 (vh, dhv, lvh, svh)."
+  },
+  "update_4_15_0_title": {
+    "message": "Touch scrolling"
+  },
+  "update_4_15_0_description": {
+    "message": "Inschakelen van touch scrolling op smartphones en tablets."
+  },
+  "update_4_14_5_title": {
+    "message": "Scherpere captures"
+  },
+  "update_4_14_5_description": {
+    "message": "Significante verbetering van de resolutie en kwaliteit van screenshots."
+  },
+  "pro_modale_toggle_annual": {
+    "message": "Jaarlijks"
+  },
+  "pro_modale_toggle_monthly": {
+    "message": "Maandelijks"
+  },
+  "pro_modale_trial_after_days": {
+    "message": "na uw 7 dagen gratis proefperiode"
+  },
+  "pro_modale_trial_button": {
+    "message": "Begin mijn gratis proefperiode van 7 dagen"
+  },
+  "pro_modale_trial_h1": {
+    "message": "Probeer de PRO-versie gratis gedurende 7 dagen"
+  },
+  "pro_modale_trial_note": {
+    "message": "Vandaag niets te betalen · Geen verplichting, op elk moment opzegbaar"
+  },
+  "pro_modale_trial_then": {
+    "message": "dan"
+  },
+  "pro_modale_trial_today": {
+    "message": "vandaag"
+  },
+  "settings_pwa_auto_detect": {
+    "message": "PWA's automatisch detecteren en weergeven als mobiele applicatie."
+  },
+  "settings_title": {
+    "message": "Instellingen"
+  },
+  "settings_nav_device": {
+    "message": "Apparaat"
+  },
+  "settings_nav_appearance": {
+    "message": "Uiterlijk"
+  },
+  "settings_nav_account": {
+    "message": "Account"
+  },
+  "settings_os_display": {
+    "message": "OS-weergave"
+  },
+  "settings_os_display_full_desc": {
+    "message": "Toont de statusbalk van het OS en de browser (adresbalk)."
+  },
+  "settings_os_display_no_browser_desc": {
+    "message": "Verbergt de browser maar behoudt de statusbalk van het OS."
+  },
+  "settings_os_display_no_os_desc": {
+    "message": "Verbergt de statusbalk van het OS en de browser."
+  },
+  "settings_h2_display": {
+    "message": "Algemene weergave"
+  },
+  "settings_h2_customization": {
+    "message": "Aanpassing"
+  },
+  "settings_h2_multiwindow": {
+    "message": "Multi-venster modus"
+  },
+  "settings_h2_pwa": {
+    "message": "PWA"
+  },
+  "settings_account_cta_title": {
+    "message": "Ga naar uw account"
+  },
+  "settings_account_cta_subtitle": {
+    "message": "Meld u aan om de PRO-versie te ontgrendelen, of log in als u al een account heeft."
+  },
+  "settings_signup_button": {
+    "message": "Inschrijven"
+  },
+  "settings_login_button": {
+    "message": "Inloggen"
+  },
+  "settings_subscribe": {
+    "message": "Ontgrendel de PRO-versie"
+  },
+  "settings_subscribe_button": {
+    "message": "Abonneren"
+  },
+  "settings_pro_account_cancel_at_period_end": {
+    "message": "Uw abonnement eindigt op"
+  },
+  "settings_pro_account_reactivate": {
+    "message": "Mijn abonnement opnieuw activeren"
+  },
+  "settings_account_greeting": {
+    "message": "Hallo $1,"
+  },
+  "simulator_framing_blocked": {
+    "message": "$1 staat niet toe dat zijn pagina's binnen een andere pagina worden weergegeven: de site kan niet worden gesimuleerd op Firefox."
+  },
+  "settings_device_forced_time": {
+    "message": "De weergegeven tijd op het apparaat forceren"
+  },
+  "settings_device_forced_time_reset": {
+    "message": "Terugkeren naar de huidige tijd"
+  },
+  "device_variant_folded": {
+    "message": "Gevouwen"
+  },
+  "device_variant_unfolded": {
+    "message": "Uitgevouwen"
+  },
+  "update_4_21_0_title": {
+    "message": "4 nieuwe iPhones"
+  },
+  "update_4_21_0_description": {
+    "message": "iPhone 18 Pro, iPhone 18 Pro Max en de opvouwbare iPhone Duo, in gevouwen en ontvouwde versies."
+  },
+  "update_4_22_0_title": {
+    "message": "Ontdek Live device"
+  },
+  "update_4_22_0_description": {
+    "message": "Voer uw site uit op een iOS- of Android-apparaat gehost in de cloud en bestuurd vanuit uw tabblad."
+  },
+  "device_mockup_blocked_title": {
+    "message": "Apparaatmockup niet beschikbaar"
+  },
+  "device_mockup_blocked": {
+    "message": "De visualisatie van het apparaat kon niet worden geladen. Dit kan komen door een advertentieblokker of door het beveiligingsbeleid van uw bedrijf. De simulator blijft volledig bruikbaar, alleen de mockup wordt niet weergegeven."
+  },
+  "pro_modale_h1_real_simulation": {
+    "message": "Test uw site op een echt apparaat, vanuit de cloud"
+  },
+  "settings_nav_cloud_devices": {
+    "message": "Live device"
+  },
+  "settings_display_real_simulation_info": {
+    "message": "De aanpassingsinstellingen voor de weergave zijn niet actief tijdens een Live device-sessie."
+  },
+  "menu_real_simulation_on": {
+    "message": "Start op een echt apparaat"
+  },
+  "menu_real_simulation_off": {
+    "message": "Terug naar lokale simulatie"
+  },
+  "real_simulation_starting": {
+    "message": "Verbinden met een echt apparaat…"
+  },
+  "real_simulation_remaining": {
+    "message": "$1 min over deze maand"
+  },
+  "real_simulation_quota_exceeded": {
+    "message": "U heeft al uw minuten op een echt apparaat voor deze maand gebruikt. Lokale simulatie blijft beschikbaar."
+  },
+  "real_simulation_login_required": {
+    "message": "Log in op uw Mobile FIRST-account om uw site op een echt apparaat te starten."
+  },
+  "real_simulation_local_title": {
+    "message": "Deze site draait op een lokale server, die het echte apparaat niet kan bereiken."
+  },
+  "real_simulation_local_text": {
+    "message": "Stel het bloot met een tunnel, bijvoorbeeld met de onderstaande opdracht, en plak vervolgens het verkregen openbare adres."
+  },
+  "real_simulation_local_placeholder": {
+    "message": "https://voorbeeld.trycloudflare.com"
+  },
+  "real_simulation_local_invalid": {
+    "message": "Voer een openbaar adres in, geen lokaal adres."
+  },
+  "real_simulation_local_start": {
+    "message": "Start via deze tunnel"
+  },
+  "real_simulation_local_help": {
+    "message": "Hoe maak je een tunnel?"
+  },
+  "real_simulation_tunnel_modale_title": {
+    "message": "Test een lokale site op een echt apparaat"
+  },
+  "real_simulation_tunnel_modale_baseline": {
+    "message": "Het echte apparaat draait in de cloud: het ziet uw machine niet. Een tunnel geeft uw lokale server tijdelijk een openbaar adres voor de duur van uw tests."
+  },
+  "real_simulation_tunnel_step_install": {
+    "message": "Installeer cloudflared"
+  },
+  "real_simulation_tunnel_linux_note": {
+    "message": "Opdracht voor Debian / Ubuntu (x86_64). Andere distributies:"
+  },
+  "real_simulation_tunnel_downloads": {
+    "message": "downloads"
+  },
+  "real_simulation_tunnel_step_run": {
+    "message": "Start de tunnel naar uw lokale server"
+  },
+  "real_simulation_tunnel_step_paste": {
+    "message": "Kopieer het tunneladres in de terminal"
+  },
+  "real_simulation_tunnel_step_paste_note": {
+    "message": "Na enkele seconden verschijnt er een kader \"<em>Your quick Tunnel has been created!</em>\". Kopieer het adres dat het bevat, in <strong>https://…trycloudflare.com</strong>, en plak het in het veld van het apparaat."
+  },
+  "real_simulation_tunnel_tip_logs": {
+    "message": "De vele <code>INF</code> regels eromheen zijn normaal: het zijn technische informatie, u kunt ze negeren."
+  },
+  "real_simulation_tunnel_tip_delay": {
+    "message": "Het adres kan tot een minuut nodig hebben om te reageren na zijn creatie: als het apparaat een fout weergeeft, wacht dan en probeer opnieuw."
+  },
+  "real_simulation_tunnel_tip_terminal": {
+    "message": "Laat de terminal open tijdens uw tests: de tunnel stopt wanneer u deze sluit of op <code>Ctrl</code> + <code>C</code> drukt. Een nieuw adres wordt gegenereerd bij elke start."
+  },
+  "real_simulation_tunnel_step_hosts": {
+    "message": "Als de pagina geblokkeerd is, sta het tunneladres toe"
+  },
+  "real_simulation_tunnel_step_hosts_note": {
+    "message": "Ontwikkelingsservers weigeren onbekende hostnamen. Met Vite, voeg toe in vite.config; met webpack-dev-server, gebruik allowedHosts: 'all'."
+  },
+  "real_simulation_tunnel_free_title": {
+    "message": "Gratis en zonder account."
+  },
+  "real_simulation_tunnel_free_text": {
+    "message": "De Quick Tunnels van Cloudflare vereisen geen registratie. Het adres verandert bij elke start en ze zijn alleen voor tests, niet voor productie."
+  },
+  "real_simulation_tunnel_docs": {
+    "message": "Cloudflare Documentatie"
+  },
+  "real_simulation_tunnel_done": {
+    "message": "Ik begrijp het"
+  },
+  "real_simulation_tunnel_copy": {
+    "message": "Kopiëren"
+  },
+  "real_simulation_session_ended": {
+    "message": "De sessie op een echt apparaat is beëindigd na een periode van inactiviteit."
+  },
+  "real_simulation_max_duration": {
+    "message": "De sessie op een echt apparaat heeft de maximale duur bereikt. Start er een nieuwe om uw tests voort te zetten."
+  },
+  "real_simulation_session_revoked": {
+    "message": "De sessie op een echt apparaat is onderbroken omdat deze op meerdere plaatsen tegelijk was geopend."
+  },
+  "real_simulation_error": {
+    "message": "Het echte apparaat is onbereikbaar. Controleer uw verbinding en probeer opnieuw."
+  },
+  "real_simulation_disabled": {
+    "message": "De simulatie op een echt apparaat is tijdelijk uitgeschakeld. We werken eraan om het zo snel mogelijk te herstellen, probeer het later opnieuw."
+  },
+  "real_simulation_retry": {
+    "message": "Opnieuw proberen"
+  },
+  "real_simulation_title": {
+    "message": "Live device simulatie"
+  },
+  "real_simulation_baseline": {
+    "message": "Ontwerp op de simulator, voltooi op een Live device"
+  },
+  "real_simulation_learn_more": {
+    "message": "Meer informatie"
+  },
+  "real_simulation_os_version": {
+    "message": "Versie $1"
+  },
+  "real_simulation_geolocation": {
+    "message": "Locatie"
+  },
+  "real_simulation_inactivity_timeout": {
+    "message": "Automatisch uitschakelen na inactiviteit"
+  },
+  "real_simulation_inactivity_ended": {
+    "message": "De sessie op het echte apparaat is gestopt na $1 van inactiviteit."
+  },
+  "real_simulation_location_default": {
+    "message": "Parijs"
+  },
+  "real_simulation_start": {
+    "message": "Start de cloudsimulator"
+  },
+  "real_simulation_local_url": {
+    "message": "Echte simulatie vereist een webpagina in http(s). Het werkt niet op lokale bestanden."
+  },
+  "real_simulation_local_server": {
+    "message": "Deze site draait op een lokale server: bij het starten wordt u gevraagd deze via een tunnel (cloudflared, ngrok…) op internet te zetten."
+  },
+  "real_simulation_device_unavailable": {
+    "message": "Dit apparaat is niet beschikbaar voor echte simulatie."
+  },
+  "real_simulation_device_unavailable_link": {
+    "message": "Bekijk compatibele apparaten"
+  },
+  "real_simulation_pro_only": {
+    "message": "Simulatie op een echt apparaat is voorbehouden aan onze betaalde plannen."
+  },
+  "real_simulation_usage": {
+    "message": "Gebruik"
+  },
+  "real_simulation_usage_detail": {
+    "message": "U heeft $1 minuten verbruikt van de $2 minuten van het $3 plan"
+  },
+  "real_simulation_more_minutes": {
+    "message": "Meer minuten nodig?"
+  },
+  "real_simulation_usage_error": {
+    "message": "Kan uw verbruik niet ophalen."
+  },
+  "real_simulation_modale_kicker": {
+    "message": "LIVE DEVICE"
+  },
+  "real_simulation_modale_live": {
+    "message": "Live"
+  },
+  "real_simulation_modale_h1": {
+    "message": "Ontwerp op de simulator, rond af onder echte omstandigheden"
+  },
+  "real_simulation_modale_h2": {
+    "message": "De simulator blijft het ideale hulpmiddel om snel te ontwerpen en itereren op alle schermformaten.<br>Bij het valideren kan Live device het overnemen met een iOS- of Android-apparaat dat in de cloud wordt gehost en rechtstreeks vanuit uw tabblad wordt aangestuurd."
+  },
+  "real_simulation_modale_feature_os_title": {
+    "message": "De echte render-engine."
+  },
+  "real_simulation_modale_feature_os": {
+    "message": "Natuurlijke Safari WebKit en Chrome Android, om elk weergaveprobleem te identificeren."
+  },
+  "real_simulation_modale_feature_gestures_title": {
+    "message": "Alle functies van een echt mobiel OS"
+  },
+  "real_simulation_modale_feature_gestures": {
+    "message": "Natuurlijke formuliervelden, systeemtoetsenbord en aangepaste GPS-locatie."
+  },
+  "real_simulation_modale_feature_devices_title": {
+    "message": "$1 apparaten klaar in enkele seconden."
+  },
+  "real_simulation_modale_feature_devices": {
+    "message": "Van de nieuwste iPhones tot de meest voorkomende Androids."
+  },
+  "real_simulation_modale_devices_list": {
+    "message": "Bekijk de lijst"
+  },
+  "real_simulation_devices_modale_title": {
+    "message": "Compatibele apparaten"
+  },
+  "real_simulation_devices_modale_baseline": {
+    "message": "$1 apparaten van de simulator kunnen worden gestart in echte simulatie. De andere blijven beschikbaar in lokale simulatie."
+  },
+  "real_simulation_modale_quota": {
+    "message": "<strong>$1 minuten</strong> / maand inbegrepen in uw plan <strong>$2</strong>"
+  },
+  "real_simulation_modale_other_plans": {
+    "message": "Bekijk de andere plannen"
+  },
+  "real_simulation_modale_benefit_minutes": {
+    "message": "10 minuten Live Device / maand"
+  },
+  "real_simulation_modale_benefit_minutes_rest": {
+    "message": "inbegrepen vanaf Starter"
+  },
+  "real_simulation_modale_login_question": {
+    "message": "Al geabonneerd?"
+  },
+  "real_simulation_modale_login_link": {
+    "message": "Inloggen"
+  },
+  "real_simulation_modale_benefit_pro": {
+    "message": "+ alle PRO-functies"
+  },
+  "real_simulation_modale_benefit_pro_rest": {
+    "message": "(apparaten, instellingen,..)"
+  },
+  "real_simulation_modale_see_plans": {
+    "message": "Bekijk de plannen"
+  },
+  "real_simulation_modale_from": {
+    "message": "vanaf"
+  },
+  "real_simulation_modale_per_month": {
+    "message": "/ maand"
+  },
+  "real_simulation_continue_tests": {
+    "message": "Ga door met uw tests"
+  },
+  "real_simulation_trial_title": {
+    "message": "Niet inbegrepen tijdens de proefperiode"
+  },
+  "real_simulation_trial_note": {
+    "message": "Simulatie op een echt apparaat is niet beschikbaar tijdens de proefperiode. Uw minuten zijn beschikbaar vanaf het begin van uw abonnement."
+  },
+  "real_simulation_legacy_plan_title": {
+    "message": "Schakel over naar de nieuwe plannen"
+  },
+  "real_simulation_legacy_plan_note": {
+    "message": "Uw oude betaalde plan bevat geen simulatie op een echt apparaat. Om van deze functie te profiteren, schakelt u over naar een van onze nieuwe plannen."
+  },
+  "real_simulation_legacy_plan_upgrade": {
+    "message": "Mijn abonnement upgraden"
+  },
+  "real_simulation_quota_consumed": {
+    "message": "U heeft de beschikbare $1 minuten verbruikt"
+  },
+  "real_simulation_quota_reset": {
+    "message": "Herstel van gebruikslimieten op <strong>$1</strong>"
+  },
+  "real_simulation_upgrade_plan": {
+    "message": "$1 · $2 min/maand"
+  },
+  "real_simulation_upgrade_per_month": {
+    "message": " /maand"
+  },
+  "real_simulation_upgrade_renew": {
+    "message": "Minuten worden elke maand vernieuwd"
+  },
+  "real_simulation_upgrade_extra": {
+    "message": "$1 per minuut in plaats van $2"
+  },
+  "real_simulation_upgrade_cta": {
+    "message": "Upgrade naar een hoger plan"
+  },
+  "real_simulation_contact_us": {
+    "message": "Neem contact met ons op"
+  },
+  "real_simulation_contact": {
+    "message": "Contact"
+  },
+  "real_simulation_contact_team_admin": {
+    "message": "Neem contact op met de beheerder van uw team voor meer minuten."
+  },
+  "real_simulation_location_change": {
+    "message": "Wijzig GPS-locatie"
+  },
+  "real_simulation_location_title": {
+    "message": "GPS-locatie"
+  },
+  "real_simulation_location_search": {
+    "message": "Adres, stad of coördinaten"
+  },
+  "real_simulation_location_results": {
+    "message": "Resultaten"
+  },
+  "real_simulation_location_coordinates": {
+    "message": "Ga naar coördinaten"
+  },
+  "real_simulation_location_no_result": {
+    "message": "Geen locatie gevonden."
+  },
+  "real_simulation_location_search_error": {
+    "message": "Zoeken is momenteel niet beschikbaar. U kunt de pin op de kaart plaatsen."
+  },
+  "real_simulation_location_selected": {
+    "message": "Geselecteerd punt"
+  },
+  "real_simulation_location_custom": {
+    "message": "Aangepaste locatie"
+  },
+  "real_simulation_location_latitude": {
+    "message": "Lat."
+  },
+  "real_simulation_location_longitude": {
+    "message": "Long."
+  },
+  "real_simulation_location_recents": {
+    "message": "Recent"
+  },
+  "real_simulation_location_zoom_in": {
+    "message": "Inzoomen"
+  },
+  "real_simulation_location_zoom_out": {
+    "message": "Uitzoomen"
+  },
+  "real_simulation_location_recenter": {
+    "message": "Hercentreren op punt"
+  },
+  "real_simulation_location_hint": {
+    "message": "Klik of sleep de pin"
+  },
+  "real_simulation_location_cancel": {
+    "message": "Annuleren"
+  },
+  "real_simulation_location_apply": {
+    "message": "Locatie toepassen"
+  },
+  "real_simulation_or": {
+    "message": "of"
+  },
+  "real_simulation_buy_minutes_title": {
+    "message": "Koop $1 min"
+  },
+  "real_simulation_buy_minutes_validity": {
+    "message": "Zonder abonnement, geldig $1 maanden"
+  },
+  "real_simulation_buy_minutes_unit": {
+    "message": "$1 per minuut"
+  },
+  "real_simulation_buy_minutes_card": {
+    "message": "Opgeslagen kaart: $1"
+  },
+  "real_simulation_buy_minutes_subtotal": {
+    "message": "Subtotaal (excl. btw)"
+  },
+  "real_simulation_buy_minutes_tax": {
+    "message": "Btw ($1)"
+  },
+  "real_simulation_buy_minutes_total": {
+    "message": "Totaal (incl. btw)"
+  },
+  "real_simulation_buy_minutes_pay": {
+    "message": "Betaal $1"
+  },
+  "real_simulation_buy_minutes_secure": {
+    "message": "Uw bank kan u vragen de betaling in een nieuw tabblad te bevestigen."
+  },
+  "real_simulation_buy_minutes_cancel": {
+    "message": "Annuleren"
+  },
+  "real_simulation_buy_minutes_retry": {
+    "message": "Opnieuw proberen"
+  },
+  "real_simulation_buy_minutes_success": {
+    "message": "$1 minuten zijn aan uw account toegevoegd."
+  },
+  "real_simulation_buy_minutes_no_card": {
+    "message": "Er is geen creditcard aan uw account gekoppeld."
+  },
+  "real_simulation_buy_minutes_add_card": {
+    "message": "Voeg een kaart toe"
+  },
+  "real_simulation_buy_minutes_not_eligible": {
+    "message": "Het kopen van minuten is alleen beschikbaar voor actieve abonnementen."
+  },
+  "real_simulation_buy_minutes_in_progress": {
+    "message": "Er is al een betaling in behandeling. Voltooi deze of wacht enkele minuten."
+  },
+  "real_simulation_buy_minutes_processing": {
+    "message": "Uw betaling wordt verwerkt: de minuten worden toegevoegd zodra deze is bevestigd."
+  },
+  "real_simulation_buy_minutes_canceled": {
+    "message": "Betaling geannuleerd. Er is geen bedrag afgeschreven."
+  },
+  "real_simulation_buy_minutes_declined": {
+    "message": "De betaling is door uw bank geweigerd. Er is geen bedrag afgeschreven."
+  },
+  "real_simulation_buy_minutes_auth_failed": {
+    "message": "De betalingsverificatie is mislukt. Er is geen bedrag afgeschreven."
+  },
+  "real_simulation_buy_minutes_error": {
+    "message": "De betaling kon niet worden uitgevoerd. Probeer het over een moment opnieuw."
+  },
+  "real_simulation_buy_minutes_close": {
+    "message": "Sluiten"
+  },
+  "real_simulation_buy_minutes_invoice": {
+    "message": "Bekijk de factuur"
+  },
+  "real_simulation_buy_minutes_invoice_notice": {
+    "message": "Voor elke aankoop wordt een factuur uitgegeven."
+  },
+  "real_simulation_buy_minutes_team_member": {
+    "message": "De minuten van uw account worden beheerd door de beheerder. Neem contact met hem op om ze op te laden:"
+  },
+  "real_simulation_buy_minutes_team_member_no_email": {
+    "message": "De minuten van uw account worden beheerd door de beheerder. Neem contact met hem op om ze op te laden."
+  },
+  "real_simulation_buy_minutes_currency_unavailable": {
+    "message": "Het kopen van minuten is niet beschikbaar in de valuta van uw account. Neem contact met ons op."
+  },
+  "menu_faq_detect_simulator": {
+    "message": "Hoe detecteer ik dat mijn site in de simulator wordt weergegeven?"
+  },
+  "shortcut_real_simulation": {
+    "message": "Simulatie starten / stoppen op een echt apparaat"
+  },
+  "real_simulation_language": {
+    "message": "Taal"
+  },
+  "real_simulation_location_resolving": {
+    "message": "Locatie identificeren…"
+  },
+  "real_simulation_buy_minutes_change_card": {
+    "message": "Wijzigen"
+  },
+  "real_simulation_buy_minutes_update_card": {
+    "message": "Mijn betaalkaart wijzigen"
+  },
+  "real_simulation_device_compatible": {
+    "message": "Compatibel Live Device"
+  },
+  "real_simulation_past_due_title": {
+    "message": "Betaling in behandeling"
+  },
+  "real_simulation_past_due_note": {
+    "message": "De laatste betaling van uw abonnement is mislukt. Werk uw betaalmethode bij om uw simulatieminuten op een echt apparaat terug te krijgen."
+  },
+  "real_simulation_past_due_team_note": {
+    "message": "De laatste betaling van het abonnement van uw team is mislukt. Uw simulatieminuten op een echt apparaat worden hersteld zodra de beheerder het heeft geregeld."
+  },
+  "real_simulation_past_due_button": {
+    "message": "Betaling bijwerken"
+  }
+}

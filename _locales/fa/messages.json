@@ -1,0 +1,1406 @@
+{
+  "extName": {
+    "message": "شبیه‌ساز تلفن همراه - تست سایت واکنش‌گرا"
+  },
+  "extDescription": {
+    "message": "شبیه‌ساز تلفن — افزونه رایگان Chrome برای آزمایش و پیش‌نمایش سایت‌های شما بر روی بیش از ۸۰ دستگاه"
+  },
+  "global": {
+    "message": "--------------------------------------------------------"
+  },
+  "android_smartphone": {
+    "message": "<i class='mdi'>&#xe922;</i> تلفن‌های اندروید"
+  },
+  "apple_smartphone": {
+    "message": "<i class='mdi'>&#xeabe;</i> تلفن‌های اپل"
+  },
+  "tablet": {
+    "message": "<i class='mdi'>&#xe920;</i> تبلت‌ها"
+  },
+  "others": {
+    "message": "<i class='mdi'>&#xe921;</i> ویژه‌ها"
+  },
+  "copied": {
+    "message": "کپی شد"
+  },
+  "error": {
+    "message": "خطا"
+  },
+  "link": {
+    "message": "لینک"
+  },
+  "optional": {
+    "message": "اختیاری"
+  },
+  "close": {
+    "message": "بستن"
+  },
+  "get_pro": {
+    "message": "نسخه PRO را دریافت کنید"
+  },
+  "error_contact": {
+    "message": "{اگر مشکل ادامه داشت با ما تماس بگیرید}."
+  },
+  "more_settings": {
+    "message": "تنظیمات بیشتر"
+  },
+  "dimensions": {
+    "message": "ابعاد"
+  },
+  "context_menu": {
+    "message": "--------------------------------------------------------"
+  },
+  "context_menu_activate": {
+    "message": "نمای موبایل را در این تب فعال کنید"
+  },
+  "popup": {
+    "message": "--------------------------------------------------------"
+  },
+  "popup_site_incompatible": {
+    "message": "شبیه‌ساز در این صفحه بومی مرورگر شما فعال نمی‌شود. روی تب دیگری امتحان کنید یا به سایتی بروید و دوباره اجرا کنید."
+  },
+  "popup_activate_local_files_info": {
+    "message": "این شبیه‌ساز به‌طور پیش‌فرض روی فایل‌های محلی (file:///) فعال نمی‌شود اما می‌توانید این گزینه را به‌صورت دستی در تنظیمات Chrome فعال کنید."
+  },
+  "popup_activate_local_files_button": {
+    "message": "گزینه را فعال کنید"
+  },
+  "menu": {
+    "message": "--------------------------------------------------------"
+  },
+  "menu_close_alone": {
+    "message": "شبیه‌ساز را غیرفعال کنید"
+  },
+  "menu_change_device": {
+    "message": "تغییر دستگاه یا مقایسه"
+  },
+  "menu_contact_devices": {
+    "message": "<i class='mdi'>&#xe900;</i> دستگاهی که به دنبال آن هستید در لیست نیست؟ به ما بگویید!"
+  },
+  "menu_info_device": {
+    "message": "ویژگی‌ها و مدل این دستگاه"
+  },
+  "menu_info_device_features": {
+    "message": "ویژگی‌ها (وضوح viewport و غیره)"
+  },
+  "menu_info_device_mockup": {
+    "message": "ماکاپ رایگان در PNG شفاف"
+  },
+  "menu_rotate": {
+    "message": "جهت را تغییر دهید"
+  },
+  "menu_zoom": {
+    "message": "در دستگاه زوم کنید"
+  },
+  "menu_screenshot": {
+    "message": "گرفتن اسکرین‌شات"
+  },
+  "menu_screencast": {
+    "message": "ضبط ویدئوی صفحه"
+  },
+  "menu_share": {
+    "message": "به یک همکار، دوست،... به اشتراک بگذارید"
+  },
+  "menu_send_improvement": {
+    "message": "پیشنهاد بهبود"
+  },
+  "menu_send_message": {
+    "message": "مرکز کمک"
+  },
+  "menu_faq_title": {
+    "message": "سوالات متداول"
+  },
+  "menu_faq_media_queries": {
+    "message": "مدیا کوئری‌های من در نظر گرفته نمی‌شوند"
+  },
+  "menu_faq_ignonito_mode": {
+    "message": "چگونه شبیه‌ساز را در حالت ناشناس فعال کنم؟"
+  },
+  "menu_faq_scroll": {
+    "message": "امکان اسکرول در شبیه‌ساز وجود ندارد"
+  },
+  "menu_faq_subscription": {
+    "message": "چرا اشتراک من کار نمی‌کند؟"
+  },
+  "menu_faq_shortcut": {
+    "message": "چگونه میانبرهای صفحه‌کلید را تنظیم کنم؟"
+  },
+  "menu_faq_all": {
+    "message": "مشاهده تمام سوالات متداول"
+  },
+  "menu_report": {
+    "message": "گزارش یک باگ"
+  },
+  "menu_settings": {
+    "message": "پیکربندی"
+  },
+  "menu_extensions": {
+    "message": "دیگر افزونه‌های Chrome ما را کشف کنید"
+  },
+  "menu_vote_feature": {
+    "message": "برای ویژگی‌هایی که می‌خواهید رأی دهید"
+  },
+  "simulator": {
+    "message": "--------------------------------------------------------"
+  },
+  "simulator_header_info": {
+    "message": "این فقط یک تصویر است. برای تغییر URL از فیلد Chrome در بالا استفاده کنید."
+  },
+  "simulator_footer_info": {
+    "message": "این فقط یک تصویر است. از صفحه‌کلید خود استفاده کنید."
+  },
+  "screencast": {
+    "message": "--------------------------------------------------------"
+  },
+  "screencast_tooltip_device": {
+    "message": "فقط ضبط ویدئو از دستگاه"
+  },
+  "screencast_tooltip_tab": {
+    "message": "ضبط ویدئو از زبانه با دستگاه"
+  },
+  "screencast_error": {
+    "message": "هنگام ضبط خطایی رخ داد. {برای راه‌حل جایگزین اینجا کلیک کنید}."
+  },
+  "screencast_modale_title": {
+    "message": "ضبط ویدئو"
+  },
+  "screencast_modale_texte": {
+    "message": "می‌توانید این ویدئو را در فرمت‌های مختلف دانلود کنید یا لینک اشتراک دریافت کنید."
+  },
+  "screencast_modale_download_webm": {
+    "message": "دانلود به فرمت پیش‌فرض WEBM (با شفافیت در صورت فعال بودن گزینه)"
+  },
+  "screencast_modale_download_mp4": {
+    "message": "سازگاری بهتر با PowerPoint، اما بدون شفافیت"
+  },
+  "screencast_modale_download_gif": {
+    "message": "سازگار با همه جا، اما کیفیت پایین‌تر (با شفافیت در صورت فعال بودن گزینه)"
+  },
+  "screencast_modale_gif_duration_limit_info": {
+    "message": "حداکثر مدت زمان یک GIF 60 ثانیه است. بیشتر از آن فایل بسیار حجیم خواهد بود."
+  },
+  "screencast_modale_copy": {
+    "message": "کپی"
+  },
+  "screencast_modale_upload": {
+    "message": "دریافت لینک اشتراک"
+  },
+  "screencast_modale_contact": {
+    "message": "گزارش یک باگ، پیشنهاد بهبود"
+  },
+  "screencast_start_recording": {
+    "message": "شروع ضبط"
+  },
+  "screencast_microphone_permission_denied": {
+    "message": "دسترسی به میکروفون رد شد."
+  },
+  "screencast_camera_permission_denied": {
+    "message": "دسترسی به دوربین رد شد."
+  },
+  "screencast_error_media_stream_track_processor_or_generator": {
+    "message": "نسخه Chrome شما برای این ویژگی خیلی قدیمی است. لطفاً Chrome را به نسخه بالاتر از 94.0 به‌روزرسانی کنید."
+  },
+  "screencast_quality_info_tooltip": {
+    "message": "کیفیت ویدئو بر بیت‌ریت، fps و وضوح ضبط تأثیر می‌گذارد. هرچه کیفیت بالاتر باشد، فایل حجیم‌تر خواهد بود."
+  },
+  "screencast_modale_auto_stop_limit_reached": {
+    "message": "ضبط‌های ویدئویی در نسخه رایگان به 5 دقیقه محدود شده‌اند."
+  },
+  "screenshot": {
+    "message": "--------------------------------------------------------"
+  },
+  "screenshot_menu_1": {
+    "message": "گرفتن عکس با دستگاه"
+  },
+  "screenshot_menu_2": {
+    "message": "گرفتن فقط از سایت"
+  },
+  "screenshot_menu_3": {
+    "message": "گرفتن از کل صفحه"
+  },
+  "screenshot_menu_4": {
+    "message": "گرفتن از کل تب"
+  },
+  "screenshot_button": {
+    "message": "تولید اسکرین‌شات"
+  },
+  "screenshot_modale_download_png": {
+    "message": "دانلود به فرمت PNG (بدون فشرده‌سازی)"
+  },
+  "screenshot_modale_download_webp": {
+    "message": "دانلود به فرمت WEBP، تقریباً همه جا سازگار و فشرده‌سازی بهینه (توصیه‌شده)"
+  },
+  "screenshot_menu_stop_fullpage": {
+    "message": "قبل از پایان صفحه متوقف کنید"
+  },
+  "screenshot_modale_title": {
+    "message": "عکس صفحه"
+  },
+  "screenshot_modale_copy": {
+    "message": "کپی تصویر در کلیپ‌بورد"
+  },
+  "screenshot_modale_edit": {
+    "message": "ویرایش اسکرین‌شات"
+  },
+  "screenshot_modale_help": {
+    "message": "برای ذخیره تصویر در فرمت بزرگ، کافی است روی آن راست‌کلیک کنید و \"کپی تصویر\" یا \"ذخیره\" را انتخاب کنید."
+  },
+  "screenshot_editor_close": {
+    "message": "بستن ویرایشگر"
+  },
+  "screenshot_editor_undo": {
+    "message": "لغو آخرین عمل"
+  },
+  "screenshot_editor_rect": {
+    "message": "رسم مستطیل"
+  },
+  "screenshot_editor_ellipse": {
+    "message": "رسم دایره"
+  },
+  "screenshot_editor_line": {
+    "message": "رسم خط"
+  },
+  "screenshot_editor_arrow": {
+    "message": "رسم فلش"
+  },
+  "screenshot_editor_pen": {
+    "message": "رسم آزاد"
+  },
+  "screenshot_editor_color": {
+    "message": "رنگ خط"
+  },
+  "screenshot_editor_stroke_width": {
+    "message": "ضخامت خط"
+  },
+  "pro": {
+    "message": "--------------------------------------------------------"
+  },
+  "pro_modale_h1": {
+    "message": "PRO شوید"
+  },
+  "pro_modale_h1_all_formats": {
+    "message": "ویدئوهای ضبط‌شده خود را به فرمت‌های GIF و MP4 تبدیل کنید"
+  },
+  "pro_modale_h1_devices": {
+    "message": "همه دستگاه‌ها را شبیه‌سازی کنید"
+  },
+  "pro_modale_h1_settings": {
+    "message": "همه تنظیمات را باز کنید"
+  },
+  "pro_modale_h1_screencast": {
+    "message": "همه تنظیمات ضبط ویدئو را باز کنید"
+  },
+  "pro_modale_h1_ads": {
+    "message": "تبلیغات را حذف کنید"
+  },
+  "pro_modale_h1_image_editor": {
+    "message": "تصاویر خود را ویرایش کنید"
+  },
+  "pro_modale_h1_unlimited_screenshots": {
+    "message": "بدون محدودیت اسکرین‌شات بگیرید"
+  },
+  "pro_modale_h2": {
+    "message": "PRO شوید و با حمایت از توسعه‌دهنده این افزونه به توسعه فعال آن کمک کنید."
+  },
+  "pro_modale_billed_annualy": {
+    "message": "سالانه صورتحساب می‌شود"
+  },
+  "pro_modale_savings": {
+    "message": "صرفه‌جویی"
+  },
+  "pro_modale_from": {
+    "message": "از"
+  },
+  "pro_modale_recurring_month": {
+    "message": "ماه"
+  },
+  "pro_modale_button": {
+    "message": "اشتراک می‌گیرم"
+  },
+  "pro_modale_link_1": {
+    "message": "یا"
+  },
+  "pro_modale_link_2": {
+    "message": "وارد می‌شوم"
+  },
+  "pro_modale_link_3": {
+    "message": "به حساب کاربری خود"
+  },
+  "pro_modale_avantage_1": {
+    "message": "همه تنظیمات ویدئو"
+  },
+  "pro_modale_avantage_2": {
+    "message": "مقایسه چند دستگاهی"
+  },
+  "sharing": {
+    "message": "--------------------------------------------------------"
+  },
+  "sharing_h1": {
+    "message": "آیا این شبیه‌ساز موبایل برای شما مفید است؟"
+  },
+  "sharing_h2": {
+    "message": "پس آن را با همکاران یا دوستان خود به اشتراک بگذارید"
+  },
+  "sharing_txt": {
+    "message": "شبیه‌ساز برای تست سایت روی موبایل و تبلت"
+  },
+  "sharing_review_1": {
+    "message": "و اگر یک دقیقه وقت دارید برای"
+  },
+  "sharing_review_2": {
+    "message": "افزودن نظر"
+  },
+  "sharing_review_3": {
+    "message": "پس این گیلاس روی کیک است! 🙂"
+  },
+  "sharing_review_button": {
+    "message": "نظر اضافه می‌کنم"
+  },
+  "other_extensions": {
+    "message": "--------------------------------------------------------"
+  },
+  "other_extensions_h1": {
+    "message": "جدیدترین افزونه‌های رایگان ما را کشف کنید"
+  },
+  "other_extensions_color_picker_title": {
+    "message": "انتخابگر رنگ"
+  },
+  "other_extensions_color_picker_description": {
+    "message": "این افزونه به شما امکان می‌دهد هر رنگی را روی صفحه بگیرید."
+  },
+  "other_extensions_font_finder_title": {
+    "message": "یابنده فونت"
+  },
+  "other_extensions_font_finder_description": {
+    "message": "با یک کلیک فونت استفاده‌شده روی هر متنی در یک صفحه وب را شناسایی کنید."
+  },
+  "other_extensions_button": {
+    "message": "نصب"
+  },
+  "review": {
+    "message": "--------------------------------------------------------"
+  },
+  "review_h1": {
+    "message": "چگونه این افزونه را ارزیابی می‌کنید؟"
+  },
+  "review_note_store": {
+    "message": "با تشکر از بازخورد شما، در صورت تمایل، لطفاً یک نظر در صفحه افزونه اضافه کنید. من بسیار سپاسگزار خواهم بود 😊"
+  },
+  "review_note_feedback": {
+    "message": "از بازخورد شما متشکریم، لطفاً در صورت تمایل پیامی برای ما ارسال کنید تا بتوانیم این افزونه را بهبود دهیم."
+  },
+  "button_feedback": {
+    "message": "نظر اضافه کنید"
+  },
+  "button_message": {
+    "message": "پیامی برای ما ارسال کنید"
+  },
+  "contact": {
+    "message": "--------------------------------------------------------"
+  },
+  "contact_message_field_name": {
+    "message": "نام دستگاه"
+  },
+  "contact_message_field_placeholder": {
+    "message": "Samsung Galaxy S24 Ultra, iPhone 17 Pro Max, etc."
+  },
+  "contact_title": {
+    "message": "دستگاهی که به دنبال آن هستید در لیست نیست؟ به ما بگویید!"
+  },
+  "settings": {
+    "message": "--------------------------------------------------------"
+  },
+  "settings_h2_device": {
+    "message": "دستگاه"
+  },
+  "settings_h2_global": {
+    "message": "عمومی"
+  },
+  "settings_hide_header_footer": {
+    "message": "رابط کاربری مرورگر دستگاه را مخفی کنید (نوار آدرس و غیره)"
+  },
+  "settings_hide_keyboard": {
+    "message": "شبیه‌سازی ظاهر شدن صفحه‌کلید هنگام تایپ"
+  },
+  "settings_scrollbar_show": {
+    "message": "نمایش نوار پیمایش بومی در دستگاه"
+  },
+  "settings_change_cursor": {
+    "message": "پیمایش لمسی و نمایش نشانگر موبایل"
+  },
+  "settings_change_background": {
+    "message": "رنگ پس‌زمینه را تغییر دهید"
+  },
+  "settings_default_device": {
+    "message": "دستگاه پیش‌فرض در هر فعال‌سازی"
+  },
+  "settings_change_analytics": {
+    "message": "با به اشتراک‌گذاری داده‌های استفاده ۱۰۰٪ ناشناس و غیرشخصی، به توسعه‌دهنده در بهبود افزونه کمک کنید."
+  },
+  "settings_device_hide": {
+    "message": "نمایش قاب دستگاه"
+  },
+  "settings_batterie_level": {
+    "message": "سطح باتری در هدر دستگاه (%)"
+  },
+  "settings_device_default_url": {
+    "message": "تغییر URL نمایش داده شده در دستگاه"
+  },
+  "settings_presenter_mode": {
+    "message": "حالت ارائه (منوی سمت راست فقط در هنگام حرکت ماوس قابل مشاهده است)"
+  },
+  "settings_fullscreen": {
+    "message": "سایت به صورت تمام صفحه در دستگاه"
+  },
+  "settings_default_device_placeholder": {
+    "message": "انتخاب یک دستگاه"
+  },
+  "settings_video_quality": {
+    "message": "کیفیت ویدئو"
+  },
+  "settings_video_quality_low": {
+    "message": "متوسط"
+  },
+  "settings_video_quality_medium": {
+    "message": "خوب"
+  },
+  "settings_video_quality_high": {
+    "message": "عالی"
+  },
+  "settings_theme": {
+    "message": "تم"
+  },
+  "settings_theme_light": {
+    "message": "روشن"
+  },
+  "settings_theme_dark": {
+    "message": "تیره"
+  },
+  "settings_theme_auto": {
+    "message": "خودکار"
+  },
+  "settings_shortcuts": {
+    "message": "میانبرهای صفحه‌کلید را تعریف کنید"
+  },
+  "settings_pro_account": {
+    "message": "اشتراک من را مدیریت کنید"
+  },
+  "settings_microphone": {
+    "message": "میکروفون"
+  },
+  "settings_camera": {
+    "message": "دوربین"
+  },
+  "settings_countdown": {
+    "message": "شمارش معکوس (ثانیه)"
+  },
+  "settings_transparent_background": {
+    "message": "پس‌زمینه شفاف"
+  },
+  "settings_transparent_background_info": {
+    "message": "این گزینه محاسبات بیشتری را در بر دارد و بنابراین ممکن است نمایش را بر اساس کامپیوتر شما کند کند (فقط با فرمت‌های WEBM و GIF سازگار است)"
+  },
+  "screenshot_workaround": {
+    "message": "--------------------------------------------------------"
+  },
+  "screenshot_workaround_title": {
+    "message": "راه‌حل جایگزین برای اسکرین‌شات"
+  },
+  "screenshot_workaround_context": {
+    "message": "زمینه"
+  },
+  "screenshot_workaround_context_text": {
+    "message": "به دلیل برخی محدودیت‌های فنی، ممکن است هنگام گرفتن اسکرین‌شات این پیام خطا را دریافت کنید."
+  },
+  "screenshot_workaround_solution": {
+    "message": "راه‌حل جایگزین"
+  },
+  "screenshot_workaround_solution_text": {
+    "message": "در این صورت برای شروع گرفتن، کافی است روی صفحه راست‌کلیک کنید، ورودی «شبیه‌ساز موبایل» را انتخاب کنید، سپس «📷 گرفتن اسکرین‌شات»"
+  },
+  "feedback": {
+    "message": "--------------------------------------------------------"
+  },
+  "feedback_title": {
+    "message": "به ما کمک کنید تا Mobile FIRST را برای شما مفیدتر کنیم 🚀"
+  },
+  "feedback_profession": {
+    "message": "بخش حرفه‌ای شما چیست؟"
+  },
+  "feedback_profession_developer": {
+    "message": "توسعه"
+  },
+  "feedback_profession_designer": {
+    "message": "طراحی"
+  },
+  "feedback_profession_qa": {
+    "message": "تست / QA"
+  },
+  "feedback_profession_product": {
+    "message": "مدیریت محصول"
+  },
+  "feedback_profession_marketing": {
+    "message": "بازاریابی"
+  },
+  "feedback_profession_sales": {
+    "message": "فروش"
+  },
+  "feedback_profession_other": {
+    "message": "دیگر"
+  },
+  "feedback_company_type": {
+    "message": "نوع شرکت شما چیست؟"
+  },
+  "feedback_company_type_freelance": {
+    "message": "فریلنسر"
+  },
+  "feedback_company_type_micro_business": {
+    "message": "کسب و کار کوچک (1-9 کارمند)"
+  },
+  "feedback_company_type_agency": {
+    "message": "شرکت کوچک (10-49 کارمند)"
+  },
+  "feedback_company_type_startup": {
+    "message": "شرکت متوسط (50-249 کارمند)"
+  },
+  "feedback_company_type_pme": {
+    "message": "شرکت بزرگ (250-4999 کارمند)"
+  },
+  "feedback_company_type_grandeentreprise": {
+    "message": "شرکت بسیار بزرگ / گروه (5000+ کارمند)"
+  },
+  "feedback_use_cases": {
+    "message": "چرا از Mobile FIRST استفاده می‌کنید؟"
+  },
+  "feedback_useCases_placeholder": {
+    "message": "تست سایت من، انجام دموهای مشتری..."
+  },
+  "feedback_frequency": {
+    "message": "چند وقت یکبار از این افزونه استفاده می‌کنید؟"
+  },
+  "feedback_frequency_quotidien": {
+    "message": "روزانه"
+  },
+  "feedback_frequency_plusieursfoisparsemaine": {
+    "message": "چند بار در هفته"
+  },
+  "feedback_frequency_occasionnel": {
+    "message": "گاه‌به‌گاه"
+  },
+  "feedback_frequency_rare": {
+    "message": "نادر"
+  },
+  "feedback_improvements": {
+    "message": "چه بهبودهایی را دوست دارید ببینید؟"
+  },
+  "feedback_improvements_placeholder": {
+    "message": "یک ایده، یک مشکل، یک کمبود..."
+  },
+  "feedback_submit": {
+    "message": "ارسال"
+  },
+  "feedback_close": {
+    "message": "پاسخ ندهید"
+  },
+  "feedback_error_required": {
+    "message": "همه فیلدها خالی هستند 🤔"
+  },
+  "feedback_submitted": {
+    "message": "بسیار متشکریم برای بازخورد شما 🤗"
+  },
+  "select": {
+    "message": "انتخاب کنید..."
+  },
+  "modales": {
+    "message": "--------------------------------------------------------"
+  },
+  "new_video_feature_h1": {
+    "message": "اکنون ویژگی جدید ضبط ویدئو را کشف کنید!"
+  },
+  "new_video_feature_h2": {
+    "message": "با کیفیت بهتر، گزینه‌های جدید و با پس‌زمینه شفاف ضبط کنید"
+  },
+  "logout_modale_title": {
+    "message": "شما به طور خودکار از این دستگاه خارج شده‌اید"
+  },
+  "logout_modale_message": {
+    "message": "این دستگاه دیگر جزو دستگاه‌های مجاز شما نیست. اگر این دسترسی را به صورت دستی حذف کرده‌اید، نیاز به ورود مجدد است."
+  },
+  "notifications": {
+    "message": "--------------------------------------------------------"
+  },
+  "notification_update_title_vwelcome": {
+    "message": "<strong class='mb-2 is-block'>به Mobile FIRST خوش آمدید 👋</strong>تلفن‌ها، تبلت‌ها و کامپیوترها را با یک کلیک شبیه‌سازی کنید تا سایت‌های خود را به سادگی تست و مشاهده کنید.<br><br><strong>منو در سمت راست قرار دارد ➡️</strong>"
+  },
+  "notification_update_title_v4_14_5": {
+    "message": "<strong class='mb-2 is-block'>به‌روزرسانی v4.14.5</strong>افزایش قابل توجه <strong>وضوح و کیفیت</strong> اسکرین‌شات‌ها <i class='mdi'>&#xe903;</i>"
+  },
+  "logout_modale_button": {
+    "message": "ورود"
+  },
+  "logout_modale_message_2": {
+    "message": "ℹ️ می‌خواهید اشتراک خود را به اشتراک بگذارید؟ برای مجاز کردن افراد دیگر، آن‌ها را به سادگی از بخش \"کاربران\" حساب خود اضافه کنید."
+  },
+  "logout_modale_message2": {
+    "message": "به دلایل امنیتی، شما به طور خودکار از حساب خود خارج شده‌اید. اما می‌توانید با کلیک بر روی دکمه زیر دوباره وارد شوید."
+  },
+  "notification_update_title_v4_15_0": {
+    "message": "<strong class='mb-2 is-block'>به‌روزرسانی v4.15.0</strong>فعال‌سازی <strong>پیمایش لمسی</strong> برای گوشی‌های هوشمند و تبلت‌ها <i class='mdi'>&#xe905;</i>"
+  },
+  "menu_add_window": {
+    "message": "افزودن پنجره"
+  },
+  "settings_sync_events": {
+    "message": "همگام‌سازی رویدادها بین پنجره‌ها (کلیک، پیمایش، و غیره)"
+  },
+  "pro_modale_h1_multi_devices": {
+    "message": "بیش از دو دستگاه را به طور همزمان مقایسه کنید"
+  },
+  "notification_update_title_v4_15_2": {
+    "message": "<strong class='mb-2 is-block'>به‌روزرسانی v4.15.0</strong>فعال‌سازی <strong>اسکرول لمسی</strong> برای گوشی‌های هوشمند و تبلت‌ها."
+  },
+  "settings_pro_account_past_due": {
+    "message": "تمدید اشتراک شما ناموفق بود. لطفاً اطلاعات پرداخت خود را به‌روزرسانی کنید تا نسخه PRO را حفظ کنید."
+  },
+  "notification_update_title_v4_15_5": {
+    "message": "<strong class='mb-2 is-block'>به‌روزرسانی v4.15.5</strong><ul><li>اصلاح مشکل مربوط به عکس‌برداری از صفحه کامل در <strong>فایل‌های محلی</strong>.</li><li>اصلاح مشکل مربوط به واحدهای vh، dhv، lvh، svh در <strong>iOS&nbsp;26</strong>.</li></ul>"
+  },
+  "menu_active_devices": {
+    "message": "دستگاه‌های قابل مشاهده در زبانه"
+  },
+  "menu_favorites": {
+    "message": "<i class='mdi mdi-star favorites-icon is-size-6'></i> علاقه‌مندی‌ها"
+  },
+  "menu_enable_comparison_mode": {
+    "message": "فعال‌سازی حالت مقایسه"
+  },
+  "menu_disable_comparison_mode": {
+    "message": "غیرفعال‌سازی حالت مقایسه"
+  },
+  "menu_custom_devices": {
+    "message": "<i class='mdi'>&#xe917;</i>&nbsp;&nbsp;دستگاه‌های سفارشی من"
+  },
+  "menu_custom_devices_banner": {
+    "message": "دستگاه‌های سفارشی خود را اضافه کنید!"
+  },
+  "custom_device_title": {
+    "message": "افزودن دستگاه سفارشی"
+  },
+  "custom_device_add": {
+    "message": "افزودن دستگاه سفارشی"
+  },
+  "custom_device_name": {
+    "message": "نام دستگاه"
+  },
+  "custom_device_ua_preset": {
+    "message": "عامل کاربر"
+  },
+  "custom_device_ua_custom": {
+    "message": "عامل کاربر سفارشی"
+  },
+  "custom_device_ua": {
+    "message": "رشته عامل کاربر"
+  },
+  "custom_device_os_name": {
+    "message": "سیستم‌عامل"
+  },
+  "custom_device_os_version": {
+    "message": "نسخه سیستم‌عامل"
+  },
+  "custom_device_width": {
+    "message": "عرض ویوپورت (px)"
+  },
+  "custom_device_height": {
+    "message": "ارتفاع ویوپورت (px)"
+  },
+  "custom_device_dpr": {
+    "message": "نسبت پیکسل دستگاه"
+  },
+  "custom_device_network": {
+    "message": "شبکه"
+  },
+  "custom_device_more": {
+    "message": "تنظیمات بیشتر"
+  },
+  "custom_device_less": {
+    "message": "تنظیمات کمتر"
+  },
+  "custom_device_submit": {
+    "message": "افزودن"
+  },
+  "custom_device_error_name": {
+    "message": "نام دستگاه الزامی است."
+  },
+  "custom_device_error_ua": {
+    "message": "عامل کاربر الزامی است."
+  },
+  "custom_device_error_os": {
+    "message": "سیستم‌عامل الزامی است."
+  },
+  "custom_device_error_viewport": {
+    "message": "عرض و ارتفاع ویوپورت باید بین 10 و 4096 باشد."
+  },
+  "notification_update_title_v4_16_0": {
+    "message": "<strong class='mb-2 is-block'>Update v4.16.0</strong>افزودن امکان ایجاد دستگاه‌های سفارشی <i class='mdi'>&#xe917;</i>"
+  },
+  "new_comparison_feature_h1": {
+    "message": "همین حالا ویژگی جدید مقایسه چند دستگاه را کشف کنید!"
+  },
+  "new_comparison_feature_h2": {
+    "message": "نمایش همزمان چند دستگاه را در یک پنجره مقایسه کنید. اسکرول، کلیک‌ها، صفحه‌کلید همگام‌سازی شده."
+  },
+  "try_it": {
+    "message": "اکنون امتحان کنید"
+  },
+  "menu_close_window": {
+    "message": "بستن این پنجره"
+  },
+  "notification_update_title_v4_17_0": {
+    "message": "<strong class='mb-2 is-block'>به‌روزرسانی v4.17.0</strong>افزودن قابلیت مقایسه چندین دستگاه به‌صورت همزمان! <i class='mdi'>&#xe917;</i>"
+  },
+  "screencast_firefox_select_tab": {
+    "message": "لطفاً پنجره فعلی (و نه کل صفحه) را به اشتراک بگذارید تا ضبط به درستی قاب شود."
+  },
+  "latest_updates": {
+    "message": "آخرین به‌روزرسانی‌ها"
+  },
+  "see_more": {
+    "message": "بیشتر ببینید"
+  },
+  "see_less": {
+    "message": "کمتر ببینید"
+  },
+  "update_tag_new": {
+    "message": "جدید"
+  },
+  "update_tag_feature": {
+    "message": "ویژگی"
+  },
+  "update_tag_improvement": {
+    "message": "بهبود"
+  },
+  "update_tag_fix": {
+    "message": "اصلاح"
+  },
+  "update_4_19_0_title": {
+    "message": "۶ دستگاه جدید اندروید"
+  },
+  "update_4_19_0_description": {
+    "message": "۳ مدل از Google Pixel 10، Motorola Razr 70 Ultra، Infinix Hot 70 و Samsung Galaxy A17."
+  },
+  "update_4_17_0_title": {
+    "message": "مقایسه دستگاه‌ها"
+  },
+  "update_4_17_0_description": {
+    "message": "چندین دستگاه را به‌طور همزمان کنار هم مقایسه کنید. کلیک‌ها، اسکرول‌ها و کیبورد همگام‌سازی شده‌اند."
+  },
+  "update_4_16_0_title": {
+    "message": "دستگاه‌های سفارشی"
+  },
+  "update_4_16_0_description": {
+    "message": "اکنون می‌توانید دستگاه‌های خود را با ابعاد خاص اضافه کنید."
+  },
+  "update_4_15_5_title": {
+    "message": "اصلاحات"
+  },
+  "update_4_15_5_description": {
+    "message": "گرفتن عکس از صفحه کامل در فایل‌های محلی و اصلاح واحدهای نمایش در iOS 26 (vh، dhv، lvh، svh)."
+  },
+  "update_4_15_0_title": {
+    "message": "اسکرول لمسی"
+  },
+  "update_4_15_0_description": {
+    "message": "فعال‌سازی اسکرول لمسی در گوشی‌های هوشمند و تبلت‌ها."
+  },
+  "update_4_14_5_title": {
+    "message": "تصاویر واضح‌تر"
+  },
+  "update_4_14_5_description": {
+    "message": "بهبود قابل توجه در وضوح و کیفیت تصاویر صفحه."
+  },
+  "pro_modale_toggle_annual": {
+    "message": "سالانه"
+  },
+  "pro_modale_toggle_monthly": {
+    "message": "ماهانه"
+  },
+  "pro_modale_trial_after_days": {
+    "message": "بعد از ۷ روز آزمایش رایگان شما"
+  },
+  "pro_modale_trial_button": {
+    "message": "آزمایش رایگان ۷ روزه من را شروع کنید"
+  },
+  "pro_modale_trial_h1": {
+    "message": "نسخه PRO را به مدت ۷ روز رایگان امتحان کنید"
+  },
+  "pro_modale_trial_note": {
+    "message": "امروز هیچ پرداختی ندارید · بدون تعهد، قابل لغو در هر زمان"
+  },
+  "pro_modale_trial_then": {
+    "message": "سپس"
+  },
+  "pro_modale_trial_today": {
+    "message": "امروز"
+  },
+  "settings_pwa_auto_detect": {
+    "message": "PWAها را به‌طور خودکار شناسایی و به‌عنوان برنامه موبایل نمایش دهید."
+  },
+  "settings_title": {
+    "message": "تنظیمات"
+  },
+  "settings_nav_device": {
+    "message": "دستگاه"
+  },
+  "settings_nav_appearance": {
+    "message": "ظاهر"
+  },
+  "settings_nav_account": {
+    "message": "حساب"
+  },
+  "settings_os_display": {
+    "message": "نمایش سیستم‌عامل"
+  },
+  "settings_os_display_full_desc": {
+    "message": "نوار وضعیت سیستم‌عامل و مرورگر (نوار آدرس) را نمایش می‌دهد."
+  },
+  "settings_os_display_no_browser_desc": {
+    "message": "مرورگر را مخفی می‌کند اما نوار وضعیت سیستم‌عامل را نگه می‌دارد."
+  },
+  "settings_os_display_no_os_desc": {
+    "message": "نوار وضعیت سیستم‌عامل و مرورگر را مخفی می‌کند."
+  },
+  "settings_h2_display": {
+    "message": "نمایش کلی"
+  },
+  "settings_h2_customization": {
+    "message": "سفارشی‌سازی"
+  },
+  "settings_h2_multiwindow": {
+    "message": "حالت چند پنجره‌ای"
+  },
+  "settings_h2_pwa": {
+    "message": "PWA"
+  },
+  "settings_account_cta_title": {
+    "message": "به حساب خود دسترسی پیدا کنید"
+  },
+  "settings_account_cta_subtitle": {
+    "message": "برای باز کردن نسخه PRO ثبت‌نام کنید، یا اگر قبلاً حساب دارید وارد شوید."
+  },
+  "settings_signup_button": {
+    "message": "ثبت‌نام"
+  },
+  "settings_login_button": {
+    "message": "ورود"
+  },
+  "settings_subscribe": {
+    "message": "نسخه PRO را باز کنید"
+  },
+  "settings_subscribe_button": {
+    "message": "اشتراک"
+  },
+  "settings_pro_account_cancel_at_period_end": {
+    "message": "اشتراک شما در پایان دوره به پایان خواهد رسید"
+  },
+  "settings_pro_account_reactivate": {
+    "message": "اشتراک من را دوباره فعال کنید"
+  },
+  "settings_account_greeting": {
+    "message": "سلام $1،"
+  },
+  "simulator_framing_blocked": {
+    "message": "$1 اجازه نمی‌دهد صفحاتش درون صفحه دیگری نمایش داده شوند: سایت نمی‌تواند روی Firefox شبیه‌سازی شود."
+  },
+  "settings_device_forced_time": {
+    "message": "اجبار زمان نمایش داده شده در دستگاه"
+  },
+  "settings_device_forced_time_reset": {
+    "message": "بازگشت به زمان فعلی"
+  },
+  "device_variant_folded": {
+    "message": "تا شده"
+  },
+  "device_variant_unfolded": {
+    "message": "باز شده"
+  },
+  "update_4_21_0_title": {
+    "message": "۴ آیفون جدید"
+  },
+  "update_4_21_0_description": {
+    "message": "آیفون ۱۸ پرو، آیفون ۱۸ پرو مکس و آیفون تاشو Duo، در نسخه‌های تاشده و باز."
+  },
+  "update_4_22_0_title": {
+    "message": "Live device را کشف کنید"
+  },
+  "update_4_22_0_description": {
+    "message": "سایت خود را بر روی یک دستگاه iOS یا Android که در ابر میزبانی می‌شود و به‌طور زنده از زبانه شما کنترل می‌شود، اجرا کنید."
+  },
+  "device_mockup_blocked_title": {
+    "message": "ماکت دستگاه در دسترس نیست"
+  },
+  "device_mockup_blocked": {
+    "message": "نمای دستگاه بارگیری نشد. این ممکن است به دلیل یک مسدودکننده تبلیغات یا سیاست امنیتی شرکت شما باشد. شبیه‌ساز به طور کامل قابل استفاده است، فقط ماکت نمایش داده نمی‌شود."
+  },
+  "pro_modale_h1_real_simulation": {
+    "message": "سایت خود را بر روی یک دستگاه واقعی از طریق ابر تست کنید"
+  },
+  "settings_nav_cloud_devices": {
+    "message": "Live device"
+  },
+  "settings_display_real_simulation_info": {
+    "message": "تنظیمات سفارشی‌سازی نمایش در طول یک جلسه Live device فعال نیستند."
+  },
+  "menu_real_simulation_on": {
+    "message": "راه‌اندازی بر روی یک دستگاه واقعی"
+  },
+  "menu_real_simulation_off": {
+    "message": "بازگشت به شبیه‌سازی محلی"
+  },
+  "real_simulation_starting": {
+    "message": "اتصال به یک دستگاه واقعی…"
+  },
+  "real_simulation_remaining": {
+    "message": "$1 دقیقه باقی‌مانده در این ماه"
+  },
+  "real_simulation_quota_exceeded": {
+    "message": "شما تمام دقایق خود را بر روی دستگاه واقعی برای این ماه استفاده کرده‌اید. شبیه‌سازی محلی همچنان در دسترس است."
+  },
+  "real_simulation_login_required": {
+    "message": "برای راه‌اندازی سایت خود بر روی یک دستگاه واقعی، به حساب Mobile FIRST خود وارد شوید."
+  },
+  "real_simulation_local_title": {
+    "message": "این سایت بر روی یک سرور محلی اجرا می‌شود که دستگاه واقعی نمی‌تواند به آن دسترسی پیدا کند."
+  },
+  "real_simulation_local_text": {
+    "message": "آن را با یک تونل، به عنوان مثال با دستور زیر، در معرض قرار دهید و سپس آدرس عمومی به‌دست‌آمده را وارد کنید."
+  },
+  "real_simulation_local_placeholder": {
+    "message": "https://exemple.trycloudflare.com"
+  },
+  "real_simulation_local_invalid": {
+    "message": "یک آدرس عمومی وارد کنید، نه یک آدرس محلی."
+  },
+  "real_simulation_local_start": {
+    "message": "راه‌اندازی از طریق این تونل"
+  },
+  "real_simulation_local_help": {
+    "message": "چگونه یک تونل ایجاد کنیم؟"
+  },
+  "real_simulation_tunnel_modale_title": {
+    "message": "تست یک سایت محلی بر روی یک دستگاه واقعی"
+  },
+  "real_simulation_tunnel_modale_baseline": {
+    "message": "دستگاه واقعی در ابر اجرا می‌شود: آن نمی‌تواند ماشین شما را ببیند. یک تونل به سرور محلی شما یک آدرس عمومی موقت می‌دهد، برای مدت زمان تست‌های شما."
+  },
+  "real_simulation_tunnel_step_install": {
+    "message": "cloudflared را نصب کنید"
+  },
+  "real_simulation_tunnel_linux_note": {
+    "message": "دستور برای Debian / Ubuntu (x86_64). توزیع‌های دیگر:"
+  },
+  "real_simulation_tunnel_downloads": {
+    "message": "دانلودها"
+  },
+  "real_simulation_tunnel_step_run": {
+    "message": "تونل را به سمت سرور محلی خود راه‌اندازی کنید"
+  },
+  "real_simulation_tunnel_step_paste": {
+    "message": "آدرس تونل را در ترمینال کپی کنید"
+  },
+  "real_simulation_tunnel_step_paste_note": {
+    "message": "پس از چند ثانیه، یک کادر «<em>Your quick Tunnel has been created!</em>» ظاهر می‌شود. آدرسی که در آن است، در <strong>https://…trycloudflare.com</strong>، را کپی کرده و در فیلد دستگاه وارد کنید."
+  },
+  "real_simulation_tunnel_tip_logs": {
+    "message": "خطوط متعدد <code>INF</code> اطراف طبیعی هستند: این‌ها اطلاعات فنی هستند، می‌توانید آن‌ها را نادیده بگیرید."
+  },
+  "real_simulation_tunnel_tip_delay": {
+    "message": "آدرس ممکن است تا یک دقیقه پس از ایجاد پاسخ دهد: اگر دستگاه خطایی نشان داد، صبر کنید و دوباره تلاش کنید."
+  },
+  "real_simulation_tunnel_tip_terminal": {
+    "message": "ترمینال را در طول تست‌های خود باز نگه دارید: تونل زمانی متوقف می‌شود که آن را ببندید یا <code>Ctrl</code> + <code>C</code> را فشار دهید. یک آدرس جدید در هر بار راه‌اندازی ایجاد می‌شود."
+  },
+  "real_simulation_tunnel_step_hosts": {
+    "message": "اگر صفحه مسدود شد، آدرس تونل را مجاز کنید"
+  },
+  "real_simulation_tunnel_step_hosts_note": {
+    "message": "سرورهای توسعه نام‌های میزبان ناشناخته را رد می‌کنند. با Vite، در vite.config اضافه کنید؛ با webpack-dev-server، از allowedHosts: 'all' استفاده کنید."
+  },
+  "real_simulation_tunnel_free_title": {
+    "message": "رایگان و بدون حساب."
+  },
+  "real_simulation_tunnel_free_text": {
+    "message": "تونل‌های سریع Cloudflare نیازی به ثبت‌نام ندارند. آدرس در هر بار راه‌اندازی تغییر می‌کند و آن‌ها برای تست‌ها، نه برای تولید، اختصاص داده شده‌اند."
+  },
+  "real_simulation_tunnel_docs": {
+    "message": "مستندات Cloudflare"
+  },
+  "real_simulation_tunnel_done": {
+    "message": "فهمیدم"
+  },
+  "real_simulation_tunnel_copy": {
+    "message": "کپی"
+  },
+  "real_simulation_session_ended": {
+    "message": "جلسه بر روی دستگاه واقعی پس از یک دوره عدم فعالیت به پایان رسید."
+  },
+  "real_simulation_max_duration": {
+    "message": "جلسه بر روی دستگاه واقعی به حداکثر مدت زمان خود رسید. برای ادامه تست‌های خود، یک جلسه جدید راه‌اندازی کنید."
+  },
+  "real_simulation_session_revoked": {
+    "message": "جلسه بر روی دستگاه واقعی قطع شد زیرا در چندین مکان به‌طور همزمان باز بود."
+  },
+  "real_simulation_error": {
+    "message": "دستگاه واقعی غیرقابل دسترسی است. اتصال خود را بررسی کرده و دوباره تلاش کنید."
+  },
+  "real_simulation_disabled": {
+    "message": "شبیه‌سازی بر روی دستگاه واقعی به‌طور موقت غیرفعال است. ما در حال کار برای بازگرداندن آن هستیم، لطفاً بعداً دوباره تلاش کنید."
+  },
+  "real_simulation_retry": {
+    "message": "دوباره تلاش کنید"
+  },
+  "real_simulation_title": {
+    "message": "شبیه‌سازی Live device"
+  },
+  "real_simulation_baseline": {
+    "message": "طراحی در شبیه‌ساز، نهایی‌سازی روی Live device"
+  },
+  "real_simulation_learn_more": {
+    "message": "بیشتر بدانید"
+  },
+  "real_simulation_os_version": {
+    "message": "نسخه $1"
+  },
+  "real_simulation_geolocation": {
+    "message": "موقعیت جغرافیایی"
+  },
+  "real_simulation_inactivity_timeout": {
+    "message": "خاموشی خودکار پس از عدم فعالیت"
+  },
+  "real_simulation_inactivity_ended": {
+    "message": "جلسه در دستگاه واقعی پس از $1 عدم فعالیت متوقف شد."
+  },
+  "real_simulation_location_default": {
+    "message": "پاریس"
+  },
+  "real_simulation_start": {
+    "message": "راه‌اندازی شبیه‌ساز ابری"
+  },
+  "real_simulation_local_url": {
+    "message": "شبیه‌سازی واقعی نیاز به یک صفحه وب در http(s) دارد. این بر روی فایل‌های محلی کار نمی‌کند."
+  },
+  "real_simulation_local_server": {
+    "message": "این سایت بر روی یک سرور محلی اجرا می‌شود: هنگام راه‌اندازی، از شما خواسته می‌شود که آن را از طریق یک تونل (cloudflared, ngrok…) در اینترنت منتشر کنید."
+  },
+  "real_simulation_device_unavailable": {
+    "message": "این دستگاه در شبیه‌سازی واقعی در دسترس نیست."
+  },
+  "real_simulation_device_unavailable_link": {
+    "message": "مشاهده دستگاه‌های سازگار"
+  },
+  "real_simulation_pro_only": {
+    "message": "شبیه‌سازی بر روی دستگاه واقعی فقط برای طرح‌های پولی ما در دسترس است."
+  },
+  "real_simulation_usage": {
+    "message": "استفاده"
+  },
+  "real_simulation_usage_detail": {
+    "message": "شما $1 دقیقه از $2 دقیقه طرح $3 را مصرف کرده‌اید"
+  },
+  "real_simulation_more_minutes": {
+    "message": "نیاز به دقایق بیشتر دارید؟"
+  },
+  "real_simulation_usage_error": {
+    "message": "امکان بازیابی مصرف شما وجود ندارد."
+  },
+  "real_simulation_modale_kicker": {
+    "message": "LIVE DEVICE"
+  },
+  "real_simulation_modale_live": {
+    "message": "به صورت زنده"
+  },
+  "real_simulation_modale_h1": {
+    "message": "در شبیه‌ساز طراحی کنید، در شرایط واقعی نهایی کنید"
+  },
+  "real_simulation_modale_h2": {
+    "message": "شبیه‌ساز همچنان ابزار ایده‌آل برای طراحی و تکرار سریع بر روی همه فرمت‌های صفحه نمایش است.<br>در زمان تأیید، Live device می‌تواند با یک دستگاه iOS یا Android که در ابر میزبانی می‌شود و به‌طور مستقیم از زبانه شما کنترل می‌شود، جایگزین شود."
+  },
+  "real_simulation_modale_feature_os_title": {
+    "message": "موتور واقعی رندر."
+  },
+  "real_simulation_modale_feature_os": {
+    "message": "Safari WebKit و Chrome Android بومی، برای شناسایی کوچکترین مشکل نمایش."
+  },
+  "real_simulation_modale_feature_gestures_title": {
+    "message": "همه ویژگی‌های یک سیستم عامل موبایل واقعی"
+  },
+  "real_simulation_modale_feature_gestures": {
+    "message": "فیلدهای فرم بومی، صفحه‌کلید سیستم و موقعیت GPS سفارشی."
+  },
+  "real_simulation_modale_feature_devices_title": {
+    "message": "$1 دستگاه در چند ثانیه آماده."
+  },
+  "real_simulation_modale_feature_devices": {
+    "message": "از آخرین آیفون‌ها تا پرکاربردترین اندرویدها."
+  },
+  "real_simulation_modale_devices_list": {
+    "message": "مشاهده لیست"
+  },
+  "real_simulation_devices_modale_title": {
+    "message": "دستگاه‌های سازگار"
+  },
+  "real_simulation_devices_modale_baseline": {
+    "message": "$1 دستگاه از شبیه‌ساز می‌توانند در شبیه‌سازی واقعی راه‌اندازی شوند. بقیه در شبیه‌سازی محلی در دسترس باقی می‌مانند."
+  },
+  "real_simulation_modale_quota": {
+    "message": "<strong>$1 دقیقه</strong> / ماه شامل در طرح شما <strong>$2</strong>"
+  },
+  "real_simulation_modale_other_plans": {
+    "message": "مشاهده طرح‌های دیگر"
+  },
+  "real_simulation_modale_benefit_minutes": {
+    "message": "10 دقیقه Live Device / ماه"
+  },
+  "real_simulation_modale_benefit_minutes_rest": {
+    "message": "شامل از Starter"
+  },
+  "real_simulation_modale_login_question": {
+    "message": "قبلاً مشترک شده‌اید؟"
+  },
+  "real_simulation_modale_login_link": {
+    "message": "ورود"
+  },
+  "real_simulation_modale_benefit_pro": {
+    "message": "+ همه ویژگی‌های PRO"
+  },
+  "real_simulation_modale_benefit_pro_rest": {
+    "message": "(دستگاه‌ها، تنظیمات،..)"
+  },
+  "real_simulation_modale_see_plans": {
+    "message": "مشاهده طرح‌ها"
+  },
+  "real_simulation_modale_from": {
+    "message": "از"
+  },
+  "real_simulation_modale_per_month": {
+    "message": "/ ماه"
+  },
+  "real_simulation_continue_tests": {
+    "message": "آزمایش‌های خود را ادامه دهید"
+  },
+  "real_simulation_trial_title": {
+    "message": "در طول آزمایش شامل نمی‌شود"
+  },
+  "real_simulation_trial_note": {
+    "message": "شبیه‌سازی بر روی دستگاه واقعی در طول دوره آزمایشی در دسترس نیست. دقایق شما از ابتدای اشتراک شما در دسترس خواهند بود."
+  },
+  "real_simulation_legacy_plan_title": {
+    "message": "به طرح‌های جدید ارتقا دهید"
+  },
+  "real_simulation_legacy_plan_note": {
+    "message": "طرح پرداختی قدیمی شما شامل شبیه‌سازی بر روی دستگاه واقعی نمی‌شود. برای بهره‌مندی از این ویژگی، به یکی از طرح‌های جدید ما ارتقا دهید."
+  },
+  "real_simulation_legacy_plan_upgrade": {
+    "message": "ارتقای اشتراک من"
+  },
+  "real_simulation_quota_consumed": {
+    "message": "شما $1 دقیقه موجود را مصرف کرده‌اید"
+  },
+  "real_simulation_quota_reset": {
+    "message": "بازنشانی محدودیت‌های استفاده در <strong>$1</strong>"
+  },
+  "real_simulation_upgrade_plan": {
+    "message": "$1 · $2 دقیقه/ماه"
+  },
+  "real_simulation_upgrade_per_month": {
+    "message": " /ماه"
+  },
+  "real_simulation_upgrade_renew": {
+    "message": "دقایق هر ماه تجدید می‌شوند"
+  },
+  "real_simulation_upgrade_extra": {
+    "message": "$1 به ازای هر دقیقه به جای $2"
+  },
+  "real_simulation_upgrade_cta": {
+    "message": "ارتقاء به طرح بالاتر"
+  },
+  "real_simulation_contact_us": {
+    "message": "تماس با ما"
+  },
+  "real_simulation_contact": {
+    "message": "تماس"
+  },
+  "real_simulation_contact_team_admin": {
+    "message": "برای دریافت دقایق بیشتر با مدیر تیم خود تماس بگیرید."
+  },
+  "real_simulation_location_change": {
+    "message": "تغییر موقعیت GPS"
+  },
+  "real_simulation_location_title": {
+    "message": "موقعیت GPS"
+  },
+  "real_simulation_location_search": {
+    "message": "آدرس، شهر یا مختصات"
+  },
+  "real_simulation_location_results": {
+    "message": "نتایج"
+  },
+  "real_simulation_location_coordinates": {
+    "message": "رفتن به مختصات"
+  },
+  "real_simulation_location_no_result": {
+    "message": "هیچ مکانی یافت نشد."
+  },
+  "real_simulation_location_search_error": {
+    "message": "جستجو در حال حاضر در دسترس نیست. می‌توانید پین را روی نقشه قرار دهید."
+  },
+  "real_simulation_location_selected": {
+    "message": "نقطه انتخاب شده"
+  },
+  "real_simulation_location_custom": {
+    "message": "موقعیت سفارشی"
+  },
+  "real_simulation_location_latitude": {
+    "message": "عرض."
+  },
+  "real_simulation_location_longitude": {
+    "message": "طول."
+  },
+  "real_simulation_location_recents": {
+    "message": "اخیر"
+  },
+  "real_simulation_location_zoom_in": {
+    "message": "بزرگ‌نمایی"
+  },
+  "real_simulation_location_zoom_out": {
+    "message": "کوچک‌نمایی"
+  },
+  "real_simulation_location_recenter": {
+    "message": "مرکز بر روی نقطه"
+  },
+  "real_simulation_location_hint": {
+    "message": "کلیک کنید یا پین را بکشید"
+  },
+  "real_simulation_location_cancel": {
+    "message": "لغو"
+  },
+  "real_simulation_location_apply": {
+    "message": "اعمال موقعیت"
+  },
+  "real_simulation_or": {
+    "message": "یا"
+  },
+  "real_simulation_buy_minutes_title": {
+    "message": "خرید $1 دقیقه"
+  },
+  "real_simulation_buy_minutes_validity": {
+    "message": "بدون اشتراک، معتبر برای $1 ماه"
+  },
+  "real_simulation_buy_minutes_unit": {
+    "message": "$1 در دقیقه"
+  },
+  "real_simulation_buy_minutes_card": {
+    "message": "کارت ذخیره شده: $1"
+  },
+  "real_simulation_buy_minutes_subtotal": {
+    "message": "جمع جزء (بدون مالیات)"
+  },
+  "real_simulation_buy_minutes_tax": {
+    "message": "مالیات ($1)"
+  },
+  "real_simulation_buy_minutes_total": {
+    "message": "جمع کل (با مالیات)"
+  },
+  "real_simulation_buy_minutes_pay": {
+    "message": "پرداخت $1"
+  },
+  "real_simulation_buy_minutes_secure": {
+    "message": "بانک شما ممکن است از شما بخواهد که پرداخت را در یک تب جدید تأیید کنید."
+  },
+  "real_simulation_buy_minutes_cancel": {
+    "message": "لغو"
+  },
+  "real_simulation_buy_minutes_retry": {
+    "message": "دوباره امتحان کنید"
+  },
+  "real_simulation_buy_minutes_success": {
+    "message": "$1 دقیقه به حساب شما اضافه شد."
+  },
+  "real_simulation_buy_minutes_no_card": {
+    "message": "هیچ کارت بانکی در حساب شما ذخیره نشده است."
+  },
+  "real_simulation_buy_minutes_add_card": {
+    "message": "افزودن کارت"
+  },
+  "real_simulation_buy_minutes_not_eligible": {
+    "message": "خرید دقیقه‌ها فقط برای اشتراک‌های فعال است."
+  },
+  "real_simulation_buy_minutes_in_progress": {
+    "message": "یک پرداخت در حال حاضر در حال تأیید است. آن را تکمیل کنید یا چند دقیقه صبر کنید."
+  },
+  "real_simulation_buy_minutes_processing": {
+    "message": "پرداخت شما در حال پردازش است: دقایق پس از تأیید اضافه خواهند شد."
+  },
+  "real_simulation_buy_minutes_canceled": {
+    "message": "پرداخت لغو شد. هیچ مبلغی کسر نشده است."
+  },
+  "real_simulation_buy_minutes_declined": {
+    "message": "پرداخت توسط بانک شما رد شد. هیچ مبلغی کسر نشده است."
+  },
+  "real_simulation_buy_minutes_auth_failed": {
+    "message": "تأیید پرداخت موفقیت‌آمیز نبود. هیچ مبلغی کسر نشده است."
+  },
+  "real_simulation_buy_minutes_error": {
+    "message": "پرداخت انجام نشد. لطفاً لحظاتی بعد دوباره امتحان کنید."
+  },
+  "real_simulation_buy_minutes_close": {
+    "message": "بستن"
+  },
+  "real_simulation_buy_minutes_invoice": {
+    "message": "مشاهده فاکتور"
+  },
+  "real_simulation_buy_minutes_invoice_notice": {
+    "message": "برای هر خرید یک فاکتور صادر می‌شود."
+  },
+  "real_simulation_buy_minutes_team_member": {
+    "message": "دقایق حساب شما توسط مدیر آن مدیریت می‌شود. برای شارژ مجدد با او تماس بگیرید:"
+  },
+  "real_simulation_buy_minutes_team_member_no_email": {
+    "message": "دقایق حساب شما توسط مدیر آن مدیریت می‌شود. برای شارژ مجدد با او تماس بگیرید."
+  },
+  "real_simulation_buy_minutes_currency_unavailable": {
+    "message": "خرید دقیقه‌ها در ارز حساب شما در دسترس نیست. با ما تماس بگیرید."
+  },
+  "menu_faq_detect_simulator": {
+    "message": "چگونه تشخیص دهم که سایت من در شبیه‌ساز نمایش داده می‌شود؟"
+  },
+  "shortcut_real_simulation": {
+    "message": "شروع / توقف شبیه‌سازی روی یک دستگاه واقعی"
+  },
+  "real_simulation_language": {
+    "message": "زبان"
+  },
+  "real_simulation_location_resolving": {
+    "message": "شناسایی مکان…"
+  },
+  "real_simulation_buy_minutes_change_card": {
+    "message": "ویرایش"
+  },
+  "real_simulation_buy_minutes_update_card": {
+    "message": "ویرایش کارت پرداخت من"
+  },
+  "real_simulation_device_compatible": {
+    "message": "دستگاه Live Device سازگار"
+  },
+  "real_simulation_past_due_title": {
+    "message": "پرداخت در انتظار"
+  },
+  "real_simulation_past_due_note": {
+    "message": "آخرین پرداخت اشتراک شما ناموفق بود. روش پرداخت خود را به‌روزرسانی کنید تا دقایق شبیه‌سازی روی دستگاه واقعی خود را بازیابی کنید."
+  },
+  "real_simulation_past_due_team_note": {
+    "message": "آخرین پرداخت اشتراک تیم شما ناموفق بود. دقایق شبیه‌سازی روی دستگاه واقعی شما به محض اینکه مدیر آن را اصلاح کند، بازخواهد گشت."
+  },
+  "real_simulation_past_due_button": {
+    "message": "به‌روزرسانی پرداخت"
+  }
+}

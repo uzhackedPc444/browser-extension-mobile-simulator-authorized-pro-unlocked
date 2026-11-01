@@ -1,0 +1,1406 @@
+{
+  "extName": {
+    "message": "Simulátor mobilného telefónu - test responzívneho webu"
+  },
+  "extDescription": {
+    "message": "Phone Simulator — bezplatné rozšírenie pre Chrome na testovanie a náhľad vašich stránok na viac ako 80 zariadeniach"
+  },
+  "global": {
+    "message": "--------------------------------------------------------"
+  },
+  "android_smartphone": {
+    "message": "<i class='mdi'>&#xe922;</i> Android telefóny"
+  },
+  "apple_smartphone": {
+    "message": "<i class='mdi'>&#xeabe;</i> Apple telefóny"
+  },
+  "tablet": {
+    "message": "<i class='mdi'>&#xe920;</i> Tablety"
+  },
+  "others": {
+    "message": "<i class='mdi'>&#xe921;</i> Špeciálne"
+  },
+  "copied": {
+    "message": "Skopírované"
+  },
+  "error": {
+    "message": "Chyba"
+  },
+  "link": {
+    "message": "Odkaz"
+  },
+  "optional": {
+    "message": "Voliteľné"
+  },
+  "close": {
+    "message": "Zatvoriť"
+  },
+  "get_pro": {
+    "message": "Získať verziu PRO"
+  },
+  "error_contact": {
+    "message": "{Kontaktujte nás} ak problém pretrváva."
+  },
+  "more_settings": {
+    "message": "Viac nastavení"
+  },
+  "dimensions": {
+    "message": "Rozmery"
+  },
+  "context_menu": {
+    "message": "--------------------------------------------------------"
+  },
+  "context_menu_activate": {
+    "message": "Aktivovať mobilné zobrazenie na tejto karte"
+  },
+  "popup": {
+    "message": "--------------------------------------------------------"
+  },
+  "popup_site_incompatible": {
+    "message": "Simulátor nie je možné aktivovať na tejto natívnej stránke vášho prehliadača. Skúste na inej karte alebo prejdite na web a znova spustite."
+  },
+  "popup_activate_local_files_info": {
+    "message": "Tento simulátor nemožno predvolene aktivovať na lokálnych súboroch (file:///), ale môžete manuálne aktivovať túto možnosť v nastaveniach Chrome."
+  },
+  "popup_activate_local_files_button": {
+    "message": "Aktivovať možnosť"
+  },
+  "menu": {
+    "message": "--------------------------------------------------------"
+  },
+  "menu_close_alone": {
+    "message": "Deaktivovať simulátor"
+  },
+  "menu_change_device": {
+    "message": "Zmeniť zariadenie alebo porovnať"
+  },
+  "menu_contact_devices": {
+    "message": "<i class='mdi'>&#xe900;</i> Zariadenie, ktoré hľadáte, nie je v zozname? Dajte nám vedieť!"
+  },
+  "menu_info_device": {
+    "message": "Vlastnosti a maketa tohto zariadenia"
+  },
+  "menu_info_device_features": {
+    "message": "Vlastnosti (rozlíšenie viewportu, atď.)"
+  },
+  "menu_info_device_mockup": {
+    "message": "Bezplatný mockup v priehľadnom PNG"
+  },
+  "menu_rotate": {
+    "message": "Zmeniť orientáciu"
+  },
+  "menu_zoom": {
+    "message": "Priblížiť v zariadení"
+  },
+  "menu_screenshot": {
+    "message": "Urobiť snímku obrazovky"
+  },
+  "menu_screencast": {
+    "message": "Nahrať video obrazovky"
+  },
+  "menu_share": {
+    "message": "Zdieľať s kolegom, priateľom,..."
+  },
+  "menu_send_improvement": {
+    "message": "Navrhnúť vylepšenie"
+  },
+  "menu_send_message": {
+    "message": "Centrum pomoci"
+  },
+  "menu_faq_title": {
+    "message": "Často kladené otázky"
+  },
+  "menu_faq_media_queries": {
+    "message": "Moje media queries nie sú zohľadnené"
+  },
+  "menu_faq_ignonito_mode": {
+    "message": "Ako aktivovať simulátor v režime inkognito?"
+  },
+  "menu_faq_scroll": {
+    "message": "Nie je možné posúvať v simulátore"
+  },
+  "menu_faq_subscription": {
+    "message": "Prečo moje predplatné nefunguje?"
+  },
+  "menu_faq_shortcut": {
+    "message": "Ako nastaviť klávesové skratky?"
+  },
+  "menu_faq_all": {
+    "message": "Zobraziť všetky často kladené otázky"
+  },
+  "menu_report": {
+    "message": "Nahlásiť chybu"
+  },
+  "menu_settings": {
+    "message": "Konfigurácia"
+  },
+  "menu_extensions": {
+    "message": "Objavte naše ďalšie rozšírenia pre Chrome"
+  },
+  "menu_vote_feature": {
+    "message": "Hlasujte za funkcie, ktoré chcete"
+  },
+  "simulator": {
+    "message": "--------------------------------------------------------"
+  },
+  "simulator_header_info": {
+    "message": "Toto je len obrázok. Na zmenu URL použite pole Chrome vyššie."
+  },
+  "simulator_footer_info": {
+    "message": "Toto je len obrázok. Použite svoju vlastnú klávesnicu."
+  },
+  "screencast": {
+    "message": "--------------------------------------------------------"
+  },
+  "screencast_tooltip_device": {
+    "message": "Záznam videa iba zo zariadenia"
+  },
+  "screencast_tooltip_tab": {
+    "message": "Záznam videa z karty so zariadením"
+  },
+  "screencast_error": {
+    "message": "Pri nahrávaní došlo k chybe. {Kliknite sem} pre riešenie."
+  },
+  "screencast_modale_title": {
+    "message": "Záznam videa"
+  },
+  "screencast_modale_texte": {
+    "message": "Toto video si môžete stiahnuť v rôznych formátoch alebo získať odkaz na zdieľanie."
+  },
+  "screencast_modale_download_webm": {
+    "message": "Stiahnuť vo formáte WEBM (s priehľadnosťou, ak je možnosť aktivovaná)"
+  },
+  "screencast_modale_download_mp4": {
+    "message": "Lepšia kompatibilita s PowerPoint, ale bez priehľadnosti"
+  },
+  "screencast_modale_download_gif": {
+    "message": "Kompatibilné všade, ale nižšia kvalita (s priehľadnosťou, ak je možnosť aktivovaná)"
+  },
+  "screencast_modale_gif_duration_limit_info": {
+    "message": "Maximálna dĺžka GIF je 60 sekúnd. Nad tento limit by bol súbor príliš veľký."
+  },
+  "screencast_modale_copy": {
+    "message": "Kopírovať"
+  },
+  "screencast_modale_upload": {
+    "message": "Získať odkaz na zdieľanie"
+  },
+  "screencast_modale_contact": {
+    "message": "Nahlásiť chybu, navrhnúť vylepšenie"
+  },
+  "screencast_start_recording": {
+    "message": "Spustiť nahrávanie"
+  },
+  "screencast_microphone_permission_denied": {
+    "message": "Prístup k mikrofónu bol odmietnutý."
+  },
+  "screencast_camera_permission_denied": {
+    "message": "Prístup k kamere bol odmietnutý."
+  },
+  "screencast_error_media_stream_track_processor_or_generator": {
+    "message": "Vaša verzia Chrome je príliš stará pre túto funkciu. Aktualizujte Chrome na verziu vyššiu ako 94.0"
+  },
+  "screencast_quality_info_tooltip": {
+    "message": "Kvalita videa ovplyvňuje bitrate, fps a rozlíšenie nahrávania. Čím vyššia kvalita, tým väčší súbor."
+  },
+  "screencast_modale_auto_stop_limit_reached": {
+    "message": "Video nahrávky sú obmedzené na 5 minút v bezplatnej verzii."
+  },
+  "screenshot": {
+    "message": "--------------------------------------------------------"
+  },
+  "screenshot_menu_1": {
+    "message": "Snímka so zariadením"
+  },
+  "screenshot_menu_2": {
+    "message": "Snímka iba webu"
+  },
+  "screenshot_menu_3": {
+    "message": "Snímka celej stránky"
+  },
+  "screenshot_menu_4": {
+    "message": "Snímka celej karty"
+  },
+  "screenshot_button": {
+    "message": "Vytvoriť snímku"
+  },
+  "screenshot_modale_download_png": {
+    "message": "Stiahnuť vo formáte PNG (bez kompresie)"
+  },
+  "screenshot_modale_download_webp": {
+    "message": "Stiahnuť vo formáte WEBP, kompatibilné takmer všade a optimalizovaná kompresia (odporúčané)"
+  },
+  "screenshot_menu_stop_fullpage": {
+    "message": "Zastaviť pred koncom stránky"
+  },
+  "screenshot_modale_title": {
+    "message": "Snímka obrazovky"
+  },
+  "screenshot_modale_copy": {
+    "message": "Kopírovať obrázok do schránky"
+  },
+  "screenshot_modale_edit": {
+    "message": "Upraviť snímku"
+  },
+  "screenshot_modale_help": {
+    "message": "Ak chcete uložiť obrázok vo veľkom formáte, stačí naň kliknúť pravým tlačidlom myši a vybrať \"Kopírovať obrázok\" alebo \"Uložiť\"."
+  },
+  "screenshot_editor_close": {
+    "message": "Zatvoriť editor"
+  },
+  "screenshot_editor_undo": {
+    "message": "Zrušiť poslednú akciu"
+  },
+  "screenshot_editor_rect": {
+    "message": "Nakresliť obdĺžnik"
+  },
+  "screenshot_editor_ellipse": {
+    "message": "Nakresliť kruh"
+  },
+  "screenshot_editor_line": {
+    "message": "Nakresliť čiaru"
+  },
+  "screenshot_editor_arrow": {
+    "message": "Nakresliť šípku"
+  },
+  "screenshot_editor_pen": {
+    "message": "Voľné kreslenie"
+  },
+  "screenshot_editor_color": {
+    "message": "Farba čiary"
+  },
+  "screenshot_editor_stroke_width": {
+    "message": "Hrúbka čiary"
+  },
+  "pro": {
+    "message": "--------------------------------------------------------"
+  },
+  "pro_modale_h1": {
+    "message": "Staňte sa PRO"
+  },
+  "pro_modale_h1_all_formats": {
+    "message": "Konvertujte svoje video snímky do formátov GIF a MP4"
+  },
+  "pro_modale_h1_devices": {
+    "message": "Simulujte všetky zariadenia"
+  },
+  "pro_modale_h1_settings": {
+    "message": "Odomknite všetky nastavenia"
+  },
+  "pro_modale_h1_screencast": {
+    "message": "Odomknite všetky nastavenia video nahrávania"
+  },
+  "pro_modale_h1_ads": {
+    "message": "Odstráňte reklamy"
+  },
+  "pro_modale_h1_image_editor": {
+    "message": "Upravujte svoje snímky"
+  },
+  "pro_modale_h1_unlimited_screenshots": {
+    "message": "Vytvárajte snímky obrazovky bez obmedzenia"
+  },
+  "pro_modale_h2": {
+    "message": "Staňte sa PRO a aktívne prispievajte k vývoju tohto rozšírenia podporou jeho vývojára."
+  },
+  "pro_modale_billed_annualy": {
+    "message": "Fakturované ročne"
+  },
+  "pro_modale_savings": {
+    "message": "Ušetrite"
+  },
+  "pro_modale_from": {
+    "message": "Od"
+  },
+  "pro_modale_recurring_month": {
+    "message": "mesiac"
+  },
+  "pro_modale_button": {
+    "message": "Predplatiť"
+  },
+  "pro_modale_link_1": {
+    "message": "Alebo"
+  },
+  "pro_modale_link_2": {
+    "message": "prihlásiť sa"
+  },
+  "pro_modale_link_3": {
+    "message": "do môjho účtu predplatiteľa"
+  },
+  "pro_modale_avantage_1": {
+    "message": "Všetky video nastavenia"
+  },
+  "pro_modale_avantage_2": {
+    "message": "Porovnanie viacerých zariadení"
+  },
+  "sharing": {
+    "message": "--------------------------------------------------------"
+  },
+  "sharing_h1": {
+    "message": "Je tento mobilný simulátor pre teba užitočný?"
+  },
+  "sharing_h2": {
+    "message": "Tak ho zdieľaj so svojimi kolegami alebo priateľmi"
+  },
+  "sharing_txt": {
+    "message": "Simulátor na testovanie webu na mobiloch a tabletoch"
+  },
+  "sharing_review_1": {
+    "message": "A ak máš minútu na"
+  },
+  "sharing_review_2": {
+    "message": "pridanie recenzie"
+  },
+  "sharing_review_3": {
+    "message": "tak to je čerešnička na torte! 🙂"
+  },
+  "sharing_review_button": {
+    "message": "Pridať recenziu"
+  },
+  "other_extensions": {
+    "message": "--------------------------------------------------------"
+  },
+  "other_extensions_h1": {
+    "message": "Objavte naše úplne nové bezplatné rozšírenia"
+  },
+  "other_extensions_color_picker_title": {
+    "message": "Výber farieb"
+  },
+  "other_extensions_color_picker_description": {
+    "message": "Toto rozšírenie vám umožňuje zachytiť akúkoľvek farbu na obrazovke."
+  },
+  "other_extensions_font_finder_title": {
+    "message": "Vyhľadávač fontov"
+  },
+  "other_extensions_font_finder_description": {
+    "message": "Identifikujte jedným kliknutím font použitý na akomkoľvek texte na webovej stránke."
+  },
+  "other_extensions_button": {
+    "message": "Inštalovať"
+  },
+  "review": {
+    "message": "--------------------------------------------------------"
+  },
+  "review_h1": {
+    "message": "Ako by ste ohodnotili toto rozšírenie?"
+  },
+  "review_note_store": {
+    "message": "Ďakujeme za vašu spätnú väzbu, neváhajte pridať hodnotenie na stránke rozšírenia. Bol by som vám veľmi vďačný 😊"
+  },
+  "review_note_feedback": {
+    "message": "Ďakujeme za vašu spätnú väzbu, neváhajte nám poslať správu, aby sme mohli toto rozšírenie vylepšiť."
+  },
+  "button_feedback": {
+    "message": "Pridať hodnotenie"
+  },
+  "button_message": {
+    "message": "Pošlite nám správu"
+  },
+  "contact": {
+    "message": "--------------------------------------------------------"
+  },
+  "contact_message_field_name": {
+    "message": "Názov zariadenia"
+  },
+  "contact_message_field_placeholder": {
+    "message": "Samsung Galaxy S24 Ultra, iPhone 17 Pro Max, atď."
+  },
+  "contact_title": {
+    "message": "Zariadenie, ktoré hľadáte, nie je v zozname? Dajte nám vedieť!"
+  },
+  "settings": {
+    "message": "--------------------------------------------------------"
+  },
+  "settings_h2_device": {
+    "message": "Zariadenie"
+  },
+  "settings_h2_global": {
+    "message": "Všeobecné"
+  },
+  "settings_hide_header_footer": {
+    "message": "Skryť rozhranie prehliadača zariadenia (adresný riadok, atď.)"
+  },
+  "settings_hide_keyboard": {
+    "message": "Simulovať zobrazenie klávesnice pri písaní"
+  },
+  "settings_scrollbar_show": {
+    "message": "Zobraziť natívny posuvník v zariadení"
+  },
+  "settings_change_cursor": {
+    "message": "Dotykové rolovanie a zobrazenie mobilného kurzora"
+  },
+  "settings_change_background": {
+    "message": "Zmeniť farbu pozadia"
+  },
+  "settings_default_device": {
+    "message": "Predvolené zariadenie pri každej aktivácii"
+  },
+  "settings_change_analytics": {
+    "message": "Pomôžte vývojárovi zlepšiť rozšírenie zdieľaním 100 % anonymných a neosobných údajov o používaní."
+  },
+  "settings_device_hide": {
+    "message": "Zobraziť rám zariadenia"
+  },
+  "settings_batterie_level": {
+    "message": "Úroveň batérie v hlavičke zariadenia (%)"
+  },
+  "settings_device_default_url": {
+    "message": "Zmeniť URL zobrazenú v zariadení"
+  },
+  "settings_presenter_mode": {
+    "message": "Prezentačný režim (menu vpravo viditeľné iba pri prechode myšou)"
+  },
+  "settings_fullscreen": {
+    "message": "Stránka na celú obrazovku v zariadení"
+  },
+  "settings_default_device_placeholder": {
+    "message": "Vybrať zariadenie"
+  },
+  "settings_video_quality": {
+    "message": "Kvalita videa"
+  },
+  "settings_video_quality_low": {
+    "message": "Stredná"
+  },
+  "settings_video_quality_medium": {
+    "message": "Dobrá"
+  },
+  "settings_video_quality_high": {
+    "message": "Vynikajúca"
+  },
+  "settings_theme": {
+    "message": "Téma"
+  },
+  "settings_theme_light": {
+    "message": "Svetlá"
+  },
+  "settings_theme_dark": {
+    "message": "Tmavá"
+  },
+  "settings_theme_auto": {
+    "message": "Automatická"
+  },
+  "settings_shortcuts": {
+    "message": "Nastaviť klávesové skratky"
+  },
+  "settings_pro_account": {
+    "message": "Spravovať moje predplatné"
+  },
+  "settings_microphone": {
+    "message": "Mikrofón"
+  },
+  "settings_camera": {
+    "message": "Kamera"
+  },
+  "settings_countdown": {
+    "message": "Odpočítavanie (sekundy)"
+  },
+  "settings_transparent_background": {
+    "message": "Priehľadné pozadie"
+  },
+  "settings_transparent_background_info": {
+    "message": "Táto možnosť vyžaduje viac výpočtov a môže spôsobiť spomalenie zobrazenia v závislosti od vášho počítača (kompatibilné iba s formátmi WEBM a GIF)"
+  },
+  "screenshot_workaround": {
+    "message": "--------------------------------------------------------"
+  },
+  "screenshot_workaround_title": {
+    "message": "Riešenie pre snímku obrazovky"
+  },
+  "screenshot_workaround_context": {
+    "message": "Kontext"
+  },
+  "screenshot_workaround_context_text": {
+    "message": "Kvôli niektorým technickým obmedzeniam sa môže stať, že pri snímke obrazovky dostanete túto chybovú správu."
+  },
+  "screenshot_workaround_solution": {
+    "message": "Riešenie"
+  },
+  "screenshot_workaround_solution_text": {
+    "message": "V tomto prípade stačí kliknúť pravým tlačidlom myši kdekoľvek na stránke, vybrať položku „Mobilný simulátor“ a potom „📷 Urobiť snímku obrazovky“"
+  },
+  "feedback": {
+    "message": "--------------------------------------------------------"
+  },
+  "feedback_title": {
+    "message": "Pomôžte nám urobiť Mobile FIRST ešte užitočnejším pre vás 🚀"
+  },
+  "feedback_profession": {
+    "message": "Aké je vaše pracovné oddelenie?"
+  },
+  "feedback_profession_developer": {
+    "message": "Vývoj"
+  },
+  "feedback_profession_designer": {
+    "message": "Dizajn"
+  },
+  "feedback_profession_qa": {
+    "message": "Testovanie / QA"
+  },
+  "feedback_profession_product": {
+    "message": "Product management"
+  },
+  "feedback_profession_marketing": {
+    "message": "Marketing"
+  },
+  "feedback_profession_sales": {
+    "message": "Predaj"
+  },
+  "feedback_profession_other": {
+    "message": "Iné"
+  },
+  "feedback_company_type": {
+    "message": "Aký je typ vašej spoločnosti?"
+  },
+  "feedback_company_type_freelance": {
+    "message": "Na voľnej nohe"
+  },
+  "feedback_company_type_micro_business": {
+    "message": "Mikropodnik (1-9 zamestnancov)"
+  },
+  "feedback_company_type_agency": {
+    "message": "Malý podnik (10-49 zamestnancov)"
+  },
+  "feedback_company_type_startup": {
+    "message": "Stredný podnik (50-249 zamestnancov)"
+  },
+  "feedback_company_type_pme": {
+    "message": "Veľký podnik (250-4999 zamestnancov)"
+  },
+  "feedback_company_type_grandeentreprise": {
+    "message": "Veľmi veľký podnik / skupina (5000+ zamestnancov)"
+  },
+  "feedback_use_cases": {
+    "message": "Prečo používate Mobile FIRST?"
+  },
+  "feedback_useCases_placeholder": {
+    "message": "Testovanie môjho webu, prezentácie klientom..."
+  },
+  "feedback_frequency": {
+    "message": "Ako často používate toto rozšírenie?"
+  },
+  "feedback_frequency_quotidien": {
+    "message": "Denne"
+  },
+  "feedback_frequency_plusieursfoisparsemaine": {
+    "message": "Niekoľkokrát týždenne"
+  },
+  "feedback_frequency_occasionnel": {
+    "message": "Príležitostne"
+  },
+  "feedback_frequency_rare": {
+    "message": "Zriedka"
+  },
+  "feedback_improvements": {
+    "message": "Aké vylepšenia by ste chceli vidieť?"
+  },
+  "feedback_improvements_placeholder": {
+    "message": "Nápad, problém, nedostatok..."
+  },
+  "feedback_submit": {
+    "message": "Odoslať"
+  },
+  "feedback_close": {
+    "message": "Neodpovedať"
+  },
+  "feedback_error_required": {
+    "message": "Všetky polia sú prázdne 🤔"
+  },
+  "feedback_submitted": {
+    "message": "Ďakujeme veľmi pekne za vašu spätnú väzbu 🤗"
+  },
+  "select": {
+    "message": "Vybrať..."
+  },
+  "modales": {
+    "message": "--------------------------------------------------------"
+  },
+  "new_video_feature_h1": {
+    "message": "Objavte teraz novú funkciu záznamu videa!"
+  },
+  "new_video_feature_h2": {
+    "message": "Nahrávajte s lepšou kvalitou, s novými možnosťami a s priehľadným pozadím"
+  },
+  "logout_modale_title": {
+    "message": "Boli ste automaticky odhlásení z tohto zariadenia"
+  },
+  "logout_modale_message": {
+    "message": "Toto zariadenie už nie je súčasťou vašich autorizovaných terminálov. Ak ste tento prístup odstránili manuálne, je potrebné nové prihlásenie."
+  },
+  "notifications": {
+    "message": "--------------------------------------------------------"
+  },
+  "notification_update_title_vwelcome": {
+    "message": "<strong class='mb-2 is-block'>Vitajte v Mobile FIRST 👋</strong>Simulujte jedným kliknutím telefóny, tablety a počítače na jednoduché testovanie a vizualizáciu vašich webov.<br><br><strong>Menu sa nachádza vpravo ➡️</strong>"
+  },
+  "notification_update_title_v4_14_5": {
+    "message": "<strong class='mb-2 is-block'>Aktualizácia v4.14.5</strong>Výrazné zvýšenie <strong>rozlíšenia a kvality</strong> snímok obrazovky <i class='mdi'>&#xe903;</i>"
+  },
+  "logout_modale_button": {
+    "message": "Prihlásiť sa"
+  },
+  "logout_modale_message_2": {
+    "message": "ℹ️ Chcete zdieľať svoje predplatné? Ak chcete povoliť prístup iným osobám, jednoducho ich pridajte v sekcii \"Používatelia\" vo vašom účte."
+  },
+  "logout_modale_message2": {
+    "message": "Z bezpečnostných dôvodov ste boli automaticky odhlásený zo svojho účtu. Môžete sa však znova prihlásiť kliknutím na tlačidlo nižšie."
+  },
+  "notification_update_title_v4_15_0": {
+    "message": "<strong class='mb-2 is-block'>Aktualizácia v4.15.0</strong>Aktivácia <strong>touch scroll</strong> pre smartfóny a tablety <i class='mdi'>&#xe905;</i>"
+  },
+  "menu_add_window": {
+    "message": "Pridať okno"
+  },
+  "settings_sync_events": {
+    "message": "Synchronizovať udalosti medzi oknami (kliknutie, posúvanie, atď.)"
+  },
+  "pro_modale_h1_multi_devices": {
+    "message": "Porovnajte viac ako dve zariadenia súčasne"
+  },
+  "notification_update_title_v4_15_2": {
+    "message": "<strong class='mb-2 is-block'>Aktualizácia v4.15.0</strong>Aktivácia <strong>dotykového posúvania</strong> pre smartfóny a tablety."
+  },
+  "settings_pro_account_past_due": {
+    "message": "Obnovenie vášho predplatného zlyhalo. Aktualizujte svoje platobné údaje, aby ste si zachovali verziu PRO."
+  },
+  "notification_update_title_v4_15_5": {
+    "message": "<strong class='mb-2 is-block'>Aktualizácia v4.15.5</strong><ul><li>Oprava týkajúca sa snímok celej stránky na <strong>lokálnych súboroch</strong>.</li><li>Oprava týkajúca sa jednotiek vh, dhv, lvh, svh na <strong>iOS&nbsp;26</strong>.</li></ul>"
+  },
+  "menu_active_devices": {
+    "message": "Zariadenia viditeľné na karte"
+  },
+  "menu_favorites": {
+    "message": "<i class='mdi mdi-star favorites-icon is-size-6'></i> Obľúbené"
+  },
+  "menu_enable_comparison_mode": {
+    "message": "Aktivovať režim porovnania"
+  },
+  "menu_disable_comparison_mode": {
+    "message": "Deaktivovať režim porovnania"
+  },
+  "menu_custom_devices": {
+    "message": "<i class='mdi'>&#xe917;</i>&nbsp;&nbsp;Moje vlastné zariadenia"
+  },
+  "menu_custom_devices_banner": {
+    "message": "Pridajte si vlastné zariadenia!"
+  },
+  "custom_device_title": {
+    "message": "Pridať vlastné zariadenie"
+  },
+  "custom_device_add": {
+    "message": "Pridať vlastné zariadenie"
+  },
+  "custom_device_name": {
+    "message": "Názov zariadenia"
+  },
+  "custom_device_ua_preset": {
+    "message": "User agent"
+  },
+  "custom_device_ua_custom": {
+    "message": "Vlastný user agent"
+  },
+  "custom_device_ua": {
+    "message": "Reťazec user agent"
+  },
+  "custom_device_os_name": {
+    "message": "Operačný systém"
+  },
+  "custom_device_os_version": {
+    "message": "Verzia OS"
+  },
+  "custom_device_width": {
+    "message": "Šírka viewportu (px)"
+  },
+  "custom_device_height": {
+    "message": "Výška viewportu (px)"
+  },
+  "custom_device_dpr": {
+    "message": "Poměr pixelov zariadenia"
+  },
+  "custom_device_network": {
+    "message": "Sieť"
+  },
+  "custom_device_more": {
+    "message": "Viac nastavení"
+  },
+  "custom_device_less": {
+    "message": "Menej nastavení"
+  },
+  "custom_device_submit": {
+    "message": "Pridať"
+  },
+  "custom_device_error_name": {
+    "message": "Názov zariadenia je povinný."
+  },
+  "custom_device_error_ua": {
+    "message": "User agent je povinný."
+  },
+  "custom_device_error_os": {
+    "message": "Operačný systém je povinný."
+  },
+  "custom_device_error_viewport": {
+    "message": "Šírka a výška viewportu musia byť medzi 10 a 4096."
+  },
+  "notification_update_title_v4_16_0": {
+    "message": "<strong class='mb-2 is-block'>Aktualizácia v4.16.0</strong>Pridaná možnosť vytvárať vlastné zariadenia <i class='mdi'>&#xe917;</i>"
+  },
+  "new_comparison_feature_h1": {
+    "message": "Objavte teraz novú funkciu porovnania viacerých zariadení!"
+  },
+  "new_comparison_feature_h2": {
+    "message": "Porovnajte zobrazenie viacerých zariadení súčasne v tom istom okne. Posúvanie, kliknutia, klávesnica synchronizované."
+  },
+  "try_it": {
+    "message": "Vyskúšať teraz"
+  },
+  "menu_close_window": {
+    "message": "Zatvoriť toto okno"
+  },
+  "notification_update_title_v4_17_0": {
+    "message": "<strong class='mb-2 is-block'>Aktualizácia v4.17.0</strong>Pridaná funkcia porovnania viacerých zariadení súčasne! <i class='mdi'>&#xe917;</i>"
+  },
+  "screencast_firefox_select_tab": {
+    "message": "Zdieľajte aktuálne okno (a nie celú obrazovku), aby bolo nahrávanie správne orámované."
+  },
+  "latest_updates": {
+    "message": "Najnovšie aktualizácie"
+  },
+  "see_more": {
+    "message": "Zobraziť viac"
+  },
+  "see_less": {
+    "message": "Zobraziť menej"
+  },
+  "update_tag_new": {
+    "message": "NOVÉ"
+  },
+  "update_tag_feature": {
+    "message": "FUNKCIA"
+  },
+  "update_tag_improvement": {
+    "message": "ZLEPŠENIE"
+  },
+  "update_tag_fix": {
+    "message": "OPRAVA"
+  },
+  "update_4_19_0_title": {
+    "message": "6 nových zariadení Android"
+  },
+  "update_4_19_0_description": {
+    "message": "3 modely Google Pixel 10, Motorola Razr 70 Ultra, Infinix Hot 70 a Samsung Galaxy A17."
+  },
+  "update_4_17_0_title": {
+    "message": "Porovnanie zariadení"
+  },
+  "update_4_17_0_description": {
+    "message": "Porovnajte viacero zariadení vedľa seba súčasne. Kliknutia, posúvanie a klávesnica sú synchronizované."
+  },
+  "update_4_16_0_title": {
+    "message": "Vlastné zariadenia"
+  },
+  "update_4_16_0_description": {
+    "message": "Teraz môžete pridať vlastné zariadenia so špecifickými rozmermi."
+  },
+  "update_4_15_5_title": {
+    "message": "Opravy"
+  },
+  "update_4_15_5_description": {
+    "message": "Celostránkové snímky na miestnych súboroch a opravy zobrazovacích jednotiek na iOS 26 (vh, dhv, lvh, svh)."
+  },
+  "update_4_15_0_title": {
+    "message": "Dotykové posúvanie"
+  },
+  "update_4_15_0_description": {
+    "message": "Aktivácia dotykového posúvania na smartfónoch a tabletoch."
+  },
+  "update_4_14_5_title": {
+    "message": "Ostrejšie snímky"
+  },
+  "update_4_14_5_description": {
+    "message": "Výrazné zlepšenie rozlíšenia a kvality snímok obrazovky."
+  },
+  "pro_modale_toggle_annual": {
+    "message": "Ročný"
+  },
+  "pro_modale_toggle_monthly": {
+    "message": "Mesačný"
+  },
+  "pro_modale_trial_after_days": {
+    "message": "po vašich 7 dňoch bezplatnej skúšobnej verzie"
+  },
+  "pro_modale_trial_button": {
+    "message": "Začať moju 7-dňovú bezplatnú skúšobnú verziu"
+  },
+  "pro_modale_trial_h1": {
+    "message": "Vyskúšajte PRO verziu zadarmo na 7 dní"
+  },
+  "pro_modale_trial_note": {
+    "message": "Dnes nič neplatíte · Bez záväzkov, možnosť zrušiť kedykoľvek"
+  },
+  "pro_modale_trial_then": {
+    "message": "potom"
+  },
+  "pro_modale_trial_today": {
+    "message": "dnes"
+  },
+  "settings_pwa_auto_detect": {
+    "message": "Automaticky detegovať a zobraziť PWA ako mobilnú aplikáciu."
+  },
+  "settings_title": {
+    "message": "Nastavenia"
+  },
+  "settings_nav_device": {
+    "message": "Zariadenie"
+  },
+  "settings_nav_appearance": {
+    "message": "Vzhľad"
+  },
+  "settings_nav_account": {
+    "message": "Účet"
+  },
+  "settings_os_display": {
+    "message": "Zobrazenie OS"
+  },
+  "settings_os_display_full_desc": {
+    "message": "Zobrazuje stavový riadok OS a prehliadača (adresný riadok)."
+  },
+  "settings_os_display_no_browser_desc": {
+    "message": "Skryje prehliadač, ale ponechá stavový riadok OS."
+  },
+  "settings_os_display_no_os_desc": {
+    "message": "Skryje stavový riadok OS a prehliadač."
+  },
+  "settings_h2_display": {
+    "message": "Globálne zobrazenie"
+  },
+  "settings_h2_customization": {
+    "message": "Prispôsobenie"
+  },
+  "settings_h2_multiwindow": {
+    "message": "Režim viacerých okien"
+  },
+  "settings_h2_pwa": {
+    "message": "PWA"
+  },
+  "settings_account_cta_title": {
+    "message": "Prístup k vášmu účtu"
+  },
+  "settings_account_cta_subtitle": {
+    "message": "Zaregistrujte sa, aby ste odomkli verziu PRO, alebo sa prihláste, ak už máte účet."
+  },
+  "settings_signup_button": {
+    "message": "Zaregistrovať sa"
+  },
+  "settings_login_button": {
+    "message": "Prihlásiť sa"
+  },
+  "settings_subscribe": {
+    "message": "Odomknúť verziu PRO"
+  },
+  "settings_subscribe_button": {
+    "message": "Predplatiť"
+  },
+  "settings_pro_account_cancel_at_period_end": {
+    "message": "Vaše predplatné skončí dňa"
+  },
+  "settings_pro_account_reactivate": {
+    "message": "Znova aktivovať moje predplatné"
+  },
+  "settings_account_greeting": {
+    "message": "Dobrý deň $1,"
+  },
+  "simulator_framing_blocked": {
+    "message": "$1 nepovoľuje zobrazenie svojich stránok v rámci inej stránky: stránka nemôže byť simulovaná na Firefox."
+  },
+  "settings_device_forced_time": {
+    "message": "Vynútiť zobrazený čas v zariadení"
+  },
+  "settings_device_forced_time_reset": {
+    "message": "Vrátiť sa k aktuálnemu času"
+  },
+  "device_variant_folded": {
+    "message": "Zložený"
+  },
+  "device_variant_unfolded": {
+    "message": "Rozložený"
+  },
+  "update_4_21_0_title": {
+    "message": "4 nové iPhony"
+  },
+  "update_4_21_0_description": {
+    "message": "iPhone 18 Pro, iPhone 18 Pro Max a skladací iPhone Duo, v zložených a rozložených verziách."
+  },
+  "update_4_22_0_title": {
+    "message": "Objavte Live device"
+  },
+  "update_4_22_0_description": {
+    "message": "Spustite svoj web na zariadení iOS alebo Android hostenom v cloude a ovládanom priamo z vášho tabu."
+  },
+  "device_mockup_blocked_title": {
+    "message": "Maketa zariadenia nie je k dispozícii"
+  },
+  "device_mockup_blocked": {
+    "message": "Vizualizáciu zariadenia sa nepodarilo načítať. Môže to byť spôsobené blokovačom reklám alebo bezpečnostnou politikou vašej spoločnosti. Simulátor zostáva plne použiteľný, iba maketa nie je zobrazená."
+  },
+  "pro_modale_h1_real_simulation": {
+    "message": "Otestujte svoj web na skutočnom zariadení z cloudu"
+  },
+  "settings_nav_cloud_devices": {
+    "message": "Live device"
+  },
+  "settings_display_real_simulation_info": {
+    "message": "Nastavenia prispôsobenia zobrazenia nie sú aktívne počas relácie Live device."
+  },
+  "menu_real_simulation_on": {
+    "message": "Spustiť na skutočnom zariadení"
+  },
+  "menu_real_simulation_off": {
+    "message": "Vrátiť sa k lokálnej simulácii"
+  },
+  "real_simulation_starting": {
+    "message": "Pripájanie k skutočnému zariadeniu…"
+  },
+  "real_simulation_remaining": {
+    "message": "$1 min zostáva tento mesiac"
+  },
+  "real_simulation_quota_exceeded": {
+    "message": "Využili ste všetky svoje minúty na skutočnom zariadení pre tento mesiac. Lokálna simulácia zostáva dostupná."
+  },
+  "real_simulation_login_required": {
+    "message": "Prihláste sa do svojho účtu Mobile FIRST, aby ste spustili svoj web na skutočnom zariadení."
+  },
+  "real_simulation_local_title": {
+    "message": "Tento web beží na lokálnom serveri, ktorý skutočné zariadenie nemôže dosiahnuť."
+  },
+  "real_simulation_local_text": {
+    "message": "Zverejnite ho pomocou tunela, napríklad pomocou príkazu nižšie, a potom vložte získanú verejnú adresu."
+  },
+  "real_simulation_local_placeholder": {
+    "message": "https://exemple.trycloudflare.com"
+  },
+  "real_simulation_local_invalid": {
+    "message": "Zadajte verejnú adresu, nie lokálnu adresu."
+  },
+  "real_simulation_local_start": {
+    "message": "Spustiť cez tento tunel"
+  },
+  "real_simulation_local_help": {
+    "message": "Ako vytvoriť tunel?"
+  },
+  "real_simulation_tunnel_modale_title": {
+    "message": "Testovanie lokálneho webu na skutočnom zariadení"
+  },
+  "real_simulation_tunnel_modale_baseline": {
+    "message": "Skutočné zariadenie beží v cloude: nevidí vašu mašinu. Tunel dáva vášmu lokálnemu serveru dočasnú verejnú adresu na čas vašich testov."
+  },
+  "real_simulation_tunnel_step_install": {
+    "message": "Nainštalujte cloudflared"
+  },
+  "real_simulation_tunnel_linux_note": {
+    "message": "Príkaz pre Debian / Ubuntu (x86_64). Iné distribúcie:"
+  },
+  "real_simulation_tunnel_downloads": {
+    "message": "stiahnutia"
+  },
+  "real_simulation_tunnel_step_run": {
+    "message": "Spustite tunel na váš lokálny server"
+  },
+  "real_simulation_tunnel_step_paste": {
+    "message": "Skopírujte adresu tunela do terminálu"
+  },
+  "real_simulation_tunnel_step_paste_note": {
+    "message": "Po niekoľkých sekundách sa objaví rámec „<em>Your quick Tunnel has been created!</em>“. Skopírujte adresu, ktorú obsahuje, v <strong>https://…trycloudflare.com</strong>, a vložte ju do poľa zariadenia."
+  },
+  "real_simulation_tunnel_tip_logs": {
+    "message": "Množstvo riadkov <code>INF</code> okolo je normálne: sú to technické informácie, môžete ich ignorovať."
+  },
+  "real_simulation_tunnel_tip_delay": {
+    "message": "Adresa môže trvať až minútu, kým odpovie po jej vytvorení: ak zariadenie zobrazí chybu, počkajte a skúste znova."
+  },
+  "real_simulation_tunnel_tip_terminal": {
+    "message": "Nechajte terminál otvorený počas vašich testov: tunel sa zastaví, keď ho zatvoríte alebo stlačíte <code>Ctrl</code> + <code>C</code>. Nová adresa sa generuje pri každom spustení."
+  },
+  "real_simulation_tunnel_step_hosts": {
+    "message": "Ak je stránka blokovaná, povoľte adresu tunela"
+  },
+  "real_simulation_tunnel_step_hosts_note": {
+    "message": "Vývojové servery odmietajú neznáme názvy hostiteľov. S Vite pridajte do vite.config; s webpack-dev-server použite allowedHosts: 'all'."
+  },
+  "real_simulation_tunnel_free_title": {
+    "message": "Bezplatné a bez účtu."
+  },
+  "real_simulation_tunnel_free_text": {
+    "message": "Rýchle tunely Cloudflare nevyžadujú žiadnu registráciu. Adresa sa mení pri každom spustení a sú určené na testovanie, nie na produkciu."
+  },
+  "real_simulation_tunnel_docs": {
+    "message": "Dokumentácia Cloudflare"
+  },
+  "real_simulation_tunnel_done": {
+    "message": "Rozumiem"
+  },
+  "real_simulation_tunnel_copy": {
+    "message": "Kopírovať"
+  },
+  "real_simulation_session_ended": {
+    "message": "Relácia na skutočnom zariadení sa skončila po období nečinnosti."
+  },
+  "real_simulation_max_duration": {
+    "message": "Relácia na skutočnom zariadení dosiahla maximálnu dĺžku. Spustite novú, aby ste pokračovali v testovaní."
+  },
+  "real_simulation_session_revoked": {
+    "message": "Relácia na skutočnom zariadení bola prerušená, pretože bola otvorená na viacerých miestach súčasne."
+  },
+  "real_simulation_error": {
+    "message": "Skutočné zariadenie je nedostupné. Skontrolujte svoje pripojenie a skúste znova."
+  },
+  "real_simulation_disabled": {
+    "message": "Simulácia na skutočnom zariadení je dočasne deaktivovaná. Pracujeme na jej obnovení čo najskôr, skúste to prosím neskôr."
+  },
+  "real_simulation_retry": {
+    "message": "Skúsiť znova"
+  },
+  "real_simulation_title": {
+    "message": "Simulácia Live device"
+  },
+  "real_simulation_baseline": {
+    "message": "Navrhujte na simulátore, dokončujte na Live device"
+  },
+  "real_simulation_learn_more": {
+    "message": "Zistiť viac"
+  },
+  "real_simulation_os_version": {
+    "message": "Verzia $1"
+  },
+  "real_simulation_geolocation": {
+    "message": "Geolokácia"
+  },
+  "real_simulation_inactivity_timeout": {
+    "message": "Automatické vypnutie po nečinnosti"
+  },
+  "real_simulation_inactivity_ended": {
+    "message": "Relácia na skutočnom zariadení bola zastavená po $1 nečinnosti."
+  },
+  "real_simulation_location_default": {
+    "message": "Paríž"
+  },
+  "real_simulation_start": {
+    "message": "Spustiť cloudový simulátor"
+  },
+  "real_simulation_local_url": {
+    "message": "Skutočná simulácia vyžaduje webovú stránku na http(s). Nepracuje s lokálnymi súbormi."
+  },
+  "real_simulation_local_server": {
+    "message": "Táto stránka beží na lokálnom serveri: pri spustení budete vyzvaní, aby ste ju vystavili na internete cez tunel (cloudflared, ngrok…)."
+  },
+  "real_simulation_device_unavailable": {
+    "message": "Toto zariadenie nie je dostupné v skutočnej simulácii."
+  },
+  "real_simulation_device_unavailable_link": {
+    "message": "Zobraziť kompatibilné zariadenia"
+  },
+  "real_simulation_pro_only": {
+    "message": "Simulácia na skutočnom zariadení je vyhradená pre naše platené plány."
+  },
+  "real_simulation_usage": {
+    "message": "Použitie"
+  },
+  "real_simulation_usage_detail": {
+    "message": "Spotrebovali ste $1 minút z $2 minút plánu $3"
+  },
+  "real_simulation_more_minutes": {
+    "message": "Potrebujete viac minút?"
+  },
+  "real_simulation_usage_error": {
+    "message": "Nemožno načítať vašu spotrebu."
+  },
+  "real_simulation_modale_kicker": {
+    "message": "LIVE DEVICE"
+  },
+  "real_simulation_modale_live": {
+    "message": "Naživo"
+  },
+  "real_simulation_modale_h1": {
+    "message": "Navrhujte na simulátore, dokončite v reálnych podmienkach"
+  },
+  "real_simulation_modale_h2": {
+    "message": "Simulátor zostáva ideálnym nástrojom na rýchle navrhovanie a iteráciu na všetkých formátoch obrazovky.<br>Pri overovaní môže Live device prevziať vedenie s iOS alebo Android zariadením hostovaným v cloude a riadeným priamo z vašej karty."
+  },
+  "real_simulation_modale_feature_os_title": {
+    "message": "Skutočný renderovací motor."
+  },
+  "real_simulation_modale_feature_os": {
+    "message": "Natívne Safari WebKit a Chrome Android, na identifikáciu akéhokoľvek problému so zobrazením."
+  },
+  "real_simulation_modale_feature_gestures_title": {
+    "message": "Všetky funkcie skutočného mobilného OS"
+  },
+  "real_simulation_modale_feature_gestures": {
+    "message": "Natívne formulárové polia, systémová klávesnica a prispôsobená GPS poloha."
+  },
+  "real_simulation_modale_feature_devices_title": {
+    "message": "$1 zariadení pripravených za pár sekúnd."
+  },
+  "real_simulation_modale_feature_devices": {
+    "message": "Od najnovších iPhone po najrozšírenejšie Androidy."
+  },
+  "real_simulation_modale_devices_list": {
+    "message": "Zobraziť zoznam"
+  },
+  "real_simulation_devices_modale_title": {
+    "message": "Kompatibilné zariadenia"
+  },
+  "real_simulation_devices_modale_baseline": {
+    "message": "$1 zariadení zo simulátora môže byť spustených v skutočnej simulácii. Ostatné zostávajú dostupné v lokálnej simulácii."
+  },
+  "real_simulation_modale_quota": {
+    "message": "<strong>$1 minút</strong> / mesiac zahrnutých vo vašom pláne <strong>$2</strong>"
+  },
+  "real_simulation_modale_other_plans": {
+    "message": "Zobraziť ďalšie plány"
+  },
+  "real_simulation_modale_benefit_minutes": {
+    "message": "10 minút Live Device / mesiac"
+  },
+  "real_simulation_modale_benefit_minutes_rest": {
+    "message": "zahrnuté od Starter"
+  },
+  "real_simulation_modale_login_question": {
+    "message": "Už ste predplatiteľ?"
+  },
+  "real_simulation_modale_login_link": {
+    "message": "Prihlásiť sa"
+  },
+  "real_simulation_modale_benefit_pro": {
+    "message": "+ všetky PRO funkcie"
+  },
+  "real_simulation_modale_benefit_pro_rest": {
+    "message": "(zariadenia, nastavenia,..)"
+  },
+  "real_simulation_modale_see_plans": {
+    "message": "Zobraziť plány"
+  },
+  "real_simulation_modale_from": {
+    "message": "od"
+  },
+  "real_simulation_modale_per_month": {
+    "message": "/ mesiac"
+  },
+  "real_simulation_continue_tests": {
+    "message": "Pokračujte v testoch"
+  },
+  "real_simulation_trial_title": {
+    "message": "Nie je zahrnuté počas skúšobnej doby"
+  },
+  "real_simulation_trial_note": {
+    "message": "Simulácia na skutočnom zariadení nie je dostupná počas skúšobnej doby. Vaše minúty budú prístupné od začiatku vášho predplatného."
+  },
+  "real_simulation_legacy_plan_title": {
+    "message": "Prejdite na nové plány"
+  },
+  "real_simulation_legacy_plan_note": {
+    "message": "Váš starý platený plán nezahŕňa simuláciu na skutočnom zariadení. Ak chcete využiť túto funkciu, prejdite na jeden z našich nových plánov."
+  },
+  "real_simulation_legacy_plan_upgrade": {
+    "message": "Aktualizovať moje predplatné"
+  },
+  "real_simulation_quota_consumed": {
+    "message": "Spotrebovali ste dostupných $1 minút"
+  },
+  "real_simulation_quota_reset": {
+    "message": "Obnovenie limitov používania <strong>$1</strong>"
+  },
+  "real_simulation_upgrade_plan": {
+    "message": "$1 · $2 min/mesiac"
+  },
+  "real_simulation_upgrade_per_month": {
+    "message": " /mesiac"
+  },
+  "real_simulation_upgrade_renew": {
+    "message": "Minúty obnovované každý mesiac"
+  },
+  "real_simulation_upgrade_extra": {
+    "message": "$1 za minútu namiesto $2"
+  },
+  "real_simulation_upgrade_cta": {
+    "message": "Prejsť na vyšší plán"
+  },
+  "real_simulation_contact_us": {
+    "message": "Kontaktujte nás"
+  },
+  "real_simulation_contact": {
+    "message": "Kontakt"
+  },
+  "real_simulation_contact_team_admin": {
+    "message": "Kontaktujte administrátora vášho tímu pre získanie ďalších minút."
+  },
+  "real_simulation_location_change": {
+    "message": "Zmeniť polohu GPS"
+  },
+  "real_simulation_location_title": {
+    "message": "Poloha GPS"
+  },
+  "real_simulation_location_search": {
+    "message": "Adresa, mesto alebo súradnice"
+  },
+  "real_simulation_location_results": {
+    "message": "Výsledky"
+  },
+  "real_simulation_location_coordinates": {
+    "message": "Prejsť na súradnice"
+  },
+  "real_simulation_location_no_result": {
+    "message": "Nebolo nájdené žiadne miesto."
+  },
+  "real_simulation_location_search_error": {
+    "message": "Vyhľadávanie je momentálne nedostupné. Môžete umiestniť špendlík na mapu."
+  },
+  "real_simulation_location_selected": {
+    "message": "Vybraný bod"
+  },
+  "real_simulation_location_custom": {
+    "message": "Vlastná poloha"
+  },
+  "real_simulation_location_latitude": {
+    "message": "Šírka"
+  },
+  "real_simulation_location_longitude": {
+    "message": "Dĺžka"
+  },
+  "real_simulation_location_recents": {
+    "message": "Nedávne"
+  },
+  "real_simulation_location_zoom_in": {
+    "message": "Priblížiť"
+  },
+  "real_simulation_location_zoom_out": {
+    "message": "Oddialiť"
+  },
+  "real_simulation_location_recenter": {
+    "message": "Znovu zamerať na bod"
+  },
+  "real_simulation_location_hint": {
+    "message": "Kliknite alebo presuňte špendlík"
+  },
+  "real_simulation_location_cancel": {
+    "message": "Zrušiť"
+  },
+  "real_simulation_location_apply": {
+    "message": "Použiť polohu"
+  },
+  "real_simulation_or": {
+    "message": "alebo"
+  },
+  "real_simulation_buy_minutes_title": {
+    "message": "Kúpiť $1 min"
+  },
+  "real_simulation_buy_minutes_validity": {
+    "message": "Bez predplatného, platné $1 mesiacov"
+  },
+  "real_simulation_buy_minutes_unit": {
+    "message": "$1 za minútu"
+  },
+  "real_simulation_buy_minutes_card": {
+    "message": "Uložená karta: $1"
+  },
+  "real_simulation_buy_minutes_subtotal": {
+    "message": "Medzisúčet (bez DPH)"
+  },
+  "real_simulation_buy_minutes_tax": {
+    "message": "DPH ($1)"
+  },
+  "real_simulation_buy_minutes_total": {
+    "message": "Spolu (s DPH)"
+  },
+  "real_simulation_buy_minutes_pay": {
+    "message": "Zaplaťte $1"
+  },
+  "real_simulation_buy_minutes_secure": {
+    "message": "Vaša banka môže požadovať overenie platby v novom okne."
+  },
+  "real_simulation_buy_minutes_cancel": {
+    "message": "Zrušiť"
+  },
+  "real_simulation_buy_minutes_retry": {
+    "message": "Skúsiť znova"
+  },
+  "real_simulation_buy_minutes_success": {
+    "message": "$1 minút bolo pridaných na váš účet."
+  },
+  "real_simulation_buy_minutes_no_card": {
+    "message": "Na vašom účte nie je uložená žiadna platobná karta."
+  },
+  "real_simulation_buy_minutes_add_card": {
+    "message": "Pridať kartu"
+  },
+  "real_simulation_buy_minutes_not_eligible": {
+    "message": "Nákup minút je dostupný len pre aktívne predplatné."
+  },
+  "real_simulation_buy_minutes_in_progress": {
+    "message": "Platba je už vo fáze overovania. Dokončite ju alebo počkajte niekoľko minút."
+  },
+  "real_simulation_buy_minutes_processing": {
+    "message": "Vaša platba sa spracováva: minúty budú pridané po jej potvrdení."
+  },
+  "real_simulation_buy_minutes_canceled": {
+    "message": "Platba bola zrušená. Žiadna suma nebola stiahnutá."
+  },
+  "real_simulation_buy_minutes_declined": {
+    "message": "Platba bola odmietnutá vašou bankou. Žiadna suma nebola stiahnutá."
+  },
+  "real_simulation_buy_minutes_auth_failed": {
+    "message": "Overenie platby nebolo úspešné. Žiadna suma nebola stiahnutá."
+  },
+  "real_simulation_buy_minutes_error": {
+    "message": "Platbu sa nepodarilo uskutočniť. Skúste to znova o chvíľu."
+  },
+  "real_simulation_buy_minutes_close": {
+    "message": "Zatvoriť"
+  },
+  "real_simulation_buy_minutes_invoice": {
+    "message": "Zobraziť faktúru"
+  },
+  "real_simulation_buy_minutes_invoice_notice": {
+    "message": "Faktúra je vystavená pre každý nákup."
+  },
+  "real_simulation_buy_minutes_team_member": {
+    "message": "Minúty na vašom účte spravuje jeho administrátor. Kontaktujte ho pre dobitie:"
+  },
+  "real_simulation_buy_minutes_team_member_no_email": {
+    "message": "Minúty na vašom účte spravuje jeho administrátor. Kontaktujte ho pre dobitie."
+  },
+  "real_simulation_buy_minutes_currency_unavailable": {
+    "message": "Nákup minút nie je dostupný vo vašej mene. Kontaktujte nás."
+  },
+  "menu_faq_detect_simulator": {
+    "message": "Ako zistiť, že moja stránka je zobrazená v simulátore?"
+  },
+  "shortcut_real_simulation": {
+    "message": "Spustiť / zastaviť simuláciu na skutočnom zariadení"
+  },
+  "real_simulation_language": {
+    "message": "Jazyk"
+  },
+  "real_simulation_location_resolving": {
+    "message": "Identifikácia miesta…"
+  },
+  "real_simulation_buy_minutes_change_card": {
+    "message": "Zmeniť"
+  },
+  "real_simulation_buy_minutes_update_card": {
+    "message": "Zmeniť moju platobnú kartu"
+  },
+  "real_simulation_device_compatible": {
+    "message": "Kompatibilné Live Device"
+  },
+  "real_simulation_past_due_title": {
+    "message": "Čakajúca platba"
+  },
+  "real_simulation_past_due_note": {
+    "message": "Posledná platba za vaše predplatné zlyhala. Aktualizujte svoj spôsob platby, aby ste získali späť svoje minúty simulácie na skutočnom zariadení."
+  },
+  "real_simulation_past_due_team_note": {
+    "message": "Posledná platba za predplatné vášho tímu zlyhala. Vaše minúty simulácie na skutočnom zariadení sa vrátia, keď to administrátor vyrieši."
+  },
+  "real_simulation_past_due_button": {
+    "message": "Aktualizovať platbu"
+  }
+}

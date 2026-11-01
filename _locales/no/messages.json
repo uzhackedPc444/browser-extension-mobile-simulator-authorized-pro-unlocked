@@ -1,0 +1,1406 @@
+{
+  "extName": {
+    "message": "Mobiltelefon-simulator - test responsivt nettsted"
+  },
+  "extDescription": {
+    "message": "Phone Simulator — Gratis Chrome-utvidelse for å teste og forhåndsvise nettstedene dine på mer enn 80 enheter"
+  },
+  "global": {
+    "message": "--------------------------------------------------------"
+  },
+  "android_smartphone": {
+    "message": "<i class='mdi'>&#xe922;</i> Android-telefoner"
+  },
+  "apple_smartphone": {
+    "message": "<i class='mdi'>&#xeabe;</i> Apple-telefoner"
+  },
+  "tablet": {
+    "message": "<i class='mdi'>&#xe920;</i> Nettbrett"
+  },
+  "others": {
+    "message": "<i class='mdi'>&#xe921;</i> Spesielle"
+  },
+  "copied": {
+    "message": "Kopiert"
+  },
+  "error": {
+    "message": "Feil"
+  },
+  "link": {
+    "message": "Lenke"
+  },
+  "optional": {
+    "message": "Valgfritt"
+  },
+  "close": {
+    "message": "Lukk"
+  },
+  "get_pro": {
+    "message": "Få PRO-versjonen"
+  },
+  "error_contact": {
+    "message": "{Kontakt oss} hvis problemet vedvarer."
+  },
+  "more_settings": {
+    "message": "Flere innstillinger"
+  },
+  "dimensions": {
+    "message": "Dimensjoner"
+  },
+  "context_menu": {
+    "message": "--------------------------------------------------------"
+  },
+  "context_menu_activate": {
+    "message": "Aktiver mobilvisning på denne fanen"
+  },
+  "popup": {
+    "message": "--------------------------------------------------------"
+  },
+  "popup_site_incompatible": {
+    "message": "Simulatoren kan ikke aktiveres på denne native siden i nettleseren din. Prøv på en annen fane eller naviger til et nettsted og prøv igjen."
+  },
+  "popup_activate_local_files_info": {
+    "message": "Denne simulatoren kan ikke aktiveres som standard på lokale filer (file:///) men du kan aktivere alternativet manuelt i Chrome-innstillingene."
+  },
+  "popup_activate_local_files_button": {
+    "message": "Aktiver alternativet"
+  },
+  "menu": {
+    "message": "--------------------------------------------------------"
+  },
+  "menu_close_alone": {
+    "message": "Deaktiver simulatoren"
+  },
+  "menu_change_device": {
+    "message": "Bytt enhet eller sammenlign"
+  },
+  "menu_contact_devices": {
+    "message": "<i class='mdi'>&#xe900;</i> Enheten du leter etter er ikke på listen? Fortell oss!"
+  },
+  "menu_info_device": {
+    "message": "Egenskaper og mockup av denne enheten"
+  },
+  "menu_info_device_features": {
+    "message": "Egenskaper (viewport-oppløsning, etc.)"
+  },
+  "menu_info_device_mockup": {
+    "message": "Gratis mockup i transparent PNG"
+  },
+  "menu_rotate": {
+    "message": "Endre orientering"
+  },
+  "menu_zoom": {
+    "message": "Zoom inn på enheten"
+  },
+  "menu_screenshot": {
+    "message": "Ta et skjermbilde"
+  },
+  "menu_screencast": {
+    "message": "Ta opp en video av skjermen"
+  },
+  "menu_share": {
+    "message": "Del med en kollega, en venn,..."
+  },
+  "menu_send_improvement": {
+    "message": "Foreslå en forbedring"
+  },
+  "menu_send_message": {
+    "message": "Hjelpesenter"
+  },
+  "menu_faq_title": {
+    "message": "Ofte stilte spørsmål"
+  },
+  "menu_faq_media_queries": {
+    "message": "Mine media queries blir ikke tatt hensyn til"
+  },
+  "menu_faq_ignonito_mode": {
+    "message": "Hvordan aktivere simulatoren i inkognitomodus?"
+  },
+  "menu_faq_scroll": {
+    "message": "Kan ikke rulle i simulatoren"
+  },
+  "menu_faq_subscription": {
+    "message": "Hvorfor fungerer ikke abonnementet mitt?"
+  },
+  "menu_faq_shortcut": {
+    "message": "Hvordan sette opp hurtigtaster?"
+  },
+  "menu_faq_all": {
+    "message": "Se alle ofte stilte spørsmål"
+  },
+  "menu_report": {
+    "message": "Rapporter en feil"
+  },
+  "menu_settings": {
+    "message": "Konfigurasjon"
+  },
+  "menu_extensions": {
+    "message": "Oppdag våre andre Chrome-utvidelser"
+  },
+  "menu_vote_feature": {
+    "message": "Stem på funksjonene du ønsker"
+  },
+  "simulator": {
+    "message": "--------------------------------------------------------"
+  },
+  "simulator_header_info": {
+    "message": "Dette er bare et bilde. For å endre URL, bruk Chrome-feltet ovenfor."
+  },
+  "simulator_footer_info": {
+    "message": "Dette er bare et bilde. Bruk ditt eget tastatur."
+  },
+  "screencast": {
+    "message": "--------------------------------------------------------"
+  },
+  "screencast_tooltip_device": {
+    "message": "Kun videoopptak av enheten"
+  },
+  "screencast_tooltip_tab": {
+    "message": "Videoopptak av fanen med enheten"
+  },
+  "screencast_error": {
+    "message": "En feil oppstod under opptaket. {Klikk her} for en løsning."
+  },
+  "screencast_modale_title": {
+    "message": "Videoopptak"
+  },
+  "screencast_modale_texte": {
+    "message": "Du kan laste ned denne videoen i forskjellige formater eller få en delingslenke."
+  },
+  "screencast_modale_download_webm": {
+    "message": "Last ned i standardformatet WEBM (med gjennomsiktighet hvis alternativet er aktivert)"
+  },
+  "screencast_modale_download_mp4": {
+    "message": "Bedre kompatibilitet med PowerPoint, men ingen gjennomsiktighet"
+  },
+  "screencast_modale_download_gif": {
+    "message": "Kompatibel overalt, men lavere kvalitet (med gjennomsiktighet hvis alternativet er aktivert)"
+  },
+  "screencast_modale_gif_duration_limit_info": {
+    "message": "Maksimal varighet for en GIF er 60 sekunder. Utover det vil filen bli for stor."
+  },
+  "screencast_modale_copy": {
+    "message": "Kopier"
+  },
+  "screencast_modale_upload": {
+    "message": "Få en delingslenke"
+  },
+  "screencast_modale_contact": {
+    "message": "Rapporter en feil, foreslå en forbedring"
+  },
+  "screencast_start_recording": {
+    "message": "Start opptak"
+  },
+  "screencast_microphone_permission_denied": {
+    "message": "Tillatelse til mikrofon nektet."
+  },
+  "screencast_camera_permission_denied": {
+    "message": "Tillatelse til kamera nektet."
+  },
+  "screencast_error_media_stream_track_processor_or_generator": {
+    "message": "Din versjon av Chrome er for gammel for denne funksjonen. Vennligst oppdater Chrome til en versjon høyere enn 94.0"
+  },
+  "screencast_quality_info_tooltip": {
+    "message": "Videokvaliteten påvirker bitrate, fps og oppløsning av opptaket. Jo høyere kvalitet, jo større blir filen."
+  },
+  "screencast_modale_auto_stop_limit_reached": {
+    "message": "Videoopptak er begrenset til 5 minutter i gratisversjonen."
+  },
+  "screenshot": {
+    "message": "--------------------------------------------------------"
+  },
+  "screenshot_menu_1": {
+    "message": "Skjermbilde med enheten"
+  },
+  "screenshot_menu_2": {
+    "message": "Skjermbilde av kun nettstedet"
+  },
+  "screenshot_menu_3": {
+    "message": "Skjermbilde av hele siden"
+  },
+  "screenshot_menu_4": {
+    "message": "Skjermbilde av hele fanen"
+  },
+  "screenshot_button": {
+    "message": "Generer et skjermbilde"
+  },
+  "screenshot_modale_download_png": {
+    "message": "Last ned i PNG-format (ingen komprimering)"
+  },
+  "screenshot_modale_download_webp": {
+    "message": "Last ned i WEBP-format, kompatibelt nesten overalt og optimalisert komprimering (anbefalt)"
+  },
+  "screenshot_menu_stop_fullpage": {
+    "message": "Stopp før slutten av siden"
+  },
+  "screenshot_modale_title": {
+    "message": "Skjermbilde"
+  },
+  "screenshot_modale_copy": {
+    "message": "Kopier bildet til utklippstavlen"
+  },
+  "screenshot_modale_edit": {
+    "message": "Rediger skjermbildet"
+  },
+  "screenshot_modale_help": {
+    "message": "For å lagre bildet i stort format, høyreklikk på det og velg \"Kopier bilde\" eller \"Lagre\"."
+  },
+  "screenshot_editor_close": {
+    "message": "Lukk redigereren"
+  },
+  "screenshot_editor_undo": {
+    "message": "Angre siste handling"
+  },
+  "screenshot_editor_rect": {
+    "message": "Tegn en rektangel"
+  },
+  "screenshot_editor_ellipse": {
+    "message": "Tegn en sirkel"
+  },
+  "screenshot_editor_line": {
+    "message": "Tegn en linje"
+  },
+  "screenshot_editor_arrow": {
+    "message": "Tegn en pil"
+  },
+  "screenshot_editor_pen": {
+    "message": "Frihåndstegning"
+  },
+  "screenshot_editor_color": {
+    "message": "Strekfarge"
+  },
+  "screenshot_editor_stroke_width": {
+    "message": "Strekbredde"
+  },
+  "pro": {
+    "message": "--------------------------------------------------------"
+  },
+  "pro_modale_h1": {
+    "message": "Bli en PRO"
+  },
+  "pro_modale_h1_all_formats": {
+    "message": "Konverter videoopptakene dine til GIF- og MP4-formater"
+  },
+  "pro_modale_h1_devices": {
+    "message": "Simuler alle enheter"
+  },
+  "pro_modale_h1_settings": {
+    "message": "Lås opp alle innstillinger"
+  },
+  "pro_modale_h1_screencast": {
+    "message": "Lås opp alle videoopptaksinnstillinger"
+  },
+  "pro_modale_h1_ads": {
+    "message": "Fjern annonser"
+  },
+  "pro_modale_h1_image_editor": {
+    "message": "Rediger skjermbildene dine"
+  },
+  "pro_modale_h1_unlimited_screenshots": {
+    "message": "Ta ubegrensede skjermbilder"
+  },
+  "pro_modale_h2": {
+    "message": "Bli en PRO og bidra aktivt til utviklingen av denne utvidelsen ved å støtte utvikleren."
+  },
+  "pro_modale_billed_annualy": {
+    "message": "Fakturert årlig"
+  },
+  "pro_modale_savings": {
+    "message": "Spar"
+  },
+  "pro_modale_from": {
+    "message": "Fra"
+  },
+  "pro_modale_recurring_month": {
+    "message": "måned"
+  },
+  "pro_modale_button": {
+    "message": "Jeg abonnerer"
+  },
+  "pro_modale_link_1": {
+    "message": "Eller"
+  },
+  "pro_modale_link_2": {
+    "message": "jeg logger inn"
+  },
+  "pro_modale_link_3": {
+    "message": "på min abonnentkonto"
+  },
+  "pro_modale_avantage_1": {
+    "message": "Alle videoinnstillinger"
+  },
+  "pro_modale_avantage_2": {
+    "message": "Sammenligning av flere enheter"
+  },
+  "sharing": {
+    "message": "--------------------------------------------------------"
+  },
+  "sharing_h1": {
+    "message": "Er denne mobile simulatoren nyttig for deg?"
+  },
+  "sharing_h2": {
+    "message": "Del den med kolleger eller venner"
+  },
+  "sharing_txt": {
+    "message": "Simulator for å teste nettstedet ditt på mobil og nettbrett"
+  },
+  "sharing_review_1": {
+    "message": "Og hvis du har et minutt til å"
+  },
+  "sharing_review_2": {
+    "message": "legge til en anmeldelse"
+  },
+  "sharing_review_3": {
+    "message": "så er det prikken over i-en! 🙂"
+  },
+  "sharing_review_button": {
+    "message": "Jeg legger til en anmeldelse"
+  },
+  "other_extensions": {
+    "message": "--------------------------------------------------------"
+  },
+  "other_extensions_h1": {
+    "message": "Oppdag våre helt nye gratisutvidelser"
+  },
+  "other_extensions_color_picker_title": {
+    "message": "Fargevelger"
+  },
+  "other_extensions_color_picker_description": {
+    "message": "Denne utvidelsen lar deg fange hvilken som helst farge på skjermen."
+  },
+  "other_extensions_font_finder_title": {
+    "message": "Skriftfinner"
+  },
+  "other_extensions_font_finder_description": {
+    "message": "Identifiser med ett klikk hvilken skrift som brukes på hvilken som helst tekst på en nettside."
+  },
+  "other_extensions_button": {
+    "message": "Installer"
+  },
+  "review": {
+    "message": "--------------------------------------------------------"
+  },
+  "review_h1": {
+    "message": "Hvordan vil du vurdere denne utvidelsen?"
+  },
+  "review_note_store": {
+    "message": "Takk for tilbakemeldingen, ikke nøl med å legge til en vurdering på utvidelsessiden. Jeg ville satt stor pris på det 😊"
+  },
+  "review_note_feedback": {
+    "message": "Takk for tilbakemeldingen din, ikke nøl med å sende oss en melding slik at vi kan forbedre denne utvidelsen."
+  },
+  "button_feedback": {
+    "message": "Legg til en vurdering"
+  },
+  "button_message": {
+    "message": "Send oss en melding"
+  },
+  "contact": {
+    "message": "--------------------------------------------------------"
+  },
+  "contact_message_field_name": {
+    "message": "Enhetsnavn"
+  },
+  "contact_message_field_placeholder": {
+    "message": "Samsung Galaxy S24 Ultra, iPhone 17 Pro Max, etc."
+  },
+  "contact_title": {
+    "message": "Enheten du leter etter er ikke på listen? Fortell oss!"
+  },
+  "settings": {
+    "message": "--------------------------------------------------------"
+  },
+  "settings_h2_device": {
+    "message": "Enhet"
+  },
+  "settings_h2_global": {
+    "message": "Generelt"
+  },
+  "settings_hide_header_footer": {
+    "message": "Skjul enhetens nettlesergrensesnitt (adressefelt, etc.)"
+  },
+  "settings_hide_keyboard": {
+    "message": "Simuler at tastaturet vises under inntasting"
+  },
+  "settings_scrollbar_show": {
+    "message": "Vis den opprinnelige rullefeltet i enheten"
+  },
+  "settings_change_cursor": {
+    "message": "Berør rulling og vis mobilmarkør"
+  },
+  "settings_change_background": {
+    "message": "Endre bakgrunnsfarge"
+  },
+  "settings_default_device": {
+    "message": "Standard terminal ved hver aktivering"
+  },
+  "settings_change_analytics": {
+    "message": "Hjelp utvikleren med å forbedre utvidelsen ved å dele 100 % anonyme og ikke-personlige bruksdata."
+  },
+  "settings_device_hide": {
+    "message": "Vis ramme på enheten"
+  },
+  "settings_batterie_level": {
+    "message": "Batterinivå i enhetens topptekst (%)"
+  },
+  "settings_device_default_url": {
+    "message": "Endre URL-en som vises i enheten"
+  },
+  "settings_presenter_mode": {
+    "message": "Presentasjonsmodus (menyen til høyre er kun synlig ved hover)"
+  },
+  "settings_fullscreen": {
+    "message": "Nettsted i fullskjerm på enheten"
+  },
+  "settings_default_device_placeholder": {
+    "message": "Velg en enhet"
+  },
+  "settings_video_quality": {
+    "message": "Videokvalitet"
+  },
+  "settings_video_quality_low": {
+    "message": "Middels"
+  },
+  "settings_video_quality_medium": {
+    "message": "God"
+  },
+  "settings_video_quality_high": {
+    "message": "Utmerket"
+  },
+  "settings_theme": {
+    "message": "Tema"
+  },
+  "settings_theme_light": {
+    "message": "Lyst"
+  },
+  "settings_theme_dark": {
+    "message": "Mørkt"
+  },
+  "settings_theme_auto": {
+    "message": "Auto"
+  },
+  "settings_shortcuts": {
+    "message": "Definer hurtigtaster"
+  },
+  "settings_pro_account": {
+    "message": "Administrer abonnementet mitt"
+  },
+  "settings_microphone": {
+    "message": "Mikrofon"
+  },
+  "settings_camera": {
+    "message": "Kamera"
+  },
+  "settings_countdown": {
+    "message": "Nedtelling (sekunder)"
+  },
+  "settings_transparent_background": {
+    "message": "Transparent bakgrunn"
+  },
+  "settings_transparent_background_info": {
+    "message": "Dette alternativet innebærer flere beregninger og dermed en potensiell nedgang i visningen avhengig av datamaskinen din (kun kompatibel med WEBM- og GIF-formater)"
+  },
+  "screenshot_workaround": {
+    "message": "--------------------------------------------------------"
+  },
+  "screenshot_workaround_title": {
+    "message": "Løsning for skjermbilde"
+  },
+  "screenshot_workaround_context": {
+    "message": "Kontekst"
+  },
+  "screenshot_workaround_context_text": {
+    "message": "På grunn av noen tekniske begrensninger, kan det hende at du mottar denne feilmeldingen når du tar et skjermbilde."
+  },
+  "screenshot_workaround_solution": {
+    "message": "Løsning"
+  },
+  "screenshot_workaround_solution_text": {
+    "message": "I dette tilfellet, for å starte skjermbildet, høyreklikk hvor som helst på siden, velg \"Mobil simulator\", deretter \"📷 Ta et skjermbilde\""
+  },
+  "feedback": {
+    "message": "--------------------------------------------------------"
+  },
+  "feedback_title": {
+    "message": "Hjelp oss med å gjøre Mobile FIRST enda mer nyttig for deg 🚀"
+  },
+  "feedback_profession": {
+    "message": "Hva er din profesjonelle avdeling?"
+  },
+  "feedback_profession_developer": {
+    "message": "Utvikling"
+  },
+  "feedback_profession_designer": {
+    "message": "Design"
+  },
+  "feedback_profession_qa": {
+    "message": "Test / QA"
+  },
+  "feedback_profession_product": {
+    "message": "Produktledelse"
+  },
+  "feedback_profession_marketing": {
+    "message": "Markedsføring"
+  },
+  "feedback_profession_sales": {
+    "message": "Salg"
+  },
+  "feedback_profession_other": {
+    "message": "Annet"
+  },
+  "feedback_company_type": {
+    "message": "Hva er din bedriftstype?"
+  },
+  "feedback_company_type_freelance": {
+    "message": "Frilanser"
+  },
+  "feedback_company_type_micro_business": {
+    "message": "Mikrobedrift (1-9 ansatte)"
+  },
+  "feedback_company_type_agency": {
+    "message": "Liten bedrift (10-49 ansatte)"
+  },
+  "feedback_company_type_startup": {
+    "message": "Middels stor bedrift (50-249 ansatte)"
+  },
+  "feedback_company_type_pme": {
+    "message": "Stor bedrift (250-4999 ansatte)"
+  },
+  "feedback_company_type_grandeentreprise": {
+    "message": "Veldig stor bedrift / konsern (5000+ ansatte)"
+  },
+  "feedback_use_cases": {
+    "message": "Hvorfor bruker du Mobile FIRST?"
+  },
+  "feedback_useCases_placeholder": {
+    "message": "Teste nettstedet mitt, gjøre kunde-demonstrasjoner..."
+  },
+  "feedback_frequency": {
+    "message": "Hvor ofte bruker du denne utvidelsen?"
+  },
+  "feedback_frequency_quotidien": {
+    "message": "Daglig"
+  },
+  "feedback_frequency_plusieursfoisparsemaine": {
+    "message": "Flere ganger i uken"
+  },
+  "feedback_frequency_occasionnel": {
+    "message": "Av og til"
+  },
+  "feedback_frequency_rare": {
+    "message": "Sjeldent"
+  },
+  "feedback_improvements": {
+    "message": "Hvilke forbedringer vil du se?"
+  },
+  "feedback_improvements_placeholder": {
+    "message": "En idé, en friksjon, en mangel..."
+  },
+  "feedback_submit": {
+    "message": "Send"
+  },
+  "feedback_close": {
+    "message": "Ikke svar"
+  },
+  "feedback_error_required": {
+    "message": "Alle feltene er tomme 🤔"
+  },
+  "feedback_submitted": {
+    "message": "Tusen takk for tilbakemeldingen 🤗"
+  },
+  "select": {
+    "message": "Velg..."
+  },
+  "modales": {
+    "message": "--------------------------------------------------------"
+  },
+  "new_video_feature_h1": {
+    "message": "Oppdag nå den nye videoopptaksfunksjonen!"
+  },
+  "new_video_feature_h2": {
+    "message": "Ta opp med bedre kvalitet, med nye alternativer og med transparent bakgrunn"
+  },
+  "logout_modale_title": {
+    "message": "Du har blitt logget ut automatisk på denne enheten"
+  },
+  "logout_modale_message": {
+    "message": "Denne enheten er ikke lenger blant dine autoriserte enheter. Hvis du har fjernet denne tilgangen manuelt, må du logge inn på nytt."
+  },
+  "notifications": {
+    "message": "--------------------------------------------------------"
+  },
+  "notification_update_title_vwelcome": {
+    "message": "<strong class='mb-2 is-block'>Velkommen til Mobile FIRST 👋</strong>Simuler med ett klikk telefoner, nettbrett og datamaskiner for å teste og enkelt visualisere nettstedene dine.<br><br><strong>Menyen er til høyre ➡️</strong>"
+  },
+  "notification_update_title_v4_14_5": {
+    "message": "<strong class='mb-2 is-block'>Oppdatering v4.14.5</strong>Betydelig økning i <strong>oppløsning og kvalitet</strong> på skjermbilder <i class='mdi'>&#xe903;</i>"
+  },
+  "logout_modale_button": {
+    "message": "Logg inn"
+  },
+  "logout_modale_message_2": {
+    "message": "ℹ️ Ønsker du å dele abonnementet ditt? For å gi andre tilgang, legg dem til i \"Brukere\"-delen av kontoen din."
+  },
+  "logout_modale_message2": {
+    "message": "Av sikkerhetsmessige årsaker har du blitt automatisk logget ut av kontoen din. Men du kan logge inn igjen ved å klikke på knappen nedenfor."
+  },
+  "notification_update_title_v4_15_0": {
+    "message": "<strong class='mb-2 is-block'>Oppdatering v4.15.0</strong>Aktivering av <strong>touch scroll</strong> for smarttelefoner og nettbrett <i class='mdi'>&#xe905;</i>"
+  },
+  "menu_add_window": {
+    "message": "Legg til vindu"
+  },
+  "settings_sync_events": {
+    "message": "Synkroniser hendelser mellom vinduer (klikk, rulling, etc.)"
+  },
+  "pro_modale_h1_multi_devices": {
+    "message": "Sammenlign mer enn to enheter samtidig"
+  },
+  "notification_update_title_v4_15_2": {
+    "message": "<strong class='mb-2 is-block'>Oppdatering v4.15.0</strong>Aktivering av <strong>berøringsrulling</strong> for smarttelefoner og nettbrett."
+  },
+  "settings_pro_account_past_due": {
+    "message": "Fornyelsen av abonnementet ditt mislyktes. Oppdater betalingsinformasjonen din for å beholde PRO-versjonen."
+  },
+  "notification_update_title_v4_15_5": {
+    "message": "<strong class='mb-2 is-block'>Oppdatering v4.15.5</strong><ul><li>Fikset problem med helsides skjermbilder på <strong>lokale filer</strong>.</li><li>Fikset problem med vh, dhv, lvh, svh enheter på <strong>iOS&nbsp;26</strong>.</li></ul>"
+  },
+  "menu_active_devices": {
+    "message": "Enheter synlige i fanen"
+  },
+  "menu_favorites": {
+    "message": "<i class='mdi mdi-star favorites-icon is-size-6'></i> Favoritter"
+  },
+  "menu_enable_comparison_mode": {
+    "message": "Aktiver sammenligningsmodus"
+  },
+  "menu_disable_comparison_mode": {
+    "message": "Deaktiver sammenligningsmodus"
+  },
+  "menu_custom_devices": {
+    "message": "<i class='mdi'>&#xe917;</i>&nbsp;&nbsp;Mine tilpassede enheter"
+  },
+  "menu_custom_devices_banner": {
+    "message": "Legg til dine egne tilpassede enheter!"
+  },
+  "custom_device_title": {
+    "message": "Legg til en tilpasset enhet"
+  },
+  "custom_device_add": {
+    "message": "Legg til en tilpasset enhet"
+  },
+  "custom_device_name": {
+    "message": "Enhetsnavn"
+  },
+  "custom_device_ua_preset": {
+    "message": "User agent"
+  },
+  "custom_device_ua_custom": {
+    "message": "Tilpasset user agent"
+  },
+  "custom_device_ua": {
+    "message": "User agent-streng"
+  },
+  "custom_device_os_name": {
+    "message": "Operativsystem"
+  },
+  "custom_device_os_version": {
+    "message": "OS-versjon"
+  },
+  "custom_device_width": {
+    "message": "Viewport bredde (px)"
+  },
+  "custom_device_height": {
+    "message": "Viewport høyde (px)"
+  },
+  "custom_device_dpr": {
+    "message": "Device pixel ratio"
+  },
+  "custom_device_network": {
+    "message": "Nettverk"
+  },
+  "custom_device_more": {
+    "message": "Flere innstillinger"
+  },
+  "custom_device_less": {
+    "message": "Færre innstillinger"
+  },
+  "custom_device_submit": {
+    "message": "Legg til"
+  },
+  "custom_device_error_name": {
+    "message": "Enhetsnavnet er obligatorisk."
+  },
+  "custom_device_error_ua": {
+    "message": "User agent er obligatorisk."
+  },
+  "custom_device_error_os": {
+    "message": "Operativsystemet er obligatorisk."
+  },
+  "custom_device_error_viewport": {
+    "message": "Bredde og høyde på viewport må være mellom 10 og 4096."
+  },
+  "notification_update_title_v4_16_0": {
+    "message": "<strong class='mb-2 is-block'>Oppdatering v4.16.0</strong>Legg til muligheten til å lage tilpassede enheter <i class='mdi'>&#xe917;</i>"
+  },
+  "new_comparison_feature_h1": {
+    "message": "Oppdag den nye funksjonen for sammenligning av flere enheter nå!"
+  },
+  "new_comparison_feature_h2": {
+    "message": "Sammenlign samtidig visning av flere enheter i samme vindu. Rulling, klikk, tastatur synkronisert."
+  },
+  "try_it": {
+    "message": "Prøv nå"
+  },
+  "menu_close_window": {
+    "message": "Lukk dette vinduet"
+  },
+  "notification_update_title_v4_17_0": {
+    "message": "<strong class='mb-2 is-block'>Oppdatering v4.17.0</strong>Legg til funksjonen for å sammenligne flere enheter samtidig! <i class='mdi'>&#xe917;</i>"
+  },
+  "screencast_firefox_select_tab": {
+    "message": "Vennligst del det nåværende vinduet (og ikke hele skjermen) for at opptaket skal være riktig innrammet."
+  },
+  "latest_updates": {
+    "message": "Siste oppdateringer"
+  },
+  "see_more": {
+    "message": "Se mer"
+  },
+  "see_less": {
+    "message": "Se mindre"
+  },
+  "update_tag_new": {
+    "message": "NY"
+  },
+  "update_tag_feature": {
+    "message": "FUNKSJON"
+  },
+  "update_tag_improvement": {
+    "message": "FORBEDRING"
+  },
+  "update_tag_fix": {
+    "message": "RETTELSE"
+  },
+  "update_4_19_0_title": {
+    "message": "6 nye Android-enheter"
+  },
+  "update_4_19_0_description": {
+    "message": "3 modeller av Google Pixel 10, Motorola Razr 70 Ultra, Infinix Hot 70 og Samsung Galaxy A17."
+  },
+  "update_4_17_0_title": {
+    "message": "Enhetssammenligning"
+  },
+  "update_4_17_0_description": {
+    "message": "Sammenlign flere enheter side om side samtidig. Klikk, rulling og tastatur er synkronisert."
+  },
+  "update_4_16_0_title": {
+    "message": "Tilpassede enheter"
+  },
+  "update_4_16_0_description": {
+    "message": "Du kan nå legge til dine egne enheter med spesifikke dimensjoner."
+  },
+  "update_4_15_5_title": {
+    "message": "Rettelser"
+  },
+  "update_4_15_5_description": {
+    "message": "Skjermbilder av hele siden på lokale filer og rettelser av visningsenheter på iOS 26 (vh, dhv, lvh, svh)."
+  },
+  "update_4_15_0_title": {
+    "message": "Berøringsrulling"
+  },
+  "update_4_15_0_description": {
+    "message": "Aktivering av berøringsrulling på smarttelefoner og nettbrett."
+  },
+  "update_4_14_5_title": {
+    "message": "Skarpere skjermbilder"
+  },
+  "update_4_14_5_description": {
+    "message": "Betydelig forbedring av oppløsning og kvalitet på skjermbilder."
+  },
+  "pro_modale_toggle_annual": {
+    "message": "Årlig"
+  },
+  "pro_modale_toggle_monthly": {
+    "message": "Månedlig"
+  },
+  "pro_modale_trial_after_days": {
+    "message": "etter din 7-dagers gratis prøveperiode"
+  },
+  "pro_modale_trial_button": {
+    "message": "Start min 7-dagers gratis prøveperiode"
+  },
+  "pro_modale_trial_h1": {
+    "message": "Prøv PRO-versjonen gratis i 7 dager"
+  },
+  "pro_modale_trial_note": {
+    "message": "Ingenting å betale i dag · Ingen binding, kan kanselleres når som helst"
+  },
+  "pro_modale_trial_then": {
+    "message": "deretter"
+  },
+  "pro_modale_trial_today": {
+    "message": "i dag"
+  },
+  "settings_pwa_auto_detect": {
+    "message": "Oppdag og vis automatisk PWA-er som mobilapplikasjon."
+  },
+  "settings_title": {
+    "message": "Innstillinger"
+  },
+  "settings_nav_device": {
+    "message": "Enhet"
+  },
+  "settings_nav_appearance": {
+    "message": "Utseende"
+  },
+  "settings_nav_account": {
+    "message": "Konto"
+  },
+  "settings_os_display": {
+    "message": "OS-visning"
+  },
+  "settings_os_display_full_desc": {
+    "message": "Viser OS-statuslinjen og nettleseren (adressefeltet)."
+  },
+  "settings_os_display_no_browser_desc": {
+    "message": "Skjuler nettleseren, men beholder OS-statuslinjen."
+  },
+  "settings_os_display_no_os_desc": {
+    "message": "Skjuler OS-statuslinjen og nettleseren."
+  },
+  "settings_h2_display": {
+    "message": "Global visning"
+  },
+  "settings_h2_customization": {
+    "message": "Tilpasning"
+  },
+  "settings_h2_multiwindow": {
+    "message": "Flervindu-modus"
+  },
+  "settings_h2_pwa": {
+    "message": "PWA"
+  },
+  "settings_account_cta_title": {
+    "message": "Få tilgang til kontoen din"
+  },
+  "settings_account_cta_subtitle": {
+    "message": "Registrer deg for å låse opp PRO-versjonen, eller logg inn hvis du allerede har en konto."
+  },
+  "settings_signup_button": {
+    "message": "Registrer deg"
+  },
+  "settings_login_button": {
+    "message": "Logg inn"
+  },
+  "settings_subscribe": {
+    "message": "Lås opp PRO-versjonen"
+  },
+  "settings_subscribe_button": {
+    "message": "Abonner"
+  },
+  "settings_pro_account_cancel_at_period_end": {
+    "message": "Abonnementet ditt vil avsluttes den"
+  },
+  "settings_pro_account_reactivate": {
+    "message": "Reaktiver abonnementet mitt"
+  },
+  "settings_account_greeting": {
+    "message": "Hei $1,"
+  },
+  "simulator_framing_blocked": {
+    "message": "$1 tillater ikke visning av sidene sine inne i en annen side: nettstedet kan ikke simuleres på Firefox."
+  },
+  "settings_device_forced_time": {
+    "message": "Tving klokken vist på enheten"
+  },
+  "settings_device_forced_time_reset": {
+    "message": "Gå tilbake til gjeldende tid"
+  },
+  "device_variant_folded": {
+    "message": "Brettet"
+  },
+  "device_variant_unfolded": {
+    "message": "Ubrettet"
+  },
+  "update_4_21_0_title": {
+    "message": "4 nye iPhones"
+  },
+  "update_4_21_0_description": {
+    "message": "iPhone 18 Pro, iPhone 18 Pro Max og den sammenleggbare iPhone Duo, i både brettet og utbrettet versjon."
+  },
+  "update_4_22_0_title": {
+    "message": "Oppdag Live device"
+  },
+  "update_4_22_0_description": {
+    "message": "Kjør nettstedet ditt på en iOS- eller Android-enhet som er vert i skyen og styrt direkte fra fanen din."
+  },
+  "device_mockup_blocked_title": {
+    "message": "Enhetsmockup utilgjengelig"
+  },
+  "device_mockup_blocked": {
+    "message": "Enhetsvisningen kunne ikke lastes. Dette kan skyldes en annonseblokker eller sikkerhetspolitikken til din bedrift. Simulatoren er fortsatt fullt brukbar, bare mockupen vises ikke."
+  },
+  "pro_modale_h1_real_simulation": {
+    "message": "Test nettstedet ditt på en ekte enhet, fra skyen"
+  },
+  "settings_nav_cloud_devices": {
+    "message": "Live device"
+  },
+  "settings_display_real_simulation_info": {
+    "message": "Tilpasningsinnstillingene for visning er ikke aktive under en Live device-økt."
+  },
+  "menu_real_simulation_on": {
+    "message": "Start på en ekte enhet"
+  },
+  "menu_real_simulation_off": {
+    "message": "Gå tilbake til lokal simulering"
+  },
+  "real_simulation_starting": {
+    "message": "Kobler til en ekte enhet…"
+  },
+  "real_simulation_remaining": {
+    "message": "$1 min gjenstår denne måneden"
+  },
+  "real_simulation_quota_exceeded": {
+    "message": "Du har brukt opp alle minuttene dine på ekte enhet for denne måneden. Lokal simulering er fortsatt tilgjengelig."
+  },
+  "real_simulation_login_required": {
+    "message": "Logg inn på din Mobile FIRST-konto for å starte nettstedet ditt på en ekte enhet."
+  },
+  "real_simulation_local_title": {
+    "message": "Dette nettstedet kjører på en lokal server, som den ekte enheten ikke kan nå."
+  },
+  "real_simulation_local_text": {
+    "message": "Eksponer det med en tunnel, for eksempel med kommandoen nedenfor, og lim deretter inn den oppnådde offentlige adressen."
+  },
+  "real_simulation_local_placeholder": {
+    "message": "https://eksempel.trycloudflare.com"
+  },
+  "real_simulation_local_invalid": {
+    "message": "Skriv inn en offentlig adresse, ikke en lokal adresse."
+  },
+  "real_simulation_local_start": {
+    "message": "Start via denne tunnelen"
+  },
+  "real_simulation_local_help": {
+    "message": "Hvordan lage en tunnel?"
+  },
+  "real_simulation_tunnel_modale_title": {
+    "message": "Test et lokalt nettsted på en ekte enhet"
+  },
+  "real_simulation_tunnel_modale_baseline": {
+    "message": "Den ekte enheten kjører i skyen: den kan ikke se maskinen din. En tunnel gir din lokale server en midlertidig offentlig adresse, i løpet av testene dine."
+  },
+  "real_simulation_tunnel_step_install": {
+    "message": "Installer cloudflared"
+  },
+  "real_simulation_tunnel_linux_note": {
+    "message": "Kommando for Debian / Ubuntu (x86_64). Andre distribusjoner:"
+  },
+  "real_simulation_tunnel_downloads": {
+    "message": "nedlastinger"
+  },
+  "real_simulation_tunnel_step_run": {
+    "message": "Kjør tunnelen til din lokale server"
+  },
+  "real_simulation_tunnel_step_paste": {
+    "message": "Kopier tunneladressen i terminalen"
+  },
+  "real_simulation_tunnel_step_paste_note": {
+    "message": "Etter noen sekunder vises en boks «<em>Your quick Tunnel has been created!</em>». Kopier adressen den inneholder, i <strong>https://…trycloudflare.com</strong>, og lim den inn i enhetens felt."
+  },
+  "real_simulation_tunnel_tip_logs": {
+    "message": "De mange <code>INF</code>-linjene rundt er normale: de er teknisk informasjon, du kan ignorere dem."
+  },
+  "real_simulation_tunnel_tip_delay": {
+    "message": "Adressen kan ta opptil ett minutt å svare etter opprettelsen: hvis enheten viser en feil, vent og prøv igjen."
+  },
+  "real_simulation_tunnel_tip_terminal": {
+    "message": "La terminalen være åpen under testene dine: tunnelen stopper når du lukker den eller trykker på <code>Ctrl</code> + <code>C</code>. En ny adresse genereres ved hver oppstart."
+  },
+  "real_simulation_tunnel_step_hosts": {
+    "message": "Hvis siden er blokkert, tillat tunneladressen"
+  },
+  "real_simulation_tunnel_step_hosts_note": {
+    "message": "Utviklingsservere nekter ukjente vertsnavn. Med Vite, legg til i vite.config; med webpack-dev-server, bruk allowedHosts: 'all'."
+  },
+  "real_simulation_tunnel_free_title": {
+    "message": "Gratis og uten konto."
+  },
+  "real_simulation_tunnel_free_text": {
+    "message": "Cloudflares Quick Tunnels krever ingen registrering. Adressen endres ved hver oppstart og er kun for testing, ikke for produksjon."
+  },
+  "real_simulation_tunnel_docs": {
+    "message": "Cloudflare-dokumentasjon"
+  },
+  "real_simulation_tunnel_done": {
+    "message": "Jeg har forstått"
+  },
+  "real_simulation_tunnel_copy": {
+    "message": "Kopier"
+  },
+  "real_simulation_session_ended": {
+    "message": "Økten på ekte enhet ble avsluttet etter en periode med inaktivitet."
+  },
+  "real_simulation_max_duration": {
+    "message": "Økten på ekte enhet har nådd maksimal varighet. Start en ny for å fortsette testene dine."
+  },
+  "real_simulation_session_revoked": {
+    "message": "Økten på ekte enhet ble avbrutt fordi den var åpen flere steder samtidig."
+  },
+  "real_simulation_error": {
+    "message": "Den ekte enheten er utilgjengelig. Sjekk tilkoblingen din og prøv igjen."
+  },
+  "real_simulation_disabled": {
+    "message": "Simuleringen på ekte enhet er midlertidig deaktivert. Vi jobber med å gjenopprette den så snart som mulig, vennligst prøv igjen senere."
+  },
+  "real_simulation_retry": {
+    "message": "Prøv igjen"
+  },
+  "real_simulation_title": {
+    "message": "Live device-simulering"
+  },
+  "real_simulation_baseline": {
+    "message": "Design på simulatoren, fullfør på en Live device"
+  },
+  "real_simulation_learn_more": {
+    "message": "Lær mer"
+  },
+  "real_simulation_os_version": {
+    "message": "Versjon $1"
+  },
+  "real_simulation_geolocation": {
+    "message": "Geolokasjon"
+  },
+  "real_simulation_inactivity_timeout": {
+    "message": "Automatisk avslutning etter inaktivitet"
+  },
+  "real_simulation_inactivity_ended": {
+    "message": "Økten på ekte enhet ble avsluttet etter $1 med inaktivitet."
+  },
+  "real_simulation_location_default": {
+    "message": "Paris"
+  },
+  "real_simulation_start": {
+    "message": "Start sky-simulatoren"
+  },
+  "real_simulation_local_url": {
+    "message": "Ekte simulering krever en nettside på http(s). Den fungerer ikke på lokale filer."
+  },
+  "real_simulation_local_server": {
+    "message": "Dette nettstedet kjører på en lokal server: ved oppstart vil du bli bedt om å eksponere det på Internett via en tunnel (cloudflared, ngrok…)."
+  },
+  "real_simulation_device_unavailable": {
+    "message": "Denne enheten er ikke tilgjengelig i ekte simulering."
+  },
+  "real_simulation_device_unavailable_link": {
+    "message": "Se kompatible enheter"
+  },
+  "real_simulation_pro_only": {
+    "message": "Simulering på ekte enhet er reservert for våre betalte planer."
+  },
+  "real_simulation_usage": {
+    "message": "Bruk"
+  },
+  "real_simulation_usage_detail": {
+    "message": "Du har brukt $1 minutter av $2 minutter i plan $3"
+  },
+  "real_simulation_more_minutes": {
+    "message": "Trenger du flere minutter?"
+  },
+  "real_simulation_usage_error": {
+    "message": "Kan ikke hente forbruket ditt."
+  },
+  "real_simulation_modale_kicker": {
+    "message": "LIVE DEVICE"
+  },
+  "real_simulation_modale_live": {
+    "message": "Direkte"
+  },
+  "real_simulation_modale_h1": {
+    "message": "Design på simulatoren, fullfør under reelle forhold"
+  },
+  "real_simulation_modale_h2": {
+    "message": "Simulatoren er fortsatt det ideelle verktøyet for å designe og iterere raskt på alle skjermformater.<br>Når det er på tide å validere, kan Live device ta over med en iOS- eller Android-enhet som er vert i skyen og kontrollert direkte fra fanen din."
+  },
+  "real_simulation_modale_feature_os_title": {
+    "message": "Den ekte gjengivelsesmotoren."
+  },
+  "real_simulation_modale_feature_os": {
+    "message": "Safari WebKit og Chrome Android native, for å identifisere selv de minste visningsproblemene."
+  },
+  "real_simulation_modale_feature_gestures_title": {
+    "message": "Alle funksjonene til et ekte mobil-OS"
+  },
+  "real_simulation_modale_feature_gestures": {
+    "message": "Native skjemafelt, systemtastatur og tilpasset GPS-posisjon."
+  },
+  "real_simulation_modale_feature_devices_title": {
+    "message": "$1 enheter klare på få sekunder."
+  },
+  "real_simulation_modale_feature_devices": {
+    "message": "Fra de nyeste iPhone til de mest utbredte Android."
+  },
+  "real_simulation_modale_devices_list": {
+    "message": "Se listen"
+  },
+  "real_simulation_devices_modale_title": {
+    "message": "Kompatible enheter"
+  },
+  "real_simulation_devices_modale_baseline": {
+    "message": "$1 enheter fra simulatoren kan startes i ekte simulering. De andre forblir tilgjengelige i lokal simulering."
+  },
+  "real_simulation_modale_quota": {
+    "message": "<strong>$1 minutter</strong> / måned inkludert i din plan <strong>$2</strong>"
+  },
+  "real_simulation_modale_other_plans": {
+    "message": "Se andre planer"
+  },
+  "real_simulation_modale_benefit_minutes": {
+    "message": "10 minutter Live Device / måned"
+  },
+  "real_simulation_modale_benefit_minutes_rest": {
+    "message": "inkludert fra Starter"
+  },
+  "real_simulation_modale_login_question": {
+    "message": "Allerede abonnent?"
+  },
+  "real_simulation_modale_login_link": {
+    "message": "Logg inn"
+  },
+  "real_simulation_modale_benefit_pro": {
+    "message": "+ alle PRO-funksjoner"
+  },
+  "real_simulation_modale_benefit_pro_rest": {
+    "message": "(enheter, innstillinger,..)"
+  },
+  "real_simulation_modale_see_plans": {
+    "message": "Se planene"
+  },
+  "real_simulation_modale_from": {
+    "message": "fra"
+  },
+  "real_simulation_modale_per_month": {
+    "message": "/ måned"
+  },
+  "real_simulation_continue_tests": {
+    "message": "Fortsett testene dine"
+  },
+  "real_simulation_trial_title": {
+    "message": "Ikke inkludert under prøveperioden"
+  },
+  "real_simulation_trial_note": {
+    "message": "Simulering på ekte enhet er ikke tilgjengelig i prøveperioden. Dine minutter vil være tilgjengelige fra starten av abonnementet ditt."
+  },
+  "real_simulation_legacy_plan_title": {
+    "message": "Oppgrader til nye planer"
+  },
+  "real_simulation_legacy_plan_note": {
+    "message": "Din gamle betalte plan inkluderer ikke simulering på ekte enhet. For å dra nytte av denne funksjonen, oppgrader til en av våre nye planer."
+  },
+  "real_simulation_legacy_plan_upgrade": {
+    "message": "Oppgrader abonnementet mitt"
+  },
+  "real_simulation_quota_consumed": {
+    "message": "Du har brukt de $1 tilgjengelige minuttene"
+  },
+  "real_simulation_quota_reset": {
+    "message": "Bruksgrensene tilbakestilles den <strong>$1</strong>"
+  },
+  "real_simulation_upgrade_plan": {
+    "message": "$1 · $2 min/måned"
+  },
+  "real_simulation_upgrade_per_month": {
+    "message": " /måned"
+  },
+  "real_simulation_upgrade_renew": {
+    "message": "Minutter fornyes hver måned"
+  },
+  "real_simulation_upgrade_extra": {
+    "message": "$1 per minutt i stedet for $2"
+  },
+  "real_simulation_upgrade_cta": {
+    "message": "Oppgrader planen"
+  },
+  "real_simulation_contact_us": {
+    "message": "Kontakt oss"
+  },
+  "real_simulation_contact": {
+    "message": "Kontakt"
+  },
+  "real_simulation_contact_team_admin": {
+    "message": "Kontakt teamadministratoren din for å få flere minutter."
+  },
+  "real_simulation_location_change": {
+    "message": "Endre GPS-posisjon"
+  },
+  "real_simulation_location_title": {
+    "message": "GPS-plassering"
+  },
+  "real_simulation_location_search": {
+    "message": "Adresse, by eller koordinater"
+  },
+  "real_simulation_location_results": {
+    "message": "Resultater"
+  },
+  "real_simulation_location_coordinates": {
+    "message": "Gå til koordinater"
+  },
+  "real_simulation_location_no_result": {
+    "message": "Ingen steder funnet."
+  },
+  "real_simulation_location_search_error": {
+    "message": "Søk er for øyeblikket utilgjengelig. Du kan plassere pinnen på kartet."
+  },
+  "real_simulation_location_selected": {
+    "message": "Valgt punkt"
+  },
+  "real_simulation_location_custom": {
+    "message": "Tilpasset posisjon"
+  },
+  "real_simulation_location_latitude": {
+    "message": "Breddegrad"
+  },
+  "real_simulation_location_longitude": {
+    "message": "Lengdegrad"
+  },
+  "real_simulation_location_recents": {
+    "message": "Nylige"
+  },
+  "real_simulation_location_zoom_in": {
+    "message": "Zoom inn"
+  },
+  "real_simulation_location_zoom_out": {
+    "message": "Zoom ut"
+  },
+  "real_simulation_location_recenter": {
+    "message": "Sentrer på punktet"
+  },
+  "real_simulation_location_hint": {
+    "message": "Klikk eller dra pinnen"
+  },
+  "real_simulation_location_cancel": {
+    "message": "Avbryt"
+  },
+  "real_simulation_location_apply": {
+    "message": "Bruk posisjon"
+  },
+  "real_simulation_or": {
+    "message": "eller"
+  },
+  "real_simulation_buy_minutes_title": {
+    "message": "Kjøp $1 min"
+  },
+  "real_simulation_buy_minutes_validity": {
+    "message": "Uten abonnement, gyldig i $1 måneder"
+  },
+  "real_simulation_buy_minutes_unit": {
+    "message": "$1 per minutt"
+  },
+  "real_simulation_buy_minutes_card": {
+    "message": "Lagret kort: $1"
+  },
+  "real_simulation_buy_minutes_subtotal": {
+    "message": "Delsum (ekskl. mva)"
+  },
+  "real_simulation_buy_minutes_tax": {
+    "message": "MVA ($1)"
+  },
+  "real_simulation_buy_minutes_total": {
+    "message": "Totalt (inkl. mva)"
+  },
+  "real_simulation_buy_minutes_pay": {
+    "message": "Betal $1"
+  },
+  "real_simulation_buy_minutes_secure": {
+    "message": "Banken din kan be deg bekrefte betalingen i en ny fane."
+  },
+  "real_simulation_buy_minutes_cancel": {
+    "message": "Avbryt"
+  },
+  "real_simulation_buy_minutes_retry": {
+    "message": "Prøv igjen"
+  },
+  "real_simulation_buy_minutes_success": {
+    "message": "$1 minutter har blitt lagt til kontoen din."
+  },
+  "real_simulation_buy_minutes_no_card": {
+    "message": "Ingen betalingskort er lagret på kontoen din."
+  },
+  "real_simulation_buy_minutes_add_card": {
+    "message": "Legg til et kort"
+  },
+  "real_simulation_buy_minutes_not_eligible": {
+    "message": "Kjøp av minutter er kun tilgjengelig for aktive abonnementer."
+  },
+  "real_simulation_buy_minutes_in_progress": {
+    "message": "En betaling er allerede under behandling. Fullfør den eller vent noen minutter."
+  },
+  "real_simulation_buy_minutes_processing": {
+    "message": "Betalingen din behandles: minuttene vil bli lagt til når den er bekreftet."
+  },
+  "real_simulation_buy_minutes_canceled": {
+    "message": "Betaling avbrutt. Ingen beløp er trukket."
+  },
+  "real_simulation_buy_minutes_declined": {
+    "message": "Betalingen ble avvist av banken din. Ingen beløp er trukket."
+  },
+  "real_simulation_buy_minutes_auth_failed": {
+    "message": "Betalingsbekreftelsen mislyktes. Ingen beløp er trukket."
+  },
+  "real_simulation_buy_minutes_error": {
+    "message": "Betalingen kunne ikke gjennomføres. Prøv igjen om et øyeblikk."
+  },
+  "real_simulation_buy_minutes_close": {
+    "message": "Lukk"
+  },
+  "real_simulation_buy_minutes_invoice": {
+    "message": "Se faktura"
+  },
+  "real_simulation_buy_minutes_invoice_notice": {
+    "message": "En faktura utstedes for hvert kjøp."
+  },
+  "real_simulation_buy_minutes_team_member": {
+    "message": "Minuttene på kontoen din administreres av administratoren. Kontakt dem for å fylle på:"
+  },
+  "real_simulation_buy_minutes_team_member_no_email": {
+    "message": "Minuttene på kontoen din administreres av administratoren. Kontakt dem for å fylle på."
+  },
+  "real_simulation_buy_minutes_currency_unavailable": {
+    "message": "Kjøp av minutter er ikke tilgjengelig i kontovalutaen din. Kontakt oss."
+  },
+  "menu_faq_detect_simulator": {
+    "message": "Hvordan oppdage at nettstedet mitt vises i simulatoren?"
+  },
+  "shortcut_real_simulation": {
+    "message": "Start / stopp simulering på en ekte enhet"
+  },
+  "real_simulation_language": {
+    "message": "Språk"
+  },
+  "real_simulation_location_resolving": {
+    "message": "Identifiserer sted…"
+  },
+  "real_simulation_buy_minutes_change_card": {
+    "message": "Endre"
+  },
+  "real_simulation_buy_minutes_update_card": {
+    "message": "Endre betalingskortet mitt"
+  },
+  "real_simulation_device_compatible": {
+    "message": "Kompatibel Live Device"
+  },
+  "real_simulation_past_due_title": {
+    "message": "Betaling venter"
+  },
+  "real_simulation_past_due_note": {
+    "message": "Den siste betalingen for abonnementet ditt mislyktes. Oppdater betalingsmåten din for å gjenopprette simuleringsminuttene dine på ekte enhet."
+  },
+  "real_simulation_past_due_team_note": {
+    "message": "Den siste betalingen for teamabonnementet ditt mislyktes. Simuleringsminuttene dine på ekte enhet vil bli gjenopprettet så snart administratoren har ordnet det."
+  },
+  "real_simulation_past_due_button": {
+    "message": "Oppdater betaling"
+  }
+}

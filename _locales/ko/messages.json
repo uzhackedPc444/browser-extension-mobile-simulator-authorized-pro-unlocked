@@ -1,0 +1,1406 @@
+{
+  "extName": {
+    "message": "모바일 전화 시뮬레이터 - 반응형 사이트 테스트"
+  },
+  "extDescription": {
+    "message": "Phone Simulator — 80개 이상의 기기에서 사이트를 테스트하고 미리 볼 수 있는 무료 Chrome 확장 프로그램"
+  },
+  "global": {
+    "message": "--------------------------------------------------------"
+  },
+  "android_smartphone": {
+    "message": "<i class='mdi'>&#xe922;</i> 안드로이드 전화"
+  },
+  "apple_smartphone": {
+    "message": "<i class='mdi'>&#xeabe;</i> 애플 전화"
+  },
+  "tablet": {
+    "message": "<i class='mdi'>&#xe920;</i> 태블릿"
+  },
+  "others": {
+    "message": "<i class='mdi'>&#xe921;</i> 특수"
+  },
+  "copied": {
+    "message": "복사됨"
+  },
+  "error": {
+    "message": "오류"
+  },
+  "link": {
+    "message": "링크"
+  },
+  "optional": {
+    "message": "선택 사항"
+  },
+  "close": {
+    "message": "닫기"
+  },
+  "get_pro": {
+    "message": "PRO 버전 얻기"
+  },
+  "error_contact": {
+    "message": "문제가 지속되면 {문의해 주세요}."
+  },
+  "more_settings": {
+    "message": "더 많은 설정"
+  },
+  "dimensions": {
+    "message": "치수"
+  },
+  "context_menu": {
+    "message": "--------------------------------------------------------"
+  },
+  "context_menu_activate": {
+    "message": "이 탭에서 모바일 보기 활성화"
+  },
+  "popup": {
+    "message": "--------------------------------------------------------"
+  },
+  "popup_site_incompatible": {
+    "message": "이 브라우저의 네이티브 페이지에서는 시뮬레이터를 활성화할 수 없습니다. 다른 탭에서 시도하거나 사이트를 탐색한 후 다시 시도하세요."
+  },
+  "popup_activate_local_files_info": {
+    "message": "이 시뮬레이터는 기본적으로 로컬 파일(file:///)에서 활성화할 수 없지만 Chrome 설정에서 수동으로 옵션을 활성화할 수 있습니다."
+  },
+  "popup_activate_local_files_button": {
+    "message": "옵션 활성화"
+  },
+  "menu": {
+    "message": "--------------------------------------------------------"
+  },
+  "menu_close_alone": {
+    "message": "시뮬레이터 비활성화"
+  },
+  "menu_change_device": {
+    "message": "기기 변경 또는 비교"
+  },
+  "menu_contact_devices": {
+    "message": "<i class='mdi'>&#xe900;</i> 찾고 있는 기기가 목록에 없나요? 알려주세요!"
+  },
+  "menu_info_device": {
+    "message": "이 기기의 사양 및 목업"
+  },
+  "menu_info_device_features": {
+    "message": "특성 (뷰포트 해상도 등)"
+  },
+  "menu_info_device_mockup": {
+    "message": "투명 PNG 무료 목업"
+  },
+  "menu_rotate": {
+    "message": "방향 변경"
+  },
+  "menu_zoom": {
+    "message": "기기 확대"
+  },
+  "menu_screenshot": {
+    "message": "스크린샷 찍기"
+  },
+  "menu_screencast": {
+    "message": "화면 비디오 녹화"
+  },
+  "menu_share": {
+    "message": "동료나 친구와 공유하기"
+  },
+  "menu_send_improvement": {
+    "message": "개선 제안하기"
+  },
+  "menu_send_message": {
+    "message": "도움말 센터"
+  },
+  "menu_faq_title": {
+    "message": "자주 묻는 질문"
+  },
+  "menu_faq_media_queries": {
+    "message": "미디어 쿼리가 적용되지 않습니다"
+  },
+  "menu_faq_ignonito_mode": {
+    "message": "비공개 모드에서 시뮬레이터를 활성화하는 방법은?"
+  },
+  "menu_faq_scroll": {
+    "message": "시뮬레이터에서 스크롤할 수 없습니다"
+  },
+  "menu_faq_subscription": {
+    "message": "내 구독이 작동하지 않는 이유는?"
+  },
+  "menu_faq_shortcut": {
+    "message": "키보드 단축키를 설정하는 방법은?"
+  },
+  "menu_faq_all": {
+    "message": "모든 자주 묻는 질문 보기"
+  },
+  "menu_report": {
+    "message": "버그 신고"
+  },
+  "menu_settings": {
+    "message": "설정"
+  },
+  "menu_extensions": {
+    "message": "다른 Chrome 확장 프로그램을 확인하세요"
+  },
+  "menu_vote_feature": {
+    "message": "원하는 기능에 투표하세요"
+  },
+  "simulator": {
+    "message": "--------------------------------------------------------"
+  },
+  "simulator_header_info": {
+    "message": "이것은 단지 이미지입니다. URL을 변경하려면 위의 Chrome 필드를 사용하세요."
+  },
+  "simulator_footer_info": {
+    "message": "이것은 단지 이미지입니다. 자신의 키보드를 사용하세요."
+  },
+  "screencast": {
+    "message": "--------------------------------------------------------"
+  },
+  "screencast_tooltip_device": {
+    "message": "기기만 비디오 캡처"
+  },
+  "screencast_tooltip_tab": {
+    "message": "기기와 함께 탭 비디오 캡처"
+  },
+  "screencast_error": {
+    "message": "녹화 중 오류가 발생했습니다. 해결 방법은 {여기를 클릭}하세요."
+  },
+  "screencast_modale_title": {
+    "message": "비디오 캡처"
+  },
+  "screencast_modale_texte": {
+    "message": "다양한 형식으로 이 비디오를 다운로드하거나 공유 링크를 얻을 수 있습니다."
+  },
+  "screencast_modale_download_webm": {
+    "message": "기본 WEBM 형식으로 다운로드 (옵션 활성화 시 투명도 포함)"
+  },
+  "screencast_modale_download_mp4": {
+    "message": "PowerPoint와의 더 나은 호환성, 투명도 없음"
+  },
+  "screencast_modale_download_gif": {
+    "message": "어디서나 호환 가능하지만 품질이 낮음 (옵션 활성화 시 투명도 포함)"
+  },
+  "screencast_modale_gif_duration_limit_info": {
+    "message": "GIF의 최대 길이는 60초입니다. 그 이상은 파일이 너무 커질 것입니다."
+  },
+  "screencast_modale_copy": {
+    "message": "복사"
+  },
+  "screencast_modale_upload": {
+    "message": "공유 링크 얻기"
+  },
+  "screencast_modale_contact": {
+    "message": "버그 신고, 개선 제안"
+  },
+  "screencast_start_recording": {
+    "message": "녹화 시작"
+  },
+  "screencast_microphone_permission_denied": {
+    "message": "마이크 접근 권한이 거부되었습니다."
+  },
+  "screencast_camera_permission_denied": {
+    "message": "카메라 접근 권한이 거부되었습니다."
+  },
+  "screencast_error_media_stream_track_processor_or_generator": {
+    "message": "Chrome 버전이 이 기능을 지원하기에 너무 오래되었습니다. Chrome을 94.0 이상으로 업데이트하세요."
+  },
+  "screencast_quality_info_tooltip": {
+    "message": "비디오 품질은 비트레이트, fps 및 녹화 해상도에 영향을 미칩니다. 품질이 높을수록 파일 크기가 커집니다."
+  },
+  "screencast_modale_auto_stop_limit_reached": {
+    "message": "무료 버전에서는 비디오 녹화가 5분으로 제한됩니다."
+  },
+  "screenshot": {
+    "message": "--------------------------------------------------------"
+  },
+  "screenshot_menu_1": {
+    "message": "기기와 함께 캡처"
+  },
+  "screenshot_menu_2": {
+    "message": "사이트만 캡처"
+  },
+  "screenshot_menu_3": {
+    "message": "전체 페이지 캡처"
+  },
+  "screenshot_menu_4": {
+    "message": "전체 탭 캡처"
+  },
+  "screenshot_button": {
+    "message": "캡처 생성"
+  },
+  "screenshot_modale_download_png": {
+    "message": "PNG 형식으로 다운로드 (압축 없음)"
+  },
+  "screenshot_modale_download_webp": {
+    "message": "거의 모든 곳에서 호환 가능하고 최적화된 압축을 제공하는 WEBP 형식으로 다운로드 (추천)"
+  },
+  "screenshot_menu_stop_fullpage": {
+    "message": "페이지 끝 전에 중지"
+  },
+  "screenshot_modale_title": {
+    "message": "스크린샷"
+  },
+  "screenshot_modale_copy": {
+    "message": "클립보드에 이미지 복사"
+  },
+  "screenshot_modale_edit": {
+    "message": "캡처 편집"
+  },
+  "screenshot_modale_help": {
+    "message": "이미지를 큰 형식으로 저장하려면 이미지 위에서 마우스 오른쪽 버튼을 클릭한 후 \"이미지 복사\" 또는 \"저장\"을 선택하세요."
+  },
+  "screenshot_editor_close": {
+    "message": "편집기 닫기"
+  },
+  "screenshot_editor_undo": {
+    "message": "마지막 작업 취소"
+  },
+  "screenshot_editor_rect": {
+    "message": "사각형 그리기"
+  },
+  "screenshot_editor_ellipse": {
+    "message": "원 그리기"
+  },
+  "screenshot_editor_line": {
+    "message": "선 그리기"
+  },
+  "screenshot_editor_arrow": {
+    "message": "화살표 그리기"
+  },
+  "screenshot_editor_pen": {
+    "message": "자유 그리기"
+  },
+  "screenshot_editor_color": {
+    "message": "선 색상"
+  },
+  "screenshot_editor_stroke_width": {
+    "message": "선 두께"
+  },
+  "pro": {
+    "message": "--------------------------------------------------------"
+  },
+  "pro_modale_h1": {
+    "message": "PRO가 되세요"
+  },
+  "pro_modale_h1_all_formats": {
+    "message": "비디오 캡처를 GIF 및 MP4 형식으로 변환"
+  },
+  "pro_modale_h1_devices": {
+    "message": "모든 기기 시뮬레이션"
+  },
+  "pro_modale_h1_settings": {
+    "message": "모든 설정 잠금 해제"
+  },
+  "pro_modale_h1_screencast": {
+    "message": "모든 비디오 녹화 설정 잠금 해제"
+  },
+  "pro_modale_h1_ads": {
+    "message": "광고 제거"
+  },
+  "pro_modale_h1_image_editor": {
+    "message": "캡처 편집"
+  },
+  "pro_modale_h1_unlimited_screenshots": {
+    "message": "무제한 스크린샷 찍기"
+  },
+  "pro_modale_h2": {
+    "message": "PRO가 되어 이 확장 프로그램의 개발을 적극적으로 지원하고 개발자를 지원하세요."
+  },
+  "pro_modale_billed_annualy": {
+    "message": "연간 청구"
+  },
+  "pro_modale_savings": {
+    "message": "절약"
+  },
+  "pro_modale_from": {
+    "message": "부터"
+  },
+  "pro_modale_recurring_month": {
+    "message": "월"
+  },
+  "pro_modale_button": {
+    "message": "구독하기"
+  },
+  "pro_modale_link_1": {
+    "message": "또는"
+  },
+  "pro_modale_link_2": {
+    "message": "로그인"
+  },
+  "pro_modale_link_3": {
+    "message": "구독 계정으로"
+  },
+  "pro_modale_avantage_1": {
+    "message": "모든 비디오 설정"
+  },
+  "pro_modale_avantage_2": {
+    "message": "다중 장치 비교"
+  },
+  "sharing": {
+    "message": "--------------------------------------------------------"
+  },
+  "sharing_h1": {
+    "message": "이 모바일 시뮬레이터가 유용한가요?"
+  },
+  "sharing_h2": {
+    "message": "그렇다면 동료나 친구와 공유하세요"
+  },
+  "sharing_txt": {
+    "message": "모바일 및 태블릿에서 사이트를 테스트하기 위한 시뮬레이터"
+  },
+  "sharing_review_1": {
+    "message": "그리고 시간이 있다면"
+  },
+  "sharing_review_2": {
+    "message": "리뷰를 추가하세요"
+  },
+  "sharing_review_3": {
+    "message": "그럼 정말 기쁠 것입니다! 🙂"
+  },
+  "sharing_review_button": {
+    "message": "리뷰 추가하기"
+  },
+  "other_extensions": {
+    "message": "--------------------------------------------------------"
+  },
+  "other_extensions_h1": {
+    "message": "새로운 무료 확장 프로그램을 확인하세요"
+  },
+  "other_extensions_color_picker_title": {
+    "message": "컬러 피커"
+  },
+  "other_extensions_color_picker_description": {
+    "message": "이 확장 프로그램은 화면의 어떤 색상이든 캡처할 수 있게 해줍니다."
+  },
+  "other_extensions_font_finder_title": {
+    "message": "폰트 파인더"
+  },
+  "other_extensions_font_finder_description": {
+    "message": "웹 페이지의 어떤 텍스트에서든 사용된 폰트를 클릭 한 번으로 식별합니다."
+  },
+  "other_extensions_button": {
+    "message": "설치"
+  },
+  "review": {
+    "message": "--------------------------------------------------------"
+  },
+  "review_h1": {
+    "message": "이 확장을 어떻게 평가하시겠습니까?"
+  },
+  "review_note_store": {
+    "message": "귀하의 피드백에 감사드리며, 확장 프로그램 페이지에 평가를 추가해 주시면 매우 감사하겠습니다 😊"
+  },
+  "review_note_feedback": {
+    "message": "피드백 감사합니다. 이 확장을 개선할 수 있도록 메시지를 보내주세요."
+  },
+  "button_feedback": {
+    "message": "리뷰 추가"
+  },
+  "button_message": {
+    "message": "메시지 보내기"
+  },
+  "contact": {
+    "message": "--------------------------------------------------------"
+  },
+  "contact_message_field_name": {
+    "message": "기기 이름"
+  },
+  "contact_message_field_placeholder": {
+    "message": "Samsung Galaxy S24 Ultra, iPhone 17 Pro Max, 등."
+  },
+  "contact_title": {
+    "message": "찾고 있는 기기가 목록에 없나요? 알려주세요!"
+  },
+  "settings": {
+    "message": "--------------------------------------------------------"
+  },
+  "settings_h2_device": {
+    "message": "장치"
+  },
+  "settings_h2_global": {
+    "message": "일반"
+  },
+  "settings_hide_header_footer": {
+    "message": "장치의 브라우저 인터페이스 숨기기 (주소 표시줄 등)"
+  },
+  "settings_hide_keyboard": {
+    "message": "입력 시 키보드 나타남 시뮬레이션"
+  },
+  "settings_scrollbar_show": {
+    "message": "기기에서 기본 스크롤바 표시"
+  },
+  "settings_change_cursor": {
+    "message": "터치 스크롤 및 모바일 커서 표시"
+  },
+  "settings_change_background": {
+    "message": "배경색 변경"
+  },
+  "settings_default_device": {
+    "message": "활성화 시 기본 단말기"
+  },
+  "settings_change_analytics": {
+    "message": "100% 익명 및 비개인적인 사용 데이터를 공유하여 개발자가 확장을 개선할 수 있도록 돕습니다."
+  },
+  "settings_device_hide": {
+    "message": "장치 프레임 표시"
+  },
+  "settings_batterie_level": {
+    "message": "기기 헤더의 배터리 수준 (%)"
+  },
+  "settings_device_default_url": {
+    "message": "기기에 표시된 URL 수정"
+  },
+  "settings_presenter_mode": {
+    "message": "프레젠테이션 모드 (오른쪽 메뉴는 마우스 오버 시에만 표시)"
+  },
+  "settings_fullscreen": {
+    "message": "기기에서 전체 화면 사이트"
+  },
+  "settings_default_device_placeholder": {
+    "message": "기기 선택"
+  },
+  "settings_video_quality": {
+    "message": "비디오 품질"
+  },
+  "settings_video_quality_low": {
+    "message": "중간"
+  },
+  "settings_video_quality_medium": {
+    "message": "좋음"
+  },
+  "settings_video_quality_high": {
+    "message": "최상"
+  },
+  "settings_theme": {
+    "message": "테마"
+  },
+  "settings_theme_light": {
+    "message": "밝음"
+  },
+  "settings_theme_dark": {
+    "message": "어두움"
+  },
+  "settings_theme_auto": {
+    "message": "자동"
+  },
+  "settings_shortcuts": {
+    "message": "키보드 단축키 설정"
+  },
+  "settings_pro_account": {
+    "message": "내 구독 관리"
+  },
+  "settings_microphone": {
+    "message": "마이크"
+  },
+  "settings_camera": {
+    "message": "카메라"
+  },
+  "settings_countdown": {
+    "message": "카운트다운 (초)"
+  },
+  "settings_transparent_background": {
+    "message": "투명 배경"
+  },
+  "settings_transparent_background_info": {
+    "message": "이 옵션은 더 많은 계산을 필요로 하며, 따라서 컴퓨터에 따라 표시가 느려질 수 있습니다 (WEBM 및 GIF 형식과만 호환 가능)"
+  },
+  "screenshot_workaround": {
+    "message": "--------------------------------------------------------"
+  },
+  "screenshot_workaround_title": {
+    "message": "스크린샷 해결 방법"
+  },
+  "screenshot_workaround_context": {
+    "message": "컨텍스트"
+  },
+  "screenshot_workaround_context_text": {
+    "message": "일부 기술적 제한으로 인해 스크린샷을 찍을 때 이 오류 메시지를 받을 수 있습니다."
+  },
+  "screenshot_workaround_solution": {
+    "message": "해결 방법"
+  },
+  "screenshot_workaround_solution_text": {
+    "message": "이 경우 캡처를 시작하려면 페이지의 아무 곳이나 마우스 오른쪽 버튼을 클릭하고 \"모바일 시뮬레이터\"를 선택한 다음 \"📷 스크린샷 찍기\"를 선택하세요."
+  },
+  "feedback": {
+    "message": "--------------------------------------------------------"
+  },
+  "feedback_title": {
+    "message": "Mobile FIRST를 더 유용하게 만드는 데 도움을 주세요 🚀"
+  },
+  "feedback_profession": {
+    "message": "귀하의 직무 부서는 무엇입니까?"
+  },
+  "feedback_profession_developer": {
+    "message": "개발"
+  },
+  "feedback_profession_designer": {
+    "message": "디자인"
+  },
+  "feedback_profession_qa": {
+    "message": "테스트 / QA"
+  },
+  "feedback_profession_product": {
+    "message": "제품 관리"
+  },
+  "feedback_profession_marketing": {
+    "message": "마케팅"
+  },
+  "feedback_profession_sales": {
+    "message": "영업"
+  },
+  "feedback_profession_other": {
+    "message": "기타"
+  },
+  "feedback_company_type": {
+    "message": "귀하의 회사 유형은 무엇입니까?"
+  },
+  "feedback_company_type_freelance": {
+    "message": "프리랜서"
+  },
+  "feedback_company_type_micro_business": {
+    "message": "마이크로 비즈니스 (1-9명)"
+  },
+  "feedback_company_type_agency": {
+    "message": "소기업 (10-49명)"
+  },
+  "feedback_company_type_startup": {
+    "message": "중소기업 (50-249명)"
+  },
+  "feedback_company_type_pme": {
+    "message": "대기업 (250-4999명)"
+  },
+  "feedback_company_type_grandeentreprise": {
+    "message": "매우 큰 기업 / 그룹 (5000명 이상)"
+  },
+  "feedback_use_cases": {
+    "message": "Mobile FIRST를 사용하는 이유는 무엇입니까?"
+  },
+  "feedback_useCases_placeholder": {
+    "message": "내 사이트 테스트, 고객 데모 등..."
+  },
+  "feedback_frequency": {
+    "message": "이 확장을 얼마나 자주 사용하십니까?"
+  },
+  "feedback_frequency_quotidien": {
+    "message": "매일"
+  },
+  "feedback_frequency_plusieursfoisparsemaine": {
+    "message": "주 여러 번"
+  },
+  "feedback_frequency_occasionnel": {
+    "message": "가끔"
+  },
+  "feedback_frequency_rare": {
+    "message": "드물게"
+  },
+  "feedback_improvements": {
+    "message": "어떤 개선 사항을 보고 싶으신가요?"
+  },
+  "feedback_improvements_placeholder": {
+    "message": "아이디어, 불편함, 부족한 점..."
+  },
+  "feedback_submit": {
+    "message": "보내기"
+  },
+  "feedback_close": {
+    "message": "응답하지 않기"
+  },
+  "feedback_error_required": {
+    "message": "모든 필드가 비어 있습니다 🤔"
+  },
+  "feedback_submitted": {
+    "message": "피드백 감사합니다 🤗"
+  },
+  "select": {
+    "message": "선택..."
+  },
+  "modales": {
+    "message": "--------------------------------------------------------"
+  },
+  "new_video_feature_h1": {
+    "message": "새로운 비디오 캡처 기능을 지금 바로 확인하세요!"
+  },
+  "new_video_feature_h2": {
+    "message": "더 나은 품질로 녹화하고, 새로운 옵션과 투명한 배경을 제공합니다"
+  },
+  "logout_modale_title": {
+    "message": "이 기기에서 자동으로 로그아웃되었습니다."
+  },
+  "logout_modale_message": {
+    "message": "이 기기는 더 이상 승인된 기기 목록에 포함되지 않습니다. 이 접근을 수동으로 제거한 경우, 다시 로그인해야 합니다."
+  },
+  "notifications": {
+    "message": "--------------------------------------------------------"
+  },
+  "notification_update_title_vwelcome": {
+    "message": "<strong class='mb-2 is-block'>Mobile FIRST에 오신 것을 환영합니다 👋</strong>한 번의 클릭으로 전화, 태블릿 및 컴퓨터를 시뮬레이션하여 사이트를 간단히 테스트하고 시각화하세요.<br><br><strong>메뉴는 오른쪽에 있습니다 ➡️</strong>"
+  },
+  "notification_update_title_v4_14_5": {
+    "message": "<strong class='mb-2 is-block'>업데이트 v4.14.5</strong>스크린샷의 <strong>해상도와 품질</strong>이 크게 향상되었습니다 <i class='mdi'>&#xe903;</i>"
+  },
+  "logout_modale_button": {
+    "message": "로그인"
+  },
+  "logout_modale_message_2": {
+    "message": "ℹ️ 구독을 공유하고 싶으신가요? 다른 사람을 승인하려면 계정의 \"사용자\" 섹션에서 추가하세요."
+  },
+  "logout_modale_message2": {
+    "message": "보안상의 이유로 계정에서 자동으로 로그아웃되었습니다. 하지만 아래 버튼을 클릭하여 다시 로그인할 수 있습니다."
+  },
+  "notification_update_title_v4_15_0": {
+    "message": "<strong class='mb-2 is-block'>업데이트 v4.15.0</strong>스마트폰 및 태블릿에 대한 <strong>터치 스크롤</strong> 활성화 <i class='mdi'>&#xe905;</i>"
+  },
+  "menu_add_window": {
+    "message": "창 추가"
+  },
+  "settings_sync_events": {
+    "message": "창 간 이벤트 동기화 (클릭, 스크롤 등)"
+  },
+  "pro_modale_h1_multi_devices": {
+    "message": "두 개 이상의 기기를 동시에 비교하세요"
+  },
+  "notification_update_title_v4_15_2": {
+    "message": "<strong class='mb-2 is-block'>업데이트 v4.15.0</strong>스마트폰 및 태블릿에 대한 <strong>터치 스크롤</strong> 활성화."
+  },
+  "settings_pro_account_past_due": {
+    "message": "구독 갱신에 실패했습니다. PRO 버전을 유지하려면 결제 정보를 업데이트하세요."
+  },
+  "notification_update_title_v4_15_5": {
+    "message": "<strong class='mb-2 is-block'>업데이트 v4.15.5</strong><ul><li><strong>로컬 파일</strong>에서 전체 페이지 스크린샷과 관련된 수정 사항.</li><li><strong>iOS&nbsp;26</strong>에서 vh, dhv, lvh, svh 단위와 관련된 수정 사항.</li></ul>"
+  },
+  "menu_active_devices": {
+    "message": "탭에 표시되는 기기"
+  },
+  "menu_favorites": {
+    "message": "<i class='mdi mdi-star favorites-icon is-size-6'></i> 즐겨찾기"
+  },
+  "menu_enable_comparison_mode": {
+    "message": "비교 모드 활성화"
+  },
+  "menu_disable_comparison_mode": {
+    "message": "비교 모드 비활성화"
+  },
+  "menu_custom_devices": {
+    "message": "<i class='mdi'>&#xe917;</i>&nbsp;&nbsp;내 사용자 정의 기기"
+  },
+  "menu_custom_devices_banner": {
+    "message": "사용자 정의 기기를 추가하세요!"
+  },
+  "custom_device_title": {
+    "message": "사용자 정의 기기 추가"
+  },
+  "custom_device_add": {
+    "message": "사용자 정의 기기 추가"
+  },
+  "custom_device_name": {
+    "message": "기기 이름"
+  },
+  "custom_device_ua_preset": {
+    "message": "User agent"
+  },
+  "custom_device_ua_custom": {
+    "message": "사용자 정의 user agent"
+  },
+  "custom_device_ua": {
+    "message": "User agent 문자열"
+  },
+  "custom_device_os_name": {
+    "message": "운영 체제"
+  },
+  "custom_device_os_version": {
+    "message": "OS 버전"
+  },
+  "custom_device_width": {
+    "message": "뷰포트 너비 (px)"
+  },
+  "custom_device_height": {
+    "message": "뷰포트 높이 (px)"
+  },
+  "custom_device_dpr": {
+    "message": "기기 픽셀 비율"
+  },
+  "custom_device_network": {
+    "message": "네트워크"
+  },
+  "custom_device_more": {
+    "message": "더 많은 설정"
+  },
+  "custom_device_less": {
+    "message": "적은 설정"
+  },
+  "custom_device_submit": {
+    "message": "추가"
+  },
+  "custom_device_error_name": {
+    "message": "기기 이름은 필수입니다."
+  },
+  "custom_device_error_ua": {
+    "message": "User agent는 필수입니다."
+  },
+  "custom_device_error_os": {
+    "message": "운영 체제는 필수입니다."
+  },
+  "custom_device_error_viewport": {
+    "message": "뷰포트의 너비와 높이는 10에서 4096 사이여야 합니다."
+  },
+  "notification_update_title_v4_16_0": {
+    "message": "<strong class='mb-2 is-block'>업데이트 v4.16.0</strong>사용자 정의 기기를 생성할 수 있는 기능 추가 <i class='mdi'>&#xe917;</i>"
+  },
+  "new_comparison_feature_h1": {
+    "message": "지금 바로 여러 기기 비교의 새로운 기능을 확인하세요!"
+  },
+  "new_comparison_feature_h2": {
+    "message": "동일한 창에서 여러 기기의 디스플레이를 동시에 비교하세요. 스크롤, 클릭, 키보드가 동기화됩니다."
+  },
+  "try_it": {
+    "message": "지금 시도하기"
+  },
+  "menu_close_window": {
+    "message": "이 창 닫기"
+  },
+  "notification_update_title_v4_17_0": {
+    "message": "<strong class='mb-2 is-block'>업데이트 v4.17.0</strong>여러 기기를 동시에 비교하는 기능 추가! <i class='mdi'>&#xe917;</i>"
+  },
+  "screencast_firefox_select_tab": {
+    "message": "올바르게 프레임을 맞추려면 현재 창(전체 화면이 아닌)을 공유하세요."
+  },
+  "latest_updates": {
+    "message": "최신 업데이트"
+  },
+  "see_more": {
+    "message": "더 보기"
+  },
+  "see_less": {
+    "message": "간략히 보기"
+  },
+  "update_tag_new": {
+    "message": "NEW"
+  },
+  "update_tag_feature": {
+    "message": "기능"
+  },
+  "update_tag_improvement": {
+    "message": "개선"
+  },
+  "update_tag_fix": {
+    "message": "수정"
+  },
+  "update_4_19_0_title": {
+    "message": "6개의 새로운 Android 기기"
+  },
+  "update_4_19_0_description": {
+    "message": "3개의 Google Pixel 10 모델, Motorola Razr 70 Ultra, Infinix Hot 70 및 Samsung Galaxy A17."
+  },
+  "update_4_17_0_title": {
+    "message": "기기 비교"
+  },
+  "update_4_17_0_description": {
+    "message": "여러 기기를 동시에 나란히 비교하세요. 클릭, 스크롤 및 키보드가 동기화됩니다."
+  },
+  "update_4_16_0_title": {
+    "message": "맞춤형 기기"
+  },
+  "update_4_16_0_description": {
+    "message": "이제 특정 크기의 기기를 추가할 수 있습니다."
+  },
+  "update_4_15_5_title": {
+    "message": "수정 사항"
+  },
+  "update_4_15_5_description": {
+    "message": "로컬 파일에서 전체 페이지 캡처 및 iOS 26의 디스플레이 단위 수정(vh, dhv, lvh, svh)."
+  },
+  "update_4_15_0_title": {
+    "message": "터치 스크롤"
+  },
+  "update_4_15_0_description": {
+    "message": "스마트폰 및 태블릿에서 터치 스크롤 활성화."
+  },
+  "update_4_14_5_title": {
+    "message": "더 선명한 캡처"
+  },
+  "update_4_14_5_description": {
+    "message": "스크린샷의 해상도와 품질이 크게 향상되었습니다."
+  },
+  "pro_modale_toggle_annual": {
+    "message": "연간"
+  },
+  "pro_modale_toggle_monthly": {
+    "message": "월간"
+  },
+  "pro_modale_trial_after_days": {
+    "message": "7일 무료 체험 후"
+  },
+  "pro_modale_trial_button": {
+    "message": "7일 무료 체험 시작하기"
+  },
+  "pro_modale_trial_h1": {
+    "message": "PRO 버전을 7일 동안 무료로 체험해보세요"
+  },
+  "pro_modale_trial_note": {
+    "message": "오늘 결제 없음 · 약정 없음, 언제든지 취소 가능"
+  },
+  "pro_modale_trial_then": {
+    "message": "그 후"
+  },
+  "pro_modale_trial_today": {
+    "message": "오늘"
+  },
+  "settings_pwa_auto_detect": {
+    "message": "PWA를 자동으로 감지하고 모바일 애플리케이션으로 표시합니다."
+  },
+  "settings_title": {
+    "message": "설정"
+  },
+  "settings_nav_device": {
+    "message": "장치"
+  },
+  "settings_nav_appearance": {
+    "message": "외관"
+  },
+  "settings_nav_account": {
+    "message": "계정"
+  },
+  "settings_os_display": {
+    "message": "OS 디스플레이"
+  },
+  "settings_os_display_full_desc": {
+    "message": "OS 상태 표시줄과 브라우저(주소 표시줄)를 표시합니다."
+  },
+  "settings_os_display_no_browser_desc": {
+    "message": "브라우저를 숨기지만 OS 상태 표시줄은 유지합니다."
+  },
+  "settings_os_display_no_os_desc": {
+    "message": "OS 상태 표시줄과 브라우저를 숨깁니다."
+  },
+  "settings_h2_display": {
+    "message": "전체 디스플레이"
+  },
+  "settings_h2_customization": {
+    "message": "맞춤 설정"
+  },
+  "settings_h2_multiwindow": {
+    "message": "다중 창 모드"
+  },
+  "settings_h2_pwa": {
+    "message": "PWA"
+  },
+  "settings_account_cta_title": {
+    "message": "계정에 액세스"
+  },
+  "settings_account_cta_subtitle": {
+    "message": "PRO 버전을 잠금 해제하려면 가입하거나 이미 계정이 있는 경우 로그인하세요."
+  },
+  "settings_signup_button": {
+    "message": "가입하기"
+  },
+  "settings_login_button": {
+    "message": "로그인"
+  },
+  "settings_subscribe": {
+    "message": "PRO 버전 잠금 해제"
+  },
+  "settings_subscribe_button": {
+    "message": "구독하기"
+  },
+  "settings_pro_account_cancel_at_period_end": {
+    "message": "귀하의 구독은 다음 날짜에 종료됩니다"
+  },
+  "settings_pro_account_reactivate": {
+    "message": "내 구독 재활성화"
+  },
+  "settings_account_greeting": {
+    "message": "안녕하세요 $1,"
+  },
+  "simulator_framing_blocked": {
+    "message": "$1은(는) 다른 페이지 내에서 페이지 표시를 허용하지 않습니다: 사이트는 Firefox에서 시뮬레이션될 수 없습니다."
+  },
+  "settings_device_forced_time": {
+    "message": "장치에 표시된 시간 강제 설정"
+  },
+  "settings_device_forced_time_reset": {
+    "message": "현재 시간으로 복귀"
+  },
+  "device_variant_folded": {
+    "message": "접힘"
+  },
+  "device_variant_unfolded": {
+    "message": "펼침"
+  },
+  "update_4_21_0_title": {
+    "message": "4개의 새로운 아이폰"
+  },
+  "update_4_21_0_description": {
+    "message": "iPhone 18 Pro, iPhone 18 Pro Max 및 접이식 iPhone Duo, 접힌 버전과 펼쳐진 버전."
+  },
+  "update_4_22_0_title": {
+    "message": "Live device를 발견하세요"
+  },
+  "update_4_22_0_description": {
+    "message": "클라우드에 호스팅된 iOS 또는 Android 기기에서 사이트를 실행하고 탭에서 직접 제어하세요."
+  },
+  "device_mockup_blocked_title": {
+    "message": "장치 목업을 사용할 수 없음"
+  },
+  "device_mockup_blocked": {
+    "message": "장치의 시각적 표현을 로드할 수 없습니다. 이는 광고 차단기 또는 회사의 보안 정책 때문일 수 있습니다. 시뮬레이터는 여전히 완전히 사용 가능하며, 목업만 표시되지 않습니다."
+  },
+  "pro_modale_h1_real_simulation": {
+    "message": "클라우드에서 실제 기기로 사이트 테스트하기"
+  },
+  "settings_nav_cloud_devices": {
+    "message": "Live device"
+  },
+  "settings_display_real_simulation_info": {
+    "message": "Live device 세션 중에는 디스플레이 사용자 정의 설정이 활성화되지 않습니다."
+  },
+  "menu_real_simulation_on": {
+    "message": "실제 기기에서 시작"
+  },
+  "menu_real_simulation_off": {
+    "message": "로컬 시뮬레이션으로 돌아가기"
+  },
+  "real_simulation_starting": {
+    "message": "실제 기기에 연결 중…"
+  },
+  "real_simulation_remaining": {
+    "message": "이번 달 남은 시간: $1분"
+  },
+  "real_simulation_quota_exceeded": {
+    "message": "이번 달 실제 기기 사용 시간을 모두 소진했습니다. 로컬 시뮬레이션은 계속 사용할 수 있습니다."
+  },
+  "real_simulation_login_required": {
+    "message": "실제 기기에서 사이트를 시작하려면 Mobile FIRST 계정에 로그인하세요."
+  },
+  "real_simulation_local_title": {
+    "message": "이 사이트는 실제 기기가 접근할 수 없는 로컬 서버에서 실행 중입니다."
+  },
+  "real_simulation_local_text": {
+    "message": "아래 명령어와 같은 터널을 사용하여 노출한 후, 얻은 공개 주소를 붙여넣으세요."
+  },
+  "real_simulation_local_placeholder": {
+    "message": "https://exemple.trycloudflare.com"
+  },
+  "real_simulation_local_invalid": {
+    "message": "로컬 주소가 아닌 공개 주소를 입력하세요."
+  },
+  "real_simulation_local_start": {
+    "message": "이 터널을 통해 시작"
+  },
+  "real_simulation_local_help": {
+    "message": "터널을 만드는 방법?"
+  },
+  "real_simulation_tunnel_modale_title": {
+    "message": "실제 기기에서 로컬 사이트 테스트하기"
+  },
+  "real_simulation_tunnel_modale_baseline": {
+    "message": "실제 기기는 클라우드에서 실행됩니다: 기기는 귀하의 컴퓨터를 볼 수 없습니다. 터널은 테스트 동안 로컬 서버에 임시 공개 주소를 제공합니다."
+  },
+  "real_simulation_tunnel_step_install": {
+    "message": "cloudflared 설치"
+  },
+  "real_simulation_tunnel_linux_note": {
+    "message": "Debian / Ubuntu (x86_64) 명령어. 다른 배포판:"
+  },
+  "real_simulation_tunnel_downloads": {
+    "message": "다운로드"
+  },
+  "real_simulation_tunnel_step_run": {
+    "message": "로컬 서버로 터널 실행"
+  },
+  "real_simulation_tunnel_step_paste": {
+    "message": "터미널에 터널 주소 복사"
+  },
+  "real_simulation_tunnel_step_paste_note": {
+    "message": "몇 초 후, \"<em>Your quick Tunnel has been created!</em>\"라는 프레임이 나타납니다. 포함된 주소를 <strong>https://…trycloudflare.com</strong> 형식으로 복사하여 기기의 필드에 붙여넣으세요."
+  },
+  "real_simulation_tunnel_tip_logs": {
+    "message": "주변의 많은 <code>INF</code> 라인은 정상입니다: 기술 정보이며 무시해도 됩니다."
+  },
+  "real_simulation_tunnel_tip_delay": {
+    "message": "주소는 생성 후 최대 1분까지 응답할 수 있습니다: 기기가 오류를 표시하면 기다렸다가 다시 시도하세요."
+  },
+  "real_simulation_tunnel_tip_terminal": {
+    "message": "테스트 동안 터미널을 열어두세요: 터널은 닫거나 <code>Ctrl</code> + <code>C</code>를 누르면 중지됩니다. 매번 실행 시 새로운 주소가 생성됩니다."
+  },
+  "real_simulation_tunnel_step_hosts": {
+    "message": "페이지가 차단되면 터널 주소를 허용하세요"
+  },
+  "real_simulation_tunnel_step_hosts_note": {
+    "message": "개발 서버는 알 수 없는 호스트 이름을 거부합니다. Vite에서는 vite.config에 추가하고, webpack-dev-server에서는 allowedHosts: 'all'을 사용하세요."
+  },
+  "real_simulation_tunnel_free_title": {
+    "message": "무료 및 계정 불필요."
+  },
+  "real_simulation_tunnel_free_text": {
+    "message": "Cloudflare의 Quick Tunnels는 등록이 필요하지 않습니다. 주소는 매번 실행 시 변경되며 테스트에만 사용되고, 프로덕션에는 사용되지 않습니다."
+  },
+  "real_simulation_tunnel_docs": {
+    "message": "Cloudflare 문서"
+  },
+  "real_simulation_tunnel_done": {
+    "message": "이해했습니다"
+  },
+  "real_simulation_tunnel_copy": {
+    "message": "복사"
+  },
+  "real_simulation_session_ended": {
+    "message": "비활성 상태 후 실제 기기 세션이 종료되었습니다."
+  },
+  "real_simulation_max_duration": {
+    "message": "실제 기기 세션이 최대 지속 시간에 도달했습니다. 테스트를 계속하려면 새로 시작하세요."
+  },
+  "real_simulation_session_revoked": {
+    "message": "여러 위치에서 동시에 열려 있어 실제 기기 세션이 중단되었습니다."
+  },
+  "real_simulation_error": {
+    "message": "실제 기기에 연결할 수 없습니다. 연결을 확인하고 다시 시도하세요."
+  },
+  "real_simulation_disabled": {
+    "message": "실제 기기 시뮬레이션이 일시적으로 비활성화되었습니다. 가능한 한 빨리 복구하기 위해 작업 중이니 나중에 다시 시도하세요."
+  },
+  "real_simulation_retry": {
+    "message": "다시 시도"
+  },
+  "real_simulation_title": {
+    "message": "Live device 시뮬레이션"
+  },
+  "real_simulation_baseline": {
+    "message": "시뮬레이터에서 설계하고 Live device에서 마무리하세요"
+  },
+  "real_simulation_learn_more": {
+    "message": "자세히 알아보기"
+  },
+  "real_simulation_os_version": {
+    "message": "버전 $1"
+  },
+  "real_simulation_geolocation": {
+    "message": "위치"
+  },
+  "real_simulation_inactivity_timeout": {
+    "message": "비활성 상태 시 자동 종료"
+  },
+  "real_simulation_inactivity_ended": {
+    "message": "실제 기기 세션이 $1 비활성 상태 후 종료되었습니다."
+  },
+  "real_simulation_location_default": {
+    "message": "파리"
+  },
+  "real_simulation_start": {
+    "message": "클라우드 시뮬레이터 시작"
+  },
+  "real_simulation_local_url": {
+    "message": "실제 시뮬레이션은 http(s) 웹 페이지가 필요합니다. 로컬 파일에서는 작동하지 않습니다."
+  },
+  "real_simulation_local_server": {
+    "message": "이 사이트는 로컬 서버에서 실행 중입니다: 시작 시, 터널(cloudflared, ngrok…)을 통해 인터넷에 노출하라는 메시지가 표시됩니다."
+  },
+  "real_simulation_device_unavailable": {
+    "message": "이 기기는 실제 시뮬레이션에서 사용할 수 없습니다."
+  },
+  "real_simulation_device_unavailable_link": {
+    "message": "호환 가능한 기기 보기"
+  },
+  "real_simulation_pro_only": {
+    "message": "실제 기기 시뮬레이션은 유료 플랜에서만 사용할 수 있습니다."
+  },
+  "real_simulation_usage": {
+    "message": "사용량"
+  },
+  "real_simulation_usage_detail": {
+    "message": "$3 플랜의 $2 분 중 $1 분을 사용했습니다."
+  },
+  "real_simulation_more_minutes": {
+    "message": "더 많은 분이 필요하신가요?"
+  },
+  "real_simulation_usage_error": {
+    "message": "사용량을 가져올 수 없습니다."
+  },
+  "real_simulation_modale_kicker": {
+    "message": "LIVE DEVICE"
+  },
+  "real_simulation_modale_live": {
+    "message": "실시간"
+  },
+  "real_simulation_modale_h1": {
+    "message": "시뮬레이터에서 설계하고 실제 환경에서 마무리하세요"
+  },
+  "real_simulation_modale_h2": {
+    "message": "시뮬레이터는 모든 화면 형식에서 빠르게 설계하고 반복하는 데 이상적인 도구로 남아 있습니다.<br>확인할 때, Live device는 클라우드에 호스팅된 iOS 또는 Android 장치와 함께 귀하의 탭에서 직접 제어할 수 있습니다."
+  },
+  "real_simulation_modale_feature_os_title": {
+    "message": "진짜 렌더링 엔진."
+  },
+  "real_simulation_modale_feature_os": {
+    "message": "Safari WebKit 및 Chrome Android 네이티브로, 표시 문제를 식별합니다."
+  },
+  "real_simulation_modale_feature_gestures_title": {
+    "message": "진정한 모바일 OS의 모든 기능"
+  },
+  "real_simulation_modale_feature_gestures": {
+    "message": "네이티브 폼 필드, 시스템 키보드 및 사용자 지정 GPS 위치."
+  },
+  "real_simulation_modale_feature_devices_title": {
+    "message": "$1 기기가 몇 초 만에 준비됩니다."
+  },
+  "real_simulation_modale_feature_devices": {
+    "message": "최신 iPhone부터 가장 널리 사용되는 Android까지."
+  },
+  "real_simulation_modale_devices_list": {
+    "message": "목록 보기"
+  },
+  "real_simulation_devices_modale_title": {
+    "message": "호환 가능한 기기"
+  },
+  "real_simulation_devices_modale_baseline": {
+    "message": "시뮬레이터의 $1 기기는 실제 시뮬레이션에서 실행할 수 있습니다. 나머지는 로컬 시뮬레이션에서 사용할 수 있습니다."
+  },
+  "real_simulation_modale_quota": {
+    "message": "<strong>$1 분</strong> / 월이 <strong>$2</strong> 플랜에 포함됩니다."
+  },
+  "real_simulation_modale_other_plans": {
+    "message": "다른 플랜 보기"
+  },
+  "real_simulation_modale_benefit_minutes": {
+    "message": "월 10분 Live Device"
+  },
+  "real_simulation_modale_benefit_minutes_rest": {
+    "message": "Starter부터 포함"
+  },
+  "real_simulation_modale_login_question": {
+    "message": "이미 구독하셨나요?"
+  },
+  "real_simulation_modale_login_link": {
+    "message": "로그인"
+  },
+  "real_simulation_modale_benefit_pro": {
+    "message": "+ 모든 PRO 기능"
+  },
+  "real_simulation_modale_benefit_pro_rest": {
+    "message": "(기기, 설정,..)"
+  },
+  "real_simulation_modale_see_plans": {
+    "message": "플랜 보기"
+  },
+  "real_simulation_modale_from": {
+    "message": "부터"
+  },
+  "real_simulation_modale_per_month": {
+    "message": "/ 월"
+  },
+  "real_simulation_continue_tests": {
+    "message": "테스트 계속하기"
+  },
+  "real_simulation_trial_title": {
+    "message": "시험 기간 동안 포함되지 않음"
+  },
+  "real_simulation_trial_note": {
+    "message": "실제 기기 시뮬레이션은 시험 기간 동안 사용할 수 없습니다. 구독 시작 시 분이 제공됩니다."
+  },
+  "real_simulation_legacy_plan_title": {
+    "message": "새로운 플랜으로 전환"
+  },
+  "real_simulation_legacy_plan_note": {
+    "message": "이전 유료 플랜에는 실제 기기 시뮬레이션이 포함되어 있지 않습니다. 이 기능을 사용하려면 새로운 플랜 중 하나로 전환하세요."
+  },
+  "real_simulation_legacy_plan_upgrade": {
+    "message": "내 구독 업그레이드"
+  },
+  "real_simulation_quota_consumed": {
+    "message": "사용 가능한 $1 분을 모두 사용했습니다."
+  },
+  "real_simulation_quota_reset": {
+    "message": "사용 제한은 <strong>$1</strong>에 재설정됩니다."
+  },
+  "real_simulation_upgrade_plan": {
+    "message": "$1 · $2 분/월"
+  },
+  "real_simulation_upgrade_per_month": {
+    "message": " /월"
+  },
+  "real_simulation_upgrade_renew": {
+    "message": "매월 분 갱신"
+  },
+  "real_simulation_upgrade_extra": {
+    "message": "$2 대신 분당 $1"
+  },
+  "real_simulation_upgrade_cta": {
+    "message": "업그레이드"
+  },
+  "real_simulation_contact_us": {
+    "message": "문의하기"
+  },
+  "real_simulation_contact": {
+    "message": "연락처"
+  },
+  "real_simulation_contact_team_admin": {
+    "message": "추가 분을 얻으려면 팀 관리자에게 문의하세요."
+  },
+  "real_simulation_location_change": {
+    "message": "GPS 위치 변경"
+  },
+  "real_simulation_location_title": {
+    "message": "GPS 위치"
+  },
+  "real_simulation_location_search": {
+    "message": "주소, 도시 또는 좌표"
+  },
+  "real_simulation_location_results": {
+    "message": "결과"
+  },
+  "real_simulation_location_coordinates": {
+    "message": "좌표로 이동"
+  },
+  "real_simulation_location_no_result": {
+    "message": "장소를 찾을 수 없습니다."
+  },
+  "real_simulation_location_search_error": {
+    "message": "현재 검색을 사용할 수 없습니다. 지도의 핀을 놓을 수 있습니다."
+  },
+  "real_simulation_location_selected": {
+    "message": "선택된 지점"
+  },
+  "real_simulation_location_custom": {
+    "message": "사용자 정의 위치"
+  },
+  "real_simulation_location_latitude": {
+    "message": "위도"
+  },
+  "real_simulation_location_longitude": {
+    "message": "경도"
+  },
+  "real_simulation_location_recents": {
+    "message": "최근"
+  },
+  "real_simulation_location_zoom_in": {
+    "message": "확대"
+  },
+  "real_simulation_location_zoom_out": {
+    "message": "축소"
+  },
+  "real_simulation_location_recenter": {
+    "message": "지점으로 다시 중심 맞추기"
+  },
+  "real_simulation_location_hint": {
+    "message": "핀을 클릭하거나 드래그하세요"
+  },
+  "real_simulation_location_cancel": {
+    "message": "취소"
+  },
+  "real_simulation_location_apply": {
+    "message": "위치 적용"
+  },
+  "real_simulation_or": {
+    "message": "또는"
+  },
+  "real_simulation_buy_minutes_title": {
+    "message": "$1 분 구매"
+  },
+  "real_simulation_buy_minutes_validity": {
+    "message": "구독 없이 $1개월 동안 유효"
+  },
+  "real_simulation_buy_minutes_unit": {
+    "message": "분당 $1"
+  },
+  "real_simulation_buy_minutes_card": {
+    "message": "저장된 카드: $1"
+  },
+  "real_simulation_buy_minutes_subtotal": {
+    "message": "소계 (세금 별도)"
+  },
+  "real_simulation_buy_minutes_tax": {
+    "message": "세금 ($1)"
+  },
+  "real_simulation_buy_minutes_total": {
+    "message": "합계 (세금 포함)"
+  },
+  "real_simulation_buy_minutes_pay": {
+    "message": "$1 결제"
+  },
+  "real_simulation_buy_minutes_secure": {
+    "message": "은행에서 새 탭에서 결제를 확인하도록 요청할 수 있습니다."
+  },
+  "real_simulation_buy_minutes_cancel": {
+    "message": "취소"
+  },
+  "real_simulation_buy_minutes_retry": {
+    "message": "다시 시도"
+  },
+  "real_simulation_buy_minutes_success": {
+    "message": "$1 분이 계정에 추가되었습니다."
+  },
+  "real_simulation_buy_minutes_no_card": {
+    "message": "계정에 저장된 신용카드가 없습니다."
+  },
+  "real_simulation_buy_minutes_add_card": {
+    "message": "카드 추가"
+  },
+  "real_simulation_buy_minutes_not_eligible": {
+    "message": "분 구매는 활성 구독에만 가능합니다."
+  },
+  "real_simulation_buy_minutes_in_progress": {
+    "message": "결제가 이미 확인 중입니다. 완료하거나 몇 분 기다려 주세요."
+  },
+  "real_simulation_buy_minutes_processing": {
+    "message": "결제가 처리 중입니다: 확인되면 분이 추가됩니다."
+  },
+  "real_simulation_buy_minutes_canceled": {
+    "message": "결제가 취소되었습니다. 금액이 청구되지 않았습니다."
+  },
+  "real_simulation_buy_minutes_declined": {
+    "message": "은행에서 결제가 거부되었습니다. 금액이 청구되지 않았습니다."
+  },
+  "real_simulation_buy_minutes_auth_failed": {
+    "message": "결제 확인에 실패했습니다. 금액이 청구되지 않았습니다."
+  },
+  "real_simulation_buy_minutes_error": {
+    "message": "결제를 완료할 수 없습니다. 잠시 후 다시 시도하세요."
+  },
+  "real_simulation_buy_minutes_close": {
+    "message": "닫기"
+  },
+  "real_simulation_buy_minutes_invoice": {
+    "message": "청구서 보기"
+  },
+  "real_simulation_buy_minutes_invoice_notice": {
+    "message": "각 구매에 대해 청구서가 발행됩니다."
+  },
+  "real_simulation_buy_minutes_team_member": {
+    "message": "계정의 분은 관리자가 관리합니다. 충전을 위해 관리자에게 문의하세요:"
+  },
+  "real_simulation_buy_minutes_team_member_no_email": {
+    "message": "계정의 분은 관리자가 관리합니다. 충전을 위해 관리자에게 문의하세요."
+  },
+  "real_simulation_buy_minutes_currency_unavailable": {
+    "message": "계정의 통화로는 분 구매가 불가능합니다. 문의하세요."
+  },
+  "menu_faq_detect_simulator": {
+    "message": "내 사이트가 시뮬레이터에 표시되고 있는지 어떻게 감지할 수 있나요?"
+  },
+  "shortcut_real_simulation": {
+    "message": "실제 기기에서 시뮬레이션 시작 / 중지"
+  },
+  "real_simulation_language": {
+    "message": "언어"
+  },
+  "real_simulation_location_resolving": {
+    "message": "위치 식별 중…"
+  },
+  "real_simulation_buy_minutes_change_card": {
+    "message": "수정"
+  },
+  "real_simulation_buy_minutes_update_card": {
+    "message": "결제 카드 수정"
+  },
+  "real_simulation_device_compatible": {
+    "message": "호환되는 Live Device"
+  },
+  "real_simulation_past_due_title": {
+    "message": "결제 대기 중"
+  },
+  "real_simulation_past_due_note": {
+    "message": "구독의 마지막 결제가 실패했습니다. 실제 기기 시뮬레이션 시간을 복원하려면 결제 수단을 업데이트하세요."
+  },
+  "real_simulation_past_due_team_note": {
+    "message": "팀 구독의 마지막 결제가 실패했습니다. 관리자가 결제를 정상화하면 실제 기기 시뮬레이션 시간이 복원됩니다."
+  },
+  "real_simulation_past_due_button": {
+    "message": "결제 업데이트"
+  }
+}
